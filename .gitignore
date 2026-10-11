@@ -1,0 +1,5 @@
+# 抓取的原始候选数据（中间产物，不入库）
+data/cache/
+__pycache__/
+*.pyc
+.venv/

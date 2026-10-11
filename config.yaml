@@ -1,0 +1,57 @@
+# AI 热点日报站配置
+
+site:
+  title: AI 热点日报
+  subtitle: 每天自动抓取全网 AI 热点，一键复制发社媒
+
+fetch:
+  candidate_count: 40      # 送去 LLM 精选的候选条数
+  max_age_hours: 36        # 只抓最近 N 小时内的内容
+  per_source_cap: 10       # 单一来源最多贡献的条数
+
+llm:
+  timeout: 240
+  # GLM 尝试顺序：base_url x model 组合，全部失败自动切 DeepSeek
+  glm:
+    key_envs: [GLM_API_KEY, ZAI_API_KEY, ZHIPUAI_API_KEY]
+    dsh_key: ZAI_CODING_CN_API_KEY
+    attempts:
+      - { base_url: "https://open.bigmodel.cn/api/paas/v4", model: glm-4.6 }
+      - { base_url: "https://open.bigmodel.cn/api/paas/v4", model: glm-4.5-flash }
+      - { base_url: "https://open.bigmodel.cn/api/coding/paas/v4", model: GLM-5.3-Flash }
+  deepseek:
+    key_envs: [DEEPSEEK_API_KEY]
+    dsh_key: DEEPSEEK_API_KEY
+    attempts:
+      - { base_url: "https://api.deepseek.com/v1", model: deepseek-chat }
+
+sources:
+  # ---- 中文源 ----
+  # 注：机器之心(RSS被WAF拦截)、36氪(feed已下线)不可用；
+  # 它们的文章会通过 Google News 中文源进入候选池
+  - name: 爱范儿
+    type: rss
+    url: https://www.ifanr.com/feed
+    direct: true           # 国内源强制直连（走代理会 SSL 失败）
+  - name: IT之家
+    type: rss
+    url: https://www.ithome.com/rss/
+    direct: true
+  - name: Google News AI中文
+    type: rss
+    url: "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+OR+%22AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%22+when:2d&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    google_news: true      # 标题形如"标题 - 媒体名"，自动拆出真实来源
+  # ---- 英文源 ----
+  - name: TechCrunch AI
+    type: rss
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+  - name: The Verge AI
+    type: rss
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+  - name: Hacker News
+    type: hn
+    queries: [AI, LLM]
+    min_points: 50
+  - name: Reddit r/MachineLearning
+    type: rss
+    url: https://www.reddit.com/r/MachineLearning/top/.rss?t=day
