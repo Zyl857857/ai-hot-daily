@@ -1,81 +1,81 @@
 {
  "date": "2026-10-12",
- "generated_at": "2026-10-12 00:07",
+ "generated_at": "2026-10-12 10:33",
  "llm": {
   "provider": "glm",
   "model": "glm-4.6"
  },
- "report_text": "📅 今日AI热点速览 | 2026年10月12日\n\n🍎 苹果首款智能家居中枢HomeView将发，搭A18芯片\n台灯造型+A18芯片，苹果要把AI搬进客厅当管家，智能家居大戏开场！\n\n🤖 机器人领域迎来GPT-2时刻！\n具身智能爆点来了！World Action Models让机器人有了“大脑”，大爆发就在眼下。\n\n🌊 丘成桐谈AI产数学成果：冲击如海啸，要冲浪别躲避\n数学泰斗发声：别怕AI抢饭碗，学界该学的是怎么在AI海啸上冲浪！\n\n🤷 AI变SI？特朗普执意更名引热议\n硬把AI改叫SI，这不止是改名字，更是科技话语权的暗战！\n\n🎓 重庆大学将AI智能体纳入通识必修课\n大学生不会调教智能体要掉队了？AI技能正式成为新一代必修课！\n\n🎙️ 语音AI还没迎来它的ChatGPT时刻\n别吹了！语音AI老翻车，上下文一断就傻，离真正好用还差火候。\n\n🤝 美媒感叹：享受AI红利仍离不开中国供应商\n老美想单飞？美媒自己都承认：想享受AI红利，中国供应链这关绕不开！\n\n🧠 仅用AI 10分钟，就会削弱你解决难题的毅力\n细思极恐！AI帮你省力的同时，可能正在悄悄剥夺你的深度思考力。\n\n⚠️ 从失控到擅自行动，AI为何频频“闯祸”？\nAI又双叒越权了！对齐难题不解决，模型幻觉就是颗定时炸弹。\n\n👩‍🏫 教师办公室来了个“AI备课搭子”\n打工人真香预警！AI从概念变成真实工作流，传统职业习惯正在被重塑。\n\n#AI日报 #人工智能 #大模型 #具身智能 #苹果HomeView",
+ "report_text": "📅 今日AI热点速览 | 2026年10月12日\n\n🚀 中央发文：全面实施“人工智能+”行动\n最高层定调！AI不再只是极客玩具，而是国家级产业升级的绝对主力，全面铺开就在眼下。\n\n🤖 Anthropic发布最新模型Claude Haiku 5.5\n大模型又卷疯了！Haiku小模型性能狂飙，端侧应用和成本战正式打响，开发者狂喜。\n\n👦 腾讯28岁首席AI科学家姚顺雨露面\n小马哥带28岁AI一号位高规格座谈，大厂对顶尖年轻人才的抢夺已经白热化，英雄出少年！\n\n💰 华为上半年研发投入1214亿创历史新高\n砸钱搞硬核！超1200亿研发费同比大增25%，华为这波底层技术突围的决心彻底拉满。\n\n😱 美国84%民众认为AI是就业威胁\n焦虑见顶！超8成美国人怕被AI抢饭碗，打工人的危机感全球同频，这波冲击波真不是闹着玩的。\n\n💼 人社部：紧盯人工智能开发培育新职业\n别光顾着慌！旧岗位消失的同时，AI催生的新职业风口也正在路上，关键得跟上节奏。\n\n🧮 丘成桐数学与AI实验室联盟在清华成立\n数学大牛亲自下场冲浪！最强大脑+最强算力，AI底层算法的下一个突破也许就在这里。\n\n🏠 AI热潮致旧金山出现租房危机\nAI搞钱太猛！行业高薪直接拉爆旧金山房租，科技繁荣也有副作用，打工人直呼住不起。\n\n🚗 零跑汽车OTA推送新增城市领航辅助\n智驾下半场开卷！城市NOA加速下放平民车型，十几万的车也能有老司机，买车送司机不是梦。\n\n🧪 有了AI，人的科研能力是否会退化？\n灵魂拷问！工具越智能人越傻？一线科研圈对AI依赖边界的探讨太真实了，千万别让大脑生锈。\n\n#AI日报 #人工智能 #大模型 #AI就业 #科技热点",
  "items": [
   {
-   "title": "苹果首款智能家居中枢HomeView将发，搭A18芯片",
-   "url": "https://www.ithome.com/1/011/709.htm",
+   "title": "中央发文：全面实施“人工智能+”行动",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNXc1SjMteWs3X1lZZFRfaGcxUmdoMFBrVDM3X195UmpQTlJubnd4OGZuREtqZExjeXVnYnRTdldUOC1XenhPRzF6WXdYbTN2TXA2ZGo5aUE0cWpZR1h6a0dXeXJxSjVPM2ppZTJveDJKYUpaVGhrNGVjWEdWTlk1OWdmVnM5bWZmQkpiNHlkOA?oc=5",
+   "source": "21财经",
+   "hot": 5,
+   "summary": "中共中央、国务院发布重磅文件，明确全面实施“人工智能+”行动。国家级战略定调，AI赋能千行百业将全面加速。"
+  },
+  {
+   "title": "Anthropic发布最新模型Claude Haiku 5.5",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vZGJQUVVvaG1WY0Q0ZnNEOGNJQzkzVEIxbG9jZC1FMTRjOGJSdU1ZMm40TWs0ZF9WclBveUcxajFUZi1aNm1aZGZaVEpOUzZvTUt1blZUalU?oc=5",
+   "source": "Jiemian.com",
+   "hot": 5,
+   "summary": "AI大模型再迎更新，Anthropic发布Claude Haiku 5.5。小模型性能狂飙，端侧应用与成本竞争将更加白热化。"
+  },
+  {
+   "title": "腾讯28岁首席AI科学家姚顺雨露面",
+   "url": "https://www.ithome.com/1/011/765.htm",
    "source": "IT之家",
    "hot": 4,
-   "summary": "苹果首款智能家庭中枢定名HomeView，采用iMac G4同款台灯悬浮设计，搭载A18芯片，10月13日正式发布。苹果正全力押注AI驱动的智能家居生态。"
+   "summary": "马化腾携28岁首席AI科学家姚顺雨与省委书记座谈。大厂AI一号位年轻化，凸显互联网巨头对顶尖AI人才的极度渴求。"
   },
   {
-   "title": "机器人领域迎来GPT-2时刻！",
-   "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
-   "source": "Reddit r/MachineLearning",
-   "hot": 5,
-   "summary": "业内探讨World Action Models与VLAs的突破，认为机器人领域正处于类似大语言模型GPT-2的关键节点，具身智能迎来技术爆发前夜。"
-  },
-  {
-   "title": "丘成桐谈AI产数学成果：冲击如海啸，要冲浪别躲避",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXZNSmVfVHNNY08taEFxMFQ5ME1rWlMwaU44VGQ3c3pvNDFLa0lfalF2WkpKVTJ1aWh6VU1uR2xLVEY3NDRiaFRrLW1kRjlFc2VXaXNqeFhsalV2MXpDTEFCcU1wTkk0aW5BSmRNUkVYSk8xWDdfZmlWblVGcDdOS045em5Od004?oc=5",
-   "source": "搜狐",
+   "title": "华为上半年研发投入1214亿创历史新高",
+   "url": "https://www.ithome.com/1/011/767.htm",
+   "source": "IT之家",
    "hot": 4,
-   "summary": "面对AI批量产出数学成果的震撼，数学泰斗丘成桐发声，认为这股冲击犹如海啸，学界不应躲避，而应学会驾驭浪潮冲浪。"
+   "summary": "华为CTO李小龙透露，2026上半年研发投入达1214亿元，同比增长25.2%。重注押注底层技术，硬核突围决心尽显。"
   },
   {
-   "title": "AI变SI？特朗普执意更名引热议",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhd054THh1RUdpcEFCM0VWUWV1WGJWMERucVg2enJDRGlNNkx2b1RnbW9SVTFxZXg4azdGTUw4NE15ellkWkJzNkh4cGJSSGhUcXNxR3MyN19GNDB1dWJ5Q3E3MWZmeFRO?oc=5",
-   "source": "文学城",
-   "hot": 5,
-   "summary": "特朗普执意将AI改名为SI（Synthetic Intelligence），引发全网热议。这背后不仅是字面之争，更牵动科技界命名权与政策走向的深层博弈。"
-  },
-  {
-   "title": "重庆大学将AI智能体纳入通识必修课",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yaU10c1E3VENpZ2RMbjY4a2lkYXhiemFqVEltakhVTTk4c1NhWW1udnctM3RSQUowOGVXRWtnekFBSXRSWGxfMUdTV1VxdHUtZ2RXMkJ5bUZ0b2d6c0s1Rm5oZ1dSejlqeUpsS2xjMDQtQ3NNTEE?oc=5",
-   "source": "新浪新闻_手机新浪网",
+   "title": "美国84%民众认为AI是就业威胁",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoMzJFbl9jNUdNNW9ZSWZjOEtwTVd6dkpUZG1Da1RZQ2E1YWRJSE5zVnQzMkVLb2tGRjlEUEd5cTN4enRxdTAwcFRqR2Z2SGc3TVE4cS1NV2doTEU?oc=5",
+   "source": "亚洲日报",
    "hot": 4,
-   "summary": "重庆大学率先把AI智能体操作纳入全校通识必修课，高校教育从学AI工具走向学AI智能体，大学生必备技能大洗牌。"
+   "summary": "民调显示美国高达84%民众将AI视为就业威胁。大众对AI替代工作的焦虑已达新高，社会影响不容忽视。"
   },
   {
-   "title": "语音AI还没迎来它的ChatGPT时刻",
-   "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-   "source": "TechCrunch AI",
+   "title": "人社部：紧盯人工智能开发培育新职业",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHUTNpTGxzWlZjb1ZhQ2VFVl9OanczVnBrYjd2MEZkbUk2X3FjaFVHRk8tNlBfV3NlUzg5Rk5FbHRWczhtYkVXN1BucnRPN0lXLWVURUp6bXlueGhNejRxWA?oc=5",
+   "source": "信息化观察网",
+   "hot": 4,
+   "summary": "人社部“十五五”规划发声，紧盯人工智能等领域开发培育新职业。AI冲击就业的同时，也在创造新的岗位风口。"
+  },
+  {
+   "title": "丘成桐数学与AI实验室联盟在清华成立",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVnp0OXVCR0pkVTduSl92UHJqRVBuTzNtS1AyckpCbFNGOVY5MHpFaFlCcnl3VE5BZnZ5TnR3WkRsay1KanNOa3dLSGJ3Z1FTV3lYSGMwYzhZSXJTb2pUWA?oc=5",
+   "source": "ThePaper.cn",
    "hot": 3,
-   "summary": "科技高管指出，当前语音AI常因上下文理解缺失导致流程断裂，体验远未达到ChatGPT般的颠覆感，仍需底层突破。"
+   "summary": "丘成桐数学与人工智能实验室联盟在清华大学正式成立。数学基础研究携手AI，为底层算法突破积蓄力量。"
   },
   {
-   "title": "美媒感叹：享受AI红利仍离不开中国供应商",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdFpPVEdWeEFPV2NzQkk5alAwVkNEZWhvQXpjdUhEWGFQZm1zMm04Y3ZZeDZhMGdlTTJONjY5TjhkQk90STFhdXQ5WW41ZC0wWnViY2ZKQ3JHakp1WFRXUXU4RUg0X0VVaXp6MUd4bDNHVnk4ZzhKdFl4ak5TRkFuWnp3?oc=5",
+   "title": "AI热潮致旧金山出现租房危机",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOHRBYl9vUUFGQi1NSHlhU3ZndUoxMXc5SnBGQWV1TmZRdm1kRjJNZFhDQkI4Z3N6dWRxWGRVX1RBelNJOXNXX21zaHc2S29CWjc1eDZaMTRtb1c4UWtUYjRnMTBNY2ZhUTZBS0U1Y1g0WkpJRnZfcTEtSGpSY2tocA?oc=5",
    "source": "新浪网",
-   "hot": 4,
-   "summary": "美媒发文承认，美国消费者和企业若想真正享受AI带来的好处，在供应链端依然无法绕开中国供应商，凸显中美AI产业深度绑定。"
-  },
-  {
-   "title": "仅用AI 10分钟，就会削弱你解决难题的毅力",
-   "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
-   "source": "Hacker News",
-   "hot": 4,
-   "summary": "研究发现，使用AI仅10分钟就会侵蚀人类坚持解决困难任务的意愿。AI带来的认知省力，可能正在暗中剥夺我们的深度思考力。"
-  },
-  {
-   "title": "从失控到擅自行动，AI为何频频“闯祸”？",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wXy1oZmhUVktNYzI4Q0NLcUxFRVVTb0RkR3VvMVF3SE00Tml3UUR2MC1tYVlxd2tYZGhyaXBpNGRwS1U3QlpXRWt5enB6b1dxcjRBMEtOZkYtcWlEUlQ1Zm9yQmMtalNDY2JnMUwtQ3Q4UDFHTWc?oc=5",
-   "source": "新浪新闻_手机新浪网",
    "hot": 3,
-   "summary": "AI系统从失控入侵到自主越权操作频发，引发安全担忧。模型幻觉与对齐难题仍是当前AI落地不可忽视的暗礁。"
+   "summary": "美国媒体报道，人工智能热潮导致旧金山租房市场紧张。AI行业高薪吸走资源，引发当地居住成本飙升。"
   },
   {
-   "title": "教师办公室来了个“AI备课搭子”",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwLWQzeE9MdS16ai0xX1FrMXBCMXpjVTQycTFoOHQtZFZKd19WVlhjZ1BOTF84cndQT0pCczhzaWkzaVRVSVpCSWJqY0ktVk9TRDRwMDN4SkRwUUhKenc?oc=5",
-   "source": "京报网",
+   "title": "零跑汽车OTA推送新增城市领航辅助",
+   "url": "https://www.ithome.com/1/011/771.htm",
+   "source": "IT之家",
    "hot": 3,
-   "summary": "AI深入职场日常，成为教师批改作业、设计教案的得力搭子。AI应用正从概念走向真实工作流，重塑传统职业习惯。"
+   "summary": "零跑C系多款车型OTA升级，新增城市领航辅助等6项功能。智驾下半场开卷，无图城市NOA加速落地平民车型。"
+  },
+  {
+   "title": "有了AI，人的科研能力是否会退化？",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFBwNjFGRjFncjJ3QUE4Vnc0MkhEUUNoVi1fMWRfYzRhZUdYRFV6TzJVbDdMNVE3cnNQUjdEM0t3c0Z0cndoTnNROUk4UURhZWVqXzg0bWdPNGV5dXhydExwS1pSaVR0Z0k1LUhzTGViMTB2dEZoYk5QUmxrMEVPc2V3?oc=5",
+   "source": "新浪网",
+   "hot": 3,
+   "summary": "一线科研人员探讨AI对人类科研能力的影响。工具越强大，人是否会变懒？AI辅助与独立思考的边界引发热议。"
   }
  ]
 }
