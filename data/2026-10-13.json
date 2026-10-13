@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13 11:43",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月13日\n\n🤖 华为哈勃入局！视塔机器人完成天使轮融资\n大厂动作频频，华为亲自下场投触觉感知机器人，具身智能赛道又要卷出新高度！\n\n🛡️ Anthropic出招防“偷师”！模型蒸馏攻击窃取量暴降99%\n大模型护城河之战正式打响！防蒸馏防复刻成了各家头号任务，技术防盗门安排上了。\n\n🛫 阿里千问发个人AI助理“千问Go！”，能代办航班理赔\nAI终于不再只会陪聊了！帮你跑腿、比价、办理赔，个人AI助理“真干活”时代要来了。\n\n🦾 Meta发新大模型专攻智能体，性能直逼ChatGPT\n海外大厂集体卷向Agent，大模型光有智商不够，还得能办事，性能直追Claude和GPT。\n\n🧪 DeepSeek砸重金入局具身智能，投前腾讯科学家建实验室\n大模型巨头不再满足于云端，亲自下场搞机器人！具身智能绝对是今年的兵家必争之地。\n\n📉 芯片股连跌四天！AI热潮要降温了？\n算力泡沫担忧渐起，市场开始分歧。到底是技术革命还是资本狂欢？投资者开始冷静审视回报了。\n\n💸 英特尔博通CEO齐警告：缺钱可能制约AI热潮\n烧钱大战下，融不到钱可能比买不到卡更要命！资金获取能力正成为AI军备赛的新瓶颈。\n\n🥷 美媒：中国机器人可能决定AI竞赛胜负\n《外交事务》这波判断很犀利！具身智能成中美AI博弈新前线，咱们的硬件制造优势或是破局关键。\n\n🌍 IMF：AI增速已超全球贸易增速\n官方盖章！AI不仅是极客圈的技术革命，更是重塑全球经济格局的新引擎，速度已经跑赢全球贸易。\n\n🔍 台积电发财报在即，能否挽救AI产业？\n全村的希望！作为算力霸主，台积电的财报就是检验AI热潮成色的试金石，就看能不能稳住军心了。\n\n#AI日报 #人工智能 #大模型 #具身智能 #AI应用",
+ "items": [
+  {
+   "title": "华为哈勃入局！视塔机器人完成天使轮融资",
+   "url": "https://www.ithome.com/1/012/265.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "华为旗下哈勃投资等参投视塔机器人天使轮。资金将用于具身智能及消费电子等场景研发，大厂加速布局触觉感知机器人赛道。"
+  },
+  {
+   "title": "Anthropic出招防“偷师”！模型蒸馏攻击窃取量暴降99%",
+   "url": "https://www.ithome.com/1/012/264.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "Anthropic发布防模型蒸馏新防护，使被窃取数据量降低超90%。头部大厂护城河之战打响，防复刻成新焦点。"
+  },
+  {
+   "title": "阿里千问发个人AI助理“千问Go！”，能代办航班理赔",
+   "url": "https://www.ithome.com/1/012/244.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "阿里将发布Personal Agent“千问Go！”，支持航班延误理赔、汽车保养等代办。个人AI助理从聊天走向真干活。"
+  },
+  {
+   "title": "Meta发新大模型专攻智能体，性能直逼ChatGPT",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBeThGZFNWSkZnZ3pFa3NOMXdPYy0yeDZ4MzJid3lNTXlvNjN5bmlvbnJzYTdhTy1XSkl6R3c4SVM4TmtDVUU0UWFfQzR3SDJTc29QOTI1Wk0?oc=5",
+   "source": "青岛日报",
+   "hot": 5,
+   "summary": "Meta发布专攻AI Agent的新款大模型，性能直追Claude和ChatGPT。海外大厂卷向智能体，AI办事能力再升级。"
+  },
+  {
+   "title": "DeepSeek砸重金入局具身智能，投前腾讯科学家建实验室",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHNsVVkxZ1hfVjB5ai1JZ25Zd1JFQVZld3NQNlhjdHQwMVdIcFFFdjM0ekJ2X1Y2a1NLck9DcGlxTXN0VE9nOVN5eVZpSnBmell0UFpETUdEZWtOYlA2M0ZaclJrVHJRQVczUWM0ZVFzRDVmcUpoal9PXzhJd21UVFNYTEdKdGJMejdaMjBjcmxmSC1UUWtNZ09RS1VVOVVGUVZoR0FST1pzQ3hTMkI5MVoyU24?oc=5",
+   "source": "Moomoo",
+   "hot": 5,
+   "summary": "DeepSeek拟投资前腾讯AI科学家数千万美元打造机器人实验室。大模型巨头亲自下场，具身智能成兵家必争之地。"
+  },
+  {
+   "title": "芯片股连跌四天！AI热潮要降温了？",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QQXdpX3ljSFNSd2Rna19tZ3Fad3lCTUdqVmtDVk0zeTRfZ2ZJZ1lMREl0V2g3U3BRMHNhczgtWHJTTVNzeUx4c1pjcTZpSFpRZ2Q4VGdVT3lpZ2x0Zmc?oc=5",
+   "source": "CSDN",
+   "hot": 4,
+   "summary": "芯片股连续第四日下跌，市场对AI热潮是否现裂痕产生分歧。算力泡沫担忧渐起，资本开始冷静审视AI回报。"
+  },
+  {
+   "title": "英特尔博通CEO齐警告：缺钱可能制约AI热潮",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeloxS04yU1FLaDRaTlZnYzgtdjFqNFUtVWpHdUlmRnBCSHNjREdsZEhsX0dlRXQ5WnU2bGI5c1dLZFg0Z3loaG9Xb3dULURQZXVETnNmQmRZbUxwUEtuOGt2LTMtVHBqbXcwb1Vic1lqRHhWUjJPc3VvZ2VGRDFrN2hHdll6S2FZRk1wTTdzMA?oc=5",
+   "source": "21财经",
+   "hot": 4,
+   "summary": "英特尔与博通CEO同声警告，资金获取能力正成为制约AI发展的瓶颈。烧钱大战下，融资能力成算力军备赛关键。"
+  },
+  {
+   "title": "美媒：中国机器人可能决定AI竞赛胜负",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlM3lIaEJQaWFvTXFPZkZmemItQ3JRUnR0TFY5V0NsbXdyM1M5enFQMHhnTlJ5VTZFNWktNFJDMEVIYzR3NVVRMTlPMzFuOHZ0?oc=5",
+   "source": "凤凰网",
+   "hot": 4,
+   "summary": "《外交事务》刊文称中国机器人可能决定AI竞赛胜负。具身智能成中美AI博弈新前线，硬件制造优势或成破局点。"
+  },
+  {
+   "title": "IMF：AI增速已超全球贸易增速",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWtVREZ2MXNFVmdaR0gwcGJGbkUxdlFVb3JKcTV0OFhBaHZOckR5UU9RY2xWUVBUNnNaWGhrWV9MenBGeHdtbGZKdEJWVDNpRm9Ebm5JUG4zNHV3c3hDcFVuQ1FtNExocnJDTF9URkZJQndiNTdYNzJONFF0QnFma0FPUFd6Uk1t?oc=5",
+   "source": "搜狐",
+   "hot": 3,
+   "summary": "IMF首席经济学家指出，2023-2025年间AI增长速度已超全球贸易。AI不仅是技术革命，更是重塑全球经济的新引擎。"
+  },
+  {
+   "title": "台积电发财报在即，能否挽救AI产业？",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRmlPVEJXb2VyaU5ZNnhWelNqMW5OTlBEMjNOcFRYaTNJaDM3aUpqT2JFeENGdl81YTZZMzQ2VG9UWGotTE8tWlNhT0lJOVhjLTVRaFR1cm4yU1VWOG9oR0d5TWdmWjlKOTRCb1hXdlo5M3dWUU42S0pZeTQ4bVRNTjRBTjFjdk94QWMwaGZZSW10UXJ4dThaNEh3S0JUUGFaeF9EaFVlYUFtX0k2TUdneA?oc=5",
+   "source": "Moomoo",
+   "hot": 4,
+   "summary": "台积电即将发布财报，市场观望其能否挽救AI产业信心。作为算力霸主，其业绩是检验AI热潮成色的试金石。"
+  }
+ ]
+}
