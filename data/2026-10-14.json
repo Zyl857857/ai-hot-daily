@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-14",
+ "generated_at": "2026-10-14 10:03",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月14日\n\n🚀 Gemini 4发布！字节成立模型安全部门\n大厂狂飙的一天！谷歌Gemini 4写代码更省心，字节跳动专门成立模型安全部门死磕AI安全，阶跃星辰3999元智能体手机也来凑热闹，今天全是硬货！\n\n🤖 具身智能独角兽智元估值冲破500亿\n资本用脚投票！智元创新新一轮融资估值直奔500亿，具身智能这条赛道，看来离全面爆发真不远了。\n\n🔥 ICLR审稿人吐槽：收到的论文全是AI生成的垃圾\n学术界被AI反噬的实锤来了！审稿人连收3篇未过滤的Claude生成文，直呼辣眼睛。用AI写论文灌水，这股歪风真得刹住了！\n\n📱 微信低调上线绿泡泡短剧，AI剧成亮点\n国民应用杀入微短剧红海！“绿泡泡短剧”主打免费，还专门设了“AI剧”板块，AI生成内容这是要彻底占领下沉市场啊。\n\n🍎 苹果发布搭载AI语音助手的智能家居新品\nHomeView终于亮相！自带AI语音助手，支持6人识别和第三方应用，果式AI家居这回算是真正落地了。\n\n👁️ Neuralink前总裁公司完成首例视觉恢复芯片植入\n硬核科技造福人类！Science Corporation把芯片植入患者眼中，帮斯塔加特病患者重见光明，脑机接口迎来医疗里程碑。\n\n💬 马斯克炮轰内存制造商漫天要价\n老马又开炮了！点名批评内存厂漫天要价，唯独夸美光厚道。AI算力狂飙，内存涨价到底谁在割韭菜？\n\n🚗 特斯拉Cybercab乘客可随时查看侧后摄像头\n坐没有后视镜的无人车心里发慌？特斯拉新招来了：乘客随时调取侧后方摄像头画面，安全感拉满，无人车体验再进化！\n\n🎓 清华大学成立重磅联盟\n顶尖高校出手了！清华大学牵头成立重磅联盟，AI产学研融合的超级航母要来了，这波动作绝对值得期待。\n\n🏠 Cerebras CEO：未来每人都有家庭个人AI助手\nAI助手将成家电标配？Cerebras CEO大胆预测，未来大家家里都有专属AI，端云结合的智能生活已经在路上了！\n\n#AI日报 #人工智能 #大模型 #具身智能 #科技热点",
+ "items": [
+  {
+   "title": "Gemini 4发布！字节跳动成立模型安全部门",
+   "url": "https://www.ifanr.com/1684137?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "谷歌发布Gemini 4代码能力大幅升级；字节跳动成立模型安全部门负责人直指吴永辉汇报；阶跃星辰发布3999元智能体手机，大厂动作频频。"
+  },
+  {
+   "title": "具身智能独角兽智元估值冲破500亿",
+   "url": "https://www.ithome.com/1/012/674.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "具身智能独角兽智元创新启动新一轮10-15亿元融资，最新估值约500亿元，离IPO又近一步，具身智能赛道持续火热。"
+  },
+  {
+   "title": "ICLR审稿人吐槽：收到的论文全是AI生成的垃圾",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1x5dc8f/weird_pattern_in_the_iclr_papers_i_was_assigned/",
+   "source": "Reddit r/MachineLearning",
+   "hot": 4,
+   "summary": "一位审稿人爆料被分配的3篇ICLR论文全是未过滤的Claude生成内容，学术圈AI滥用问题引发热议与担忧。"
+  },
+  {
+   "title": "微信低调上线绿泡泡短剧，AI剧成亮点",
+   "url": "https://www.ithome.com/1/012/670.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "腾讯上线“绿泡泡短剧”小程序，主打免费好剧，其中“AI剧”板块引发关注，国民应用正式入局AI微短剧赛道。"
+  },
+  {
+   "title": "苹果发布搭载AI语音助手的智能家居新品",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BM0M1aklxd2ZteWZoZFJJR1YwbWthVFd2OXpRMGt6aE1NbVJBcl8wUkZyY2ZBcTZoQ255QlpabnZRWU5NS3diTGR3UFdoNkRMaUVUNmZNTVBsb2E5VFY4Tm5mNk5PQmtT?oc=5",
+   "source": "中国新闻网",
+   "hot": 4,
+   "summary": "苹果正式发布首款智能家居中枢HomeView，搭载AI语音助手，支持第三方音视频及6人识别，大厂全面杀入AI家居赛道。"
+  },
+  {
+   "title": "Neuralink前总裁公司完成首例视觉恢复芯片植入",
+   "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "Science Corporation将其PRIMA芯片成功植入首位斯塔加特病患者眼中，脑机接口技术在视觉恢复上取得重大突破。"
+  },
+  {
+   "title": "马斯克炮轰内存制造商漫天要价",
+   "url": "https://www.ithome.com/1/012/671.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "马斯克发文指责内存制造商普遍漫天要价，唯独赞赏美光保持合理定价，称其是赢得长期忠诚度的明智之举。"
+  },
+  {
+   "title": "特斯拉Cybercab乘客可随时查看侧后摄像头",
+   "url": "https://www.ithome.com/1/012/669.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "特斯拉无人驾驶出租车Cybercab将允许乘客按需调取侧方与后方摄像头画面，解决无后视镜带来的安全焦虑。"
+  },
+  {
+   "title": "清华大学成立重磅联盟",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSUduREdWaF9ORkpodkZETk5WNWprWnJMSmw4Z3RsV0VIYWc5WU8yYVkyaVpRTDhYSk1jS3dPNnZNZVJBaVZycEtKMzd3QWVnaUdlRXE0Rm9TYUhSaTFLZU9UTk5IdlBnOGdObU1mT3hNUXlKdE9aTzhwUE1yNklfZTlCWQ?oc=5",
+   "source": "新浪网",
+   "hot": 3,
+   "summary": "清华大学牵头成立重磅联盟，在AI产学研融合关键期，此举将深刻影响行业生态与资源整合。"
+  },
+  {
+   "title": "Cerebras CEO：未来每人都有家庭个人AI助手",
+   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "Cerebras CEO预测，个人AI助手将像家用电器一样普及，部分运行在本地设备上，端侧AI与云端结合成必然趋势。"
+  }
+ ]
+}
