@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-15",
+ "generated_at": "2026-10-15 09:37",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月15日\n\n🚨 DeepSeek网页/API服务突发中断：国产大模型顶流突发宕机超50分钟，官方紧急排查中！开发者们的API还好吗？\n🍎 苹果iPhone Duo大模型完成备案：有望12月正式上线！果粉苦等的端侧AI体验终于要安排上了，手机端大模型战局再起。\n🚗 特斯拉向老款Model S/X推送FSD v14：北美HW3老车主终于喜提FSD v14 Lite！等等党熬出头，智驾普惠再进一步。\n🇺🇸 白宫AI工作组首次会议将举行：美国AI顶层设计加速落地，明天的会场上，政策风向标将牵动全球科技圈的神经。\n⚠️ 英伟达CEO警告将切断不安全AI客户：算力霸主亲自下场当“保安”，断供警告敲响警钟，AI伦理红线到底谁说了算？\n🇬🇧 英国军情五处渲染“AI剽窃论”遭群嘲：把AI和伊朗、俄罗斯并列当威胁，这清奇的脑洞被全网群嘲，安全议题不该沦为政治工具。\n⚛️ 中国科大量子网络刷新世界纪录：紫外波段量子频率转换实现高效率突破！硬核科技发力，离量子网络实用化又近了一大步。\n🤖 AI设计芯片成算力危机新解法：初创公司让AI自己造芯片，还能迭代学习优化设计！这波“套娃”操作能真正打破算力瓶颈吗？\n📱 LFM2.5-24B端侧Agent模型发布：专为端侧智能体打造的小钢炮！参数量不大但主打快，手机本地跑Agent的时代真要来了？\n🏭 2026人工智能产业大会济南开幕：300余家企业齐聚泉城，“齐鲁七星”等垂域大模型集中亮相，专啃制造业硬骨头，接地气！\n\n#AI日报 #人工智能 #大模型 #DeepSeek #苹果AI",
+ "items": [
+  {
+   "title": "DeepSeek网页/API服务突发中断",
+   "url": "https://www.ithome.com/1/013/179.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "DeepSeek今日出现部分服务中断，对话提示“服务器暂时不可用”，官方已介入排查。国产大模型顶流宕机，引发开发者高度关注。"
+  },
+  {
+   "title": "苹果iPhone Duo大模型完成备案",
+   "url": "https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "苹果iPhone Duo已完成大模型备案，有望12月正式上线。国产大模型内卷当下，苹果入局必将重塑端侧AI格局。"
+  },
+  {
+   "title": "特斯拉向老款Model S/X推送FSD v14",
+   "url": "https://www.ithome.com/1/013/181.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "北美地区搭载HW3英特尔芯片的老款Model S/X终于收到FSD v14 Lite版更新，老车主苦等终成正果，智驾普惠再进一步。"
+  },
+  {
+   "title": "英伟达CEO警告将切断不安全AI客户",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkdvWDVsMldrclhtejBRM2NFTWdPaWtMNHRFNTNaZURKeC1mZFBZZ0J5NHhXakt6V19wd09uZ0ZndWFSeTZhNllNUncydnNxQTlEN092VmxNZ2JRejhsZWdaLVEtQXNVZVMxc0c3ZTQ4RVJ2b0VmdmE0N2kwSDhFNFF1U3BOekNtRnhJX3A3YS1mM1BScUVPcy1CX1ZqZ1oyZURId25OVTJsUQ?oc=5",
+   "source": "Moomoo",
+   "hot": 4,
+   "summary": "英伟达CEO强硬表态，将切断与开发不安全AI客户的合作。算力霸主亲自下场当“安全监管”，AI伦理红线再收紧。"
+  },
+  {
+   "title": "英国军情五处渲染“AI剽窃论”遭群嘲",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMVWxpS0xxa0RnYmpfOGVJN25Uei1HM2FVcHVkU3ppSFdIVkFHTFpOei1BNlgwRks5dGZZMzVhVDFTMm9XZFZYVm9fX01ULTA1X040VkFycnQ4MERLMDltalg5ZUlQZUJ0bTcwM29Qdy0?oc=5",
+   "source": "中华网",
+   "hot": 4,
+   "summary": "英国军情五处将AI与伊朗、俄罗斯并列列为威胁，大肆渲染“AI剽窃论”，荒谬言论引发全网群嘲，AI安全不应沦为政治工具。"
+  },
+  {
+   "title": "中国科大量子网络刷新世界纪录",
+   "url": "https://www.ithome.com/1/013/189.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "中国科大在紫外波段离子阱与光纤的量子互联上取得突破，实现高效率量子频率转换，刷新世界纪录，为量子网络实用化铺平道路。"
+  },
+  {
+   "title": "AI设计芯片成算力危机新解法",
+   "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "初创公司Ricursive Intelligence押注AI设计芯片，通过迭代学习不断优化芯片设计，试图从根本上打破AI算力瓶颈。"
+  },
+  {
+   "title": "白宫AI工作组首次会议将举行",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VcnV3Q3lXUVp6MXhWZmItRVJtMzZ1YUF6WFMtYUE5LWh2QWpGWGhISVdxWVA2LXZDbmluSTVhVzFhbVBuUlFRUERRRmlWLVU?oc=5",
+   "source": "手机新浪网",
+   "hot": 3,
+   "summary": "白宫人工智能工作组首次会议将于明日举行，美国AI顶层设计加速落地，政策风向标牵动全球科技圈神经。"
+  },
+  {
+   "title": "LFM2.5-24B端侧Agent模型发布",
+   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+   "source": "Hacker News",
+   "hot": 3,
+   "summary": "专为端侧Agent打造的新模型LFM2.5-24B-A2B发布，以极小参数量实现高并发响应，手机本地跑Agent时代或将来临。"
+  },
+  {
+   "title": "2026人工智能产业大会济南开幕",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15Yk5PTzRSaVA3cl9NQ0pWb0trOVlnS01VdTBXTDFZRE51dzJrU0lTV3lnZ0FDS280azdrNE9yRlBpRjJqOFh5TnA3VzNMcFdBYnlmM21CakgtZTB6a09obkl5cTdfWkRsYzlIaTZVcEdFV0p2QW95VVY3ZHVlQQ?oc=5",
+   "source": "新浪网",
+   "hot": 3,
+   "summary": "300余家企业齐聚泉城，2026人工智能产业大会在济南开幕，“齐鲁七星”等垂域大模型集中亮相，专啃制造业硬骨头。"
+  }
+ ]
+}
