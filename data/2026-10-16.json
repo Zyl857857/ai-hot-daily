@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-16",
+ "generated_at": "2026-10-16 09:36",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.5-flash"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月16日\n\n🧠 Meta发布最强开源模型，汪滔称不开放最强大脑：AI开源策略引行业深思\n\n📜 工信部发布AI产业导航图，汽车成重点领域：政策驱动AI与实体经济融合\n\n📱 华为Pura X View出货超71万，30%用户来自苹果：AI手机市场苹果用户流失潮\n\n💻 苹果Minions研究：闲置Mac GPU组队加速AI任务：技术突破提升AI效率\n\n🌐 中国AI治理'系统打法'引外媒关注：全球AI治理新标杆\n\n📱 小米REDMI K100官宣本月见，重塑旗舰新基线：性价比AI手机新选择\n\n📺 东方有线开启'全城热AI'广电服务季：AI走进千家万户\n\n🏥 AI精神分裂症诊断生物标志物研究发布：医疗AI诊断新突破\n\n🍎 库克确认苹果AI国行本月推出：全球AI消费电子普及潮\n\n🔍 ChatGPT新增查看Chrome标签页功能：AI交互升级但隐私引争议\n\n#AI日报 #人工智能 #大模型 #科技前沿 #AI应用",
+ "items": [
+  {
+   "title": "Meta发布最强开源模型，汪滔称不开放最强大脑",
+   "url": "https://www.ithome.com/1/013/736.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "Meta发布Muse Spark Open模型，性能低于前沿版本，汪滔表示不会开源最强模型，但会继续发布优秀开源模型。这影响AI开源生态和行业竞争格局。"
+  },
+  {
+   "title": "工信部发布AI产业导航图，汽车成重点领域",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tN1dOdThUTDU3QWNPZ1hPWEdQZGNDRGstU01Ed2FaMUFmWWtpRFBQdnNzRDRud2d3d1RURW9QbHB1cmtqTUxxaEtnbjhZVGl5a0Nka2pDWm9TX05UNjVLVk41d19hX1B4RjRB?oc=5",
+   "source": "中金在线",
+   "hot": 4,
+   "summary": "工信部发布人工智能'产业导航图'，将汽车列为重点赋能领域，推动AI与实体经济深度融合，加速产业升级。"
+  },
+  {
+   "title": "华为Pura X View出货超71万，30%用户来自苹果",
+   "url": "https://www.ithome.com/1/013/731.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "华为阔直板手机出货量超71万，实销均价7000元，约30%用户来自苹果，显示AI手机市场强劲增长。"
+  },
+  {
+   "title": "苹果Minions研究：闲置Mac GPU组队加速AI任务",
+   "url": "https://www.ithome.com/1/013/730.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "苹果研究团队公布Minions系统，聚合闲置Mac GPU形成虚拟云，几分钟完成10小时AI任务，提升效率。"
+  },
+  {
+   "title": "中国AI治理'系统打法'引外媒关注",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNVNkRUhFT1FGcWdwN0h1MEQ2T2I0U2cxdno5WXN5bjI4SzlGbWowR3dLamlCUVNkZUJ1cWRoME1MeUZ0T0ZkbmJTeUZQYWowQXJSSDZ5V2FNVktmREJ1MkgwN1gwelRxTXhCOUNoUGxLUzVWZzVmcFZzZE12d2xGZXh6TjVWRGRtUU83SA?oc=5",
+   "source": "搜狐",
+   "hot": 4,
+   "summary": "中国人工智能治理政策、标准、执行协调推进，引外媒关注，为全球AI治理提供参考。"
+  },
+  {
+   "title": "小米REDMI K100官宣本月见，重塑旗舰新基线",
+   "url": "https://www.ithome.com/1/013/728.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "小米REDMI K100手机官宣本月发布，号称重塑旗舰新基线，强调游戏性能和AI应用。"
+  },
+  {
+   "title": "东方有线开启'全城热AI'广电服务季",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14WWVEX2ZXcjg5MzJPbXVsLVZZbnpBQUIydEJBYlA0MERBTS1DNGVyUTlmZm9jNGJXVW03WmU1RHJSLVpISlNobWNfcllZQi0wZTROcW1xdVVQSzRnVjAtUGhicWJhU2JHdlpj?oc=5",
+   "source": "流媒体网",
+   "hot": 3,
+   "summary": "东方有线启动'全城热AI，人工智能进万家'广电服务季，推动AI走进普通家庭生活。"
+  },
+  {
+   "title": "AI精神分裂症诊断生物标志物研究发布",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zVHNrcjVlcDFBWkxMMXJwekU0ODJZSUIxaW1uSkJEM0xtZGpxS0o5T0ttWWhncnZNUEtFR1czbmpfSFBDM2Y4dGJyUkNoOFFHeTJMVGpCZ1YwRDByVUxWeXdrUW1DdDIxTTh1SmZn?oc=5",
+   "source": "生物通",
+   "hot": 3,
+   "summary": "基于静息态脑电的AI精神分裂症诊断生物标志物研究，提升医疗诊断准确性和效率。"
+  },
+  {
+   "title": "库克确认苹果AI国行本月推出",
+   "url": "https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "库克确认苹果AI服务将在本月国行推出，引发全球关注，标志着AI在消费电子领域的普及。"
+  },
+  {
+   "title": "ChatGPT新增查看Chrome标签页功能",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "source": "The Verge AI",
+   "hot": 4,
+   "summary": "ChatGPT更新支持查看Chrome标签页，增强AI与浏览器交互，提升用户体验但引发隐私担忧。"
+  }
+ ]
+}
