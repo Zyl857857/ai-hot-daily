@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-17",
+ "generated_at": "2026-10-17 09:24",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月17日\n\n🤖 微软造出“AI学生”替真人试课：以后开发AI导师不用再苦求真人测试了，AI自己就能演学生，终于不用只看答案对不对了！\n🧊 阿里Qwen开源3D建模大考基准：视觉智能体到底行不行？阿里直接开源223道题的3D建模大考，给AI们上硬核强度！\n👦 17岁天才研究员离开Kimi：曾轰动一时的17岁AI研究员陈广宇离职了，否认投奔Anthropic，天才少年的下一步去哪成了全网谜题。\n🐟 朝鲜试射AI新型高速鱼雷：AI加持的武器越来越近了，这次是智能鱼雷下水，AI在军事领域的应用总是让人倒吸一口凉气。\n🛡️ 出口限制目录拟增列AI技术：国家出手了！人工智能等40项技术被列入出口限制修订目录，咱们的AI核心技术必须护体！\n📈 黄仁勋谈AI市场震荡：最近AI股上蹿下跳，老黄亲自出来稳军心：“这一切都会过去！”长期信仰依然坚挺。\n🧮 AI攻克世界级数学难题：AI解题能力再升级，直接拿下世界级难题！数学家要失业了吗？这波技术突破让人既兴奋又焦虑。\n💔 Replit与Anthropic分手：大模型圈也有分分合合！Replit嫌Anthropic太贵直接分手，转头抱紧OpenAI，价格战已经打响。\n⚖️ SpaceX将就AI安全调查作证：AI监管飓风刮到硅谷，SpaceX高管被传唤作证，安全这根红线，科技巨头也绕不过去。\n📱 库克称iPhone颜色检测由AI完成：你以为AI离你很远？其实它已经在产线上帮你挑手机颜色了，苹果这波AI落地润物细无声。\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "微软造出“AI学生”：替真人试课，优化AI导师",
+   "url": "https://www.ithome.com/1/014/226.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "微软研究院发布StudentSim系统，用AI模拟真实学生试课，解决AI辅导工具缺乏大规模真人实验的难题，让AI导师不再只看答案对错，而是关注学生是否真正理解。"
+  },
+  {
+   "title": "阿里Qwen开源3D建模大考基准BlenderWorld",
+   "url": "https://www.ithome.com/1/014/217.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "阿里Qwen团队开源BlenderWorld，包含223道题和2651条标准，专门用于评测视觉智能体在Blender中的3D创作能力，填补3D建模评测空白。"
+  },
+  {
+   "title": "17岁天才研究员陈广宇离开Kimi",
+   "url": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "曾引起广泛关注的17岁AI研究员陈广宇已离开Kimi，并否认将加入Anthropic。天才少年的去向引发行业热议。"
+  },
+  {
+   "title": "朝鲜试射采用AI技术的新型高速鱼雷",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWnBJODZ5NzhhcUFETkVaUEwtNjBCc1Zjb0F1dTFsYVYwZWVRTnRNSl9hcm9kVVppdWtvdENGanZrUENQWFQ4bk1yOFdVMUd5R3haOXU0bmIyaGV1ZWdqRkZSUmlyZS1lLXV6OTBOaFRfZHVRTzdQc0xDbkluajB6RDVBQzQ?oc=5",
+   "source": "8world",
+   "hot": 4,
+   "summary": "朝鲜宣布成功试射一款采用人工智能技术的新型高速鱼雷，AI在军事武器上的应用再次引发关注与争议。"
+  },
+  {
+   "title": "出口限制目录拟修订：增列人工智能等40项技术",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yVHhUOThXbjVpcG0yY2JFWWxzd3hOeXhUS3BRX1k4dzVMTkVZNFNoNFNDRXc4UlZrdFpGSEV2RVRCc3o3NjJIcHBzT3IyeF93Rmcwc2RsX0IzSjFLWk11cw?oc=5",
+   "source": "证券之星",
+   "hot": 5,
+   "summary": "禁止出口限制出口技术目录拟修订，增列人工智能、生物医药、光伏三个领域40项技术，AI核心技术保护升级。"
+  },
+  {
+   "title": "黄仁勋谈AI市场震荡：这一切都会过去",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRmQ0bXpsajBlenNHbktCVExVeTBXWlh3MEUyUlZJZ2I0OGE4QmpOY2tTbW0wN2hjckpYWG1IaEJPTWZLcXA2cnFjTzhhVVF1NW5pNXNMeGxsSkxPQU43SXg5WlRVay1jWVdFSHBSaU1GbTVLVUt1MjdFQWMzTUh5UXBjLXNIcVhFbHc?oc=5",
+   "source": "finance.sina.com.cn",
+   "hot": 4,
+   "summary": ""
+  },
+  {
+   "title": "AI攻克世界级数学难题，数学家会失业吗？",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzZlbVJMVkp1ZWYzWmdXUXQ1am5VNldJd0FBNlpWRHBBeEJGUzRFMEJPUHlIYnpZYU1LTTVQajRLc09jVm1neFQ1TzY0WWJEU1lWR01kN1lUejU3LTJadHNLWjlfWFJXaUhJZHdsMUFiY2J6aWdwWEl1WmZzR2lHQjFlOElCS2lDbktjTA?oc=5",
+   "source": "搜狐",
+   "hot": 5,
+   "summary": "人工智能成功攻克世界级数学难题，引发关于AI是否将替代人类数学家的激烈讨论，技术突破与职业焦虑并存。"
+  },
+  {
+   "title": "Replit与Anthropic分手，转投OpenAI",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "Replit CEO宣布因成本等多种原因停止与Anthropic合作。此前Replit已与OpenAI达成合作，大模型厂商竞争再添变数。"
+  },
+  {
+   "title": "SpaceX政策主管将就AI安全调查出庭作证",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMy1lQzFpMnNBa1FFZFR5ZGppRHUzcjF5TFFOQ2JqVzdaSFFQamZ3cHBoUnRibXd1Nmk5WlJyMjFac2RpUUNCSkRjSTgyM0lJWDRLUmMxV0hFOFdMdll6Mk1aQ1NLa1hLbFg5VlRIZ0tvaDZLZTBxWjZ0UEFNRWJjODRRSHB3enE1RklIamNKbmNXYnlKSF9z?oc=5",
+   "source": "finance.sina.com.cn",
+   "hot": 3,
+   "summary": "SpaceX政策主管将就纽约市议会的人工智能安全调查出庭作证，AI监管与安全问题持续升温，科技巨头被迫走向听证台。"
+  },
+  {
+   "title": "库克：iPhone颜色检测已由AI完成",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBNbk90RGhlaG12d3YzcF9JTHZKbTRjdEJ1WDB1bFBKUmcxNVpZdjVac0wtZzdXc0xuaTl0OVhlUHBnTWpFaHlId0Itc2VWSVlabjhFR05PeHpKMVFrZXRHZUVPajVvUGZDb1Zkay0wY05OLTVyNzRfZ3REV014Zw?oc=5",
+   "source": "新浪网",
+   "hot": 3,
+   "summary": "苹果CEO库克透露，iPhone的颜色检测工作现已交由AI完成，AI正悄无声息地渗透进手机制造的质检环节。"
+  }
+ ]
+}
