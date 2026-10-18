@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-18",
+ "generated_at": "2026-10-18 09:17",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月18日\n\n📉 英伟达市值9天蒸发4万亿元\n算力霸主也扛不住市场对AI泡沫的担忧了，狂飙之后，是时候挤一挤水分了？\n\n🏛️ 国常会部署“人工智能+”行动\n最高层年内再定调！AI不能只停留在实验室炫技，必须从“能用”走向“好用”，落地才是硬道理。\n\n🚕 特斯拉Robotaxi运营延至午夜\n奥斯汀无人车开到半夜12点，FSD v15全天候运营要来了！自动驾驶商业化正在加速跑，以后打车比开车还方便？\n\n🇩🇪 德国筹备与英伟达合作大型AI项目\n欧洲急了！拉拢黄仁勋搞大动作，誓要摆脱对美依赖打造“AI大陆”，这波能不能弯道超车？\n\n📜 Meta悄悄删除AI训练争议条款\n嘴上说没改抓数据的行为，却默默删了惹众怒的条款。这波“暗搓搓”的操作，网友买账吗？\n\n🤖 Replit转投OpenAI抛弃Anthropic\n开发者平台换默认大模型，Claude被GPT截胡！大模型厂商抢生态太卷了，开发者成最大赢家。\n\n🐟 朝鲜声称试射AI辅助鱼雷\nAI上战场再添实锤！智能鱼雷下水，战术威慑升级，地缘政治又要增加新变数。\n\n🎮 科乐美社长：AI不会颠覆游戏市场\n别再吹AI替代人类了！游戏大厂高管发声：降低门槛不等于颠覆，创作者的灵魂AI学不来。\n\n📱 魅族22推送Flyme AIOS\n手机AI再进化！“超级Aicy”化身私人管家，端侧智能体真要成各家旗舰标配了。\n\n🧑‍💼 Anthropic员工变老开会变多\nAI独角兽也逃不过大公司病？极客团队走向成熟，会议开始填满日程表，创业维艰啊。\n\n#AI日报 #人工智能 #大模型 #科技前沿 #AI应用",
+ "items": [
+  {
+   "title": "英伟达市值9天蒸发4万亿元",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FNGI3MnZHcTZDNFJaRVpkRjJxRDVSVmVyMWlpcmwxWnpsb0hlN1JkeTVGYmFEeGlOQTJEc3BNTERuWHFwUl9SeWU4VVZYTVBuZktpN19YXzRtU1BEaHVYYlo2WDJoeEZGRnEwNmpwNi1Hdw?oc=5",
+   "source": "新浪网",
+   "hot": 5,
+   "summary": "英伟达股价近期遭遇重挫，9个交易日内市值蒸发约4万亿元。这反映出市场对AI基建过热及未来盈利能力的担忧，AI概念股正面临大考。"
+  },
+  {
+   "title": "国常会部署“人工智能+”行动",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1I4aGw0bEJUMXlOVnlJSlR1MUxsbW5TTDBkcG5vMnRkUXZzQS05ZllaRmJVdnlJUTZfbnZQakRQeUxpYXRweHZTWGhaSW1sMmJvdjhISWR5dGlOMFNXM0ptUnlWVC14ejRoQ2RxNk43OWFrOTd2WTlrWG8yV2VaRFg0N1B5cE1mVkJMMUl1bw?oc=5",
+   "source": "搜狐网",
+   "hot": 5,
+   "summary": "国常会年内再次部署AI工作，强调从“能用”走向“好用”，推动AI从技术热走向产业实。最高层定调，意味着政策与资源将加速向AI产业化倾斜。"
+  },
+  {
+   "title": "特斯拉奥斯汀Robotaxi运营延至午夜",
+   "url": "https://www.ithome.com/1/014/444.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "特斯拉将奥斯汀地区Robotaxi运营时间延长至早6点到午夜12点，FSD v15将支持全天候运营。自动驾驶商业化落地正在加速跑。"
+  },
+  {
+   "title": "德国筹备与英伟达合作大型AI项目",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zeEFrM1JRdzkzemtEQlFLcjFKdmlNeFpheldFT3V0MHRaVUhMTnNPQUNHMTlkSkRPUDc1Q0o4SlA4dzAta0JnRGhlVm9RMFZreWJxVlpONjV1UktwdjVBOGItdjItb1JFWl9Yam5QdnlxUlV0LThwT2ZlQmd1dWc?oc=5",
+   "source": "新浪网",
+   "hot": 4,
+   "summary": "德国正筹备与英伟达开展大型人工智能合作项目。欧洲意图摆脱对美依赖，打造“AI大陆”，拉拢英伟达是关键一步。"
+  },
+  {
+   "title": "Meta悄悄删除AI训练争议条款",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "Meta更新服务条款，删除了引发用户对数据抓取和AI训练担忧的争议性表述。虽Meta称抓取行为未变，但此举意在平息舆论怒火。"
+  },
+  {
+   "title": "Replit抛弃Anthropic转投OpenAI",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "代码平台Replit宣布将OpenAI设为默认模型，取代Anthropic的Claude。大模型厂商在开发者生态的抢夺战愈发激烈。"
+  },
+  {
+   "title": "朝鲜声称试射AI辅助鱼雷武器系统",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0RvWjBMQk43bHFYRWotd21seG0wRHJpMGNsNGlKbHJadlp6OEpHU1BKeEtZS0VaTkNPSjQ4RVdybk9BWmg4SEJINXB6RE9GWEFUXzBiZDhkTk9ITVhmay04Zm92ZlR4by1fcWFRX2ZqYkZ4WnRaTF85Q1Z3NEVjQ3V5V1l6OTZoc0JkbS1UaXdTd19tQjFlMjEwbGY5dVctTjV5Y2NueUxtN055RTlubEt6Q1NCUGs30gG7AUFVX3lxTE1GSUQ2VFlhYlN6eFFqRktDTnc4c0gwQnVXRzl3OFRQTkNqRHkwTWlaR0UxSWVTaFRtcDNZNVpERU53NFpTZnE0S18xb0dLNEphaXZvc2xqQlJWRTlmQmR1ckNDUlNTM19ZNHJfODY4OEdqaFR5UVE4VEFKT3JHMUxjQUJHc05mcEdMMXREZGQ0TkVMM3BHR2tTWDhKT0hpVW1CMzhCTGlLWENKUnc2bE9UUzNjbHVJODU4Zjg?oc=5",
+   "source": "美国之音",
+   "hot": 4,
+   "summary": "朝鲜宣布成功试射新型人工智能辅助鱼雷武器系统。AI军事化应用再添变数，引发国际安全领域高度关注。"
+  },
+  {
+   "title": "科乐美社长：AI不会颠覆游戏市场",
+   "url": "https://www.ithome.com/1/014/439.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "科乐美社长早川英树表示，尽管AI降低开发门槛，但游戏市场环境不会巨变，创作者依然是核心。给狂热的“AI替代论”泼了盆冷水。"
+  },
+  {
+   "title": "魅族22推送Flyme AIOS，超级Aicy上线",
+   "url": "https://www.ithome.com/1/014/438.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "魅族22手机推送Flyme AIOS稳定版，带来个人事务AI智能体“超级Aicy”。手机端AI从单点功能走向全局智能体调度，端侧AI体验再进化。"
+  },
+  {
+   "title": "Anthropic员工变老，开会变多",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "Anthropic透露公司员工组成不再那么初级，且花在会议上的时间显著增加。这折射出AI初创公司从极客团队向成熟企业转型的阵痛。"
+  }
+ ]
+}
