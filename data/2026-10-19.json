@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-19",
+ "generated_at": "2026-10-19 09:28",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月19日\n\n🇨🇳 国常会部署：深化拓展“人工智能+”行动\n国家层面再发强音，AI+全面铺开，千行百业的智能化融合要踩油门了！\n\n🛡️ Anthropic开放外部AI监督权限\n主动把模型底牌给外部机构看，Anthropic这波安全诚意拉满，只为防住失控风险。\n\n🚀 中信证券：看好国产大模型崛起，DeepSeek生态成关键\n大模型光能打不够，还得建生态！DeepSeek靠开源和工程优势，正悄悄筑起平台护城河。\n\n💡 吴恩达：别在底层卷了，应用层才是AI价值洼地\n吴恩达一语点醒梦中人：别光卷算力了，能真正解决问题的应用层才是真金白银。\n\n📉 AI科技股再遭抛售，美股三大指数集体下跌\n华尔街对AI变现能力急了眼，科技股集体挨锤，到底是泡沫降温还是黄金坑？\n\n🤖 杭州具身智能创企格物通智获近亿元融资\n具身智能赛道又迎大额输血，国资出手押注物理世界模型，让机器人先懂物理法则。\n\n🌿 世界传统医药大会：推动AI与中医药深度融合\n赛博老中医要来了？AI把老祖宗的智慧算力化，这波传统与现代的跨界有点意思。\n\n💼 专家：AI对就业宏观冲击尚不显著，转轨效率更关键\n打工人的饭碗暂时稳了？宏观虽没大动静，但个人技能的转轨升级可千万不能拖！\n\n🍎 曝苹果开发机械臂版HomeView，英伟达定制HBM\n苹果搞智能家居动真格，英伟达死磕存储墙，下一代AI硬件的军备竞赛已开场。\n\n📰 生成式AI与新闻生产：效能偏差如何调适？\nAI写稿快是快，但新闻伦理和质量偏差怎么兜底？媒体人必须面对的硬核新考题。\n\n#AI日报 #人工智能 #大模型 #AI应用 #科技股",
+ "items": [
+  {
+   "title": "国常会部署：深化拓展“人工智能+”行动",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4TEpOLV9SLW9JUjJWN0szVWNSa0pvb0I4SFFKclB5c0VqVE1RR1l6dW10cnNXdno2MFh1dTVjRVFYaGJYVUU5b1h5QTVQVkZsMnhQaGdvZXd5a1VheXRSOFVn?oc=5",
+   "source": "证券之星",
+   "hot": 5,
+   "summary": "国常会最新定调，明确要不断深化拓展“人工智能+”行动。国家层面持续加码，AI与各产业融合将全面提速。"
+  },
+  {
+   "title": "Anthropic开放外部AI监督权限",
+   "url": "https://www.ithome.com/1/014/651.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "Anthropic为外部评估机构开放类员工访问权限以评估模型风险。AI安全再出实招，主动接受监督以应对外界对技术失控的担忧。"
+  },
+  {
+   "title": "中信证券：看好国产大模型崛起，DeepSeek生态成关键",
+   "url": "https://www.ithome.com/1/014/646.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "中信证券指出Harness有望成DeepSeek从模型走向平台生态的关键。国产大模型商业化破局，生态与平台化成下一阶段竞争焦点。"
+  },
+  {
+   "title": "吴恩达：别在底层卷了，应用层才是AI价值洼地",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOGhIYXI0ZmVzMzlUS1Z5Vk0yOUJpYTNSZmpkTlk4aW9iUnBPMFZKcWcxLVBONG95SnhwVWtSYlRhOEdIb3QtYktUSER3RTc3QUQ1Zmtxb2VoTlNJcGJza3VKTVI4eDllcDRfRHpHN01La2ZOcVFyaWJCZXNFRC1sX0JFLUQ2aDFhSUtWbQ?oc=5",
+   "source": "搜狐",
+   "hot": 4,
+   "summary": "吴恩达最新演讲指出企业都在技术栈底层较劲，但应用层才是真正的价值洼地。给AI创业指明方向，落地应用比底层卷算力更重要。"
+  },
+  {
+   "title": "AI科技股再遭抛售，美股三大指数集体下跌",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdHp4ZVNITEpKQ0NiTVE3T3dUNHZrRERBU2VQZ2UxRnRUQXl5Y05XQXpHWHdJck9XTmh6eVowS3ZDVkxnV0dIR3RxdTVTYTAtUGNUcEw2b3RINHBtT2dVYkt2eXR1RG5kTV9BbjhKQkY1YzZGVnF2V2tRV1RCdjY5M0ltWTJ0aW1FODR6Y0hMOA?oc=5",
+   "source": "21财经",
+   "hot": 4,
+   "summary": "市场对AI盈利能力担忧加剧，AI相关科技股再遭抛售导致美股三大指数下跌。AI概念降温还是抄底良机，变现能力成市场核心考量。"
+  },
+  {
+   "title": "杭州具身智能创企格物通智获近亿元融资",
+   "url": "https://www.ithome.com/1/014/652.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "杭州具身大脑企业格物通智完成近亿元天使轮，多家国资出手。资金将用于物理反演世界模型预训练，具身智能赛道持续火热获资本重注。"
+  },
+  {
+   "title": "世界传统医药大会：推动AI与中医药深度融合",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LQXRVWnRnblJiaHNRR1Fmd28zYXl5aF9QaFprUHByY29oeG9tdlh2eFJITEJNcXZEQjNVb3YwdW5rcm5UdDlMNFRXVnJuekkzZDZFeTh4Y0Z3dzZZcjduSzF4UUswYjJUTGFOZ0c2enRHb1RRbnpMQ1U1VQ?oc=5",
+   "source": "北京市人民政府门户网站",
+   "hot": 3,
+   "summary": "世界传统医药大会发布“北京成果”，提出扩大中药普惠供给，推动AI与中医药深度融合。传统医学借力AI实现创新与普惠，跨界融合潜力巨大。"
+  },
+  {
+   "title": "专家：AI对就业宏观冲击尚不显著，转轨效率更关键",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Gc1hySk02ckxLNnVCTXNaYl9Qam1aTDBtQndhTGthU1BqYk9FUVJWRmtoOERvN0x6UVMweWpPZXlSUUFKSEVrZ0ZyZFk3eHhBNVhsVg?oc=5",
+   "source": "虎嗅网",
+   "hot": 3,
+   "summary": "经济学家赵耀辉表示，目前AI对就业宏观冲击尚不显著，结构调整与转轨效率更值得关注。缓解大众对AI抢饭碗的焦虑，强调个人与产业转轨的紧迫性。"
+  },
+  {
+   "title": "曝苹果开发机械臂版HomeView，英伟达定制HBM",
+   "url": "https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 3,
+   "summary": "苹果被曝正开发机械臂版HomeView，三星拟用3nm为英伟达定制HBM。软硬大厂都在为下一代AI终端与算力瓶颈憋大招，硬件军备竞赛升级。"
+  },
+  {
+   "title": "生成式AI与新闻生产：效能偏差如何调适？",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNEcxajNHQVZadUxzUHFWa1Z6NHhXYklkNWdJOUpId1FqUk9NQmprMUtGb2czcEtvc205bHpkYmxIYnNMNURuaE5YdVFpc2dxQmN1Um5lMjFWdVNQNXdwei1mUFYyVlJuMGFZY2t3M1Z1SWhjR1FQck1MYnZfdDE1UGktWEx5bHhkOVRtYg?oc=5",
+   "source": "搜狐",
+   "hot": 3,
+   "summary": "青记独家探讨生成式AI在新闻生产中的效能偏差及调适路径。AI提升产能的同时带来质量与伦理风险，新闻行业需尽快找到平衡点。"
+  }
+ ]
+}
