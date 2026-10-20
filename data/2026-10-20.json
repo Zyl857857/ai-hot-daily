@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-20",
+ "generated_at": "2026-10-20 09:58",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月20日\n\n🍎 苹果官宣下周发新品：iPad mini上高刷，MacBook能上手\n果粉狂欢！mini终于不瞎眼，触屏MacBook也快来了\n\n🗣️ 蚂蚁百灵开源Ming-3.0语音大模型\n大厂发力语音赛道！五款模型全开源，开发者狂喜\n\n💰 Anthropic被曝洽谈450亿美元算力大单\n算力就是生产力！AI巨头砸钱买卡眼都不眨\n\n⚠️ 微软警告：AI代理如同内部威胁，前沿模型不可信\n用AI也得防AI！微软亲自下场敲警钟，企业用Agent要盯紧\n\n🗽 纽约市长呼吁：抵制AI接管叙事，要求出台保护监管\nAI不该是法外之地！官方喊话拒绝技术霸权，监管必须跟上\n\n🤖 英特尔申请禁令豁免：美国芯片厂离不开外国AGV机器人\n脱钩断链反噬自身？连英特尔都承认芯片制造离不开海外机器人\n\n🎮 AI降低克隆游戏门槛，独立开发者不敢随便晒作品了\nAI写代码太快惹的祸！换皮游戏满天飞，独立游戏人瑟瑟发抖\n\n🏭 工信部：加力推进AI产业发展，赋能制造业提质升级\n国家队定调！AI+制造是重头戏，产业升级踩油门\n\n💊 英硅智能AI制药达成新里程碑\nAI看病又迎突破！从万亿级分子里找药，效率直接起飞\n\n💻 微软修复Outlook：Copilot AI按钮回归\n打工人不用再找AI入口了！经典版Outlook补丁安排上，办公体验拉满\n\n#AI日报 #人工智能 #大模型 #科技热点 #苹果发布会",
+ "items": [
+  {
+   "title": "蚂蚁百灵开源Ming-3.0语音大模型",
+   "url": "https://www.ithome.com/1/015/117.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "蚂蚁百灵开源Ming-3.0语音系列五款模型，覆盖语音合成、识别与对话，支持文字描述音色，开发者可灵活组合工作流。"
+  },
+  {
+   "title": "苹果官宣下周发新品：iPad mini上高刷，MacBook能上手",
+   "url": "https://www.ifanr.com/1684978?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "苹果定档下周发布会，iPad mini终于迎来高刷屏，MacBook Pro或将支持触控，果粉期待拉满。"
+  },
+  {
+   "title": "Anthropic被曝洽谈450亿美元算力大单",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "Anthropic正与Nscale洽谈高达450亿美元的算力交易，若达成将是其过去一年多笔巨额算力交易的最新一笔。"
+  },
+  {
+   "title": "微软警告：AI代理如同内部威胁，前沿模型不可信",
+   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "微软提醒企业密切监控员工使用的AI代理，称不受AI实验室控制的前沿模型系统如同内部威胁，不可轻信。"
+  },
+  {
+   "title": "纽约市长呼吁：抵制AI接管叙事，要求出台保护监管",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "纽约市长呼吁市民抵制“AI接管不可避免”的叙事，要求制定保护公众的AI监管法规，反对联邦政府不作为。"
+  },
+  {
+   "title": "英特尔申请禁令豁免：美国芯片厂离不开外国AGV机器人",
+   "url": "https://www.ithome.com/1/015/106.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "英特尔向FCC申请豁免针对境外先进机器人的禁令，称其半导体制造严重依赖这些外国自动导引车（AGV）。"
+  },
+  {
+   "title": "AI降低克隆游戏门槛，独立开发者不敢随便晒作品了",
+   "url": "https://www.ithome.com/1/015/126.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "AI编程工具让做克隆游戏变得极快极易，导致原创开发者防不胜防，公开早期作品时变得格外谨慎。"
+  },
+  {
+   "title": "工信部：加力推进AI产业发展，赋能制造业提质升级",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZDBzSWUzb1BIM3BYZmVuRDM2TkpQbkk3aDdyYVYzWkVlbTNadnJVQk4yNHNGcXZZQ2c3Q1R6R3ZFdmR4SHYtU0x4WUhET0J3aENjbnQxZHBLa1FDU3JnTjcyTFpBQUhnVktGcjY2T21ycDRXMHRiU1NvY0o2OEZ1TkJWUGRzRjZxUWZNUlRPRQ?oc=5",
+   "source": "搜狐网",
+   "hot": 4,
+   "summary": "工信部发声，将以更实举措加力推进人工智能产业发展和赋能制造业，助力商品消费提质升级。"
+  },
+  {
+   "title": "英硅智能AI制药达成新里程碑",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EVk9zMVNDOFYzSFdjNlVISmlCU1g4T0tjVHFXQS1XanlTVnFKNFRSQk1LWXQzcVB6YVlpQ3BzNUhmQVJhSVVxa1VrbmJpR2Nfa0FPWC1iSEFxSUhiNzVCNE9KSkpQdw?oc=5",
+   "source": "东方财富",
+   "hot": 3,
+   "summary": "英硅智能与施维雅的AI研发合作达成早期药物发现里程碑，生成式AI在万亿级分子数据库采样中展现潜力。"
+  },
+  {
+   "title": "微软修复Outlook：Copilot AI按钮回归",
+   "url": "https://www.ithome.com/1/015/118.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "微软面向经典版Outlook推送补丁，修复了此前升级导致的Copilot Chat和按钮消失问题，AI入口重新上线。"
+  }
+ ]
+}
