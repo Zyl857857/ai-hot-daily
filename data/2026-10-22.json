@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-22",
+ "generated_at": "2026-10-22 09:42",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月22日\n\n🚗 特斯拉明确Robotaxi时间表：明年Q2车主可接入车队！马斯克画了多年的大饼终于给了准信，你的车马上就能自己出去赚外快了？\n🏛️ 中办国办：全面实施“人工智能+”行动！国家级顶层设计重磅定调，AI全面产业化踩下油门，投资主线已画好。\n🛑 中国拟出台新规：加强先进AI模型出口管控！在全球AI军备竞赛白热化当下，护好核心技术就是护好基本盘。\n🏥 西门子医疗×英伟达：用AI推进下一代癌症诊疗！老黄联手医疗巨头搞出自适应放疗，AI治病救人又落下一记实锤。\n📈 马斯克AI帝国壮大，华尔街上调SpaceX目标价！AI不仅烧显卡，还成了商业航天估值的新密码，资本全在用脚投票。\n🚘 通用汽车推出OnStar AI：能看懂车辆、听懂车主！原生AI助手首发凯迪拉克，以后的车机语音终于能摆脱“人工智障”了？\n🔥 黄仁勋放话：“没技术，谈啥监管？”再提中国唯一！老黄火力全开狂言出圈，直击全球AI监管痛点与中美技术博弈。\n⚠️ AI大模型付费权益“低价共享”靠谱吗？想省钱拼车用大模型？真相是隐私泄露和封号风险极高，普通人千万别踩坑！\n🤖 Salesforce首席科学家：AI Agent黎明之后期待什么？智能体刚撕开夜幕，下一步怎么走？硅谷大佬撰文给你指路。\n💰 AI需求发威！新加坡出口大幅增长！算力狂飙的威力已经传导到宏观层面，真金白银的出口数据说明了一切。\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "特斯拉明确Robotaxi时间表：明年Q2车主可接入车队",
+   "url": "https://www.ithome.com/1/016/209.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "特斯拉在Q3财报会上给出明确时间，预计明年二季度允许车主将车辆接入自动驾驶出租车车队。这意味着马斯克画了多年的Robotaxi大饼终于有了落地节点。"
+  },
+  {
+   "title": "中办国办：全面实施“人工智能+”行动",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0MFEzVGlxLU9pY09FTTgxUkpyS2lHZzBCR3NaczMySE9TRW1jNE16OWZCczJCVEg0VUY3Zlhpemw3VV90UmFpNlViQ0Q4MnAtWDUtNnRZcmJRa2dSc25oODBwbEhWQQ?oc=5",
+   "source": "东方财富",
+   "hot": 5,
+   "summary": "中央层面发文全面实施“人工智能+”行动，机构建议中长期聚焦AI与数据产业投资主线。国家级顶层设计定调，AI产业化全面加速。"
+  },
+  {
+   "title": "中国拟出台新规：加强先进AI模型出口管控",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGFGLTd2bC14Uk9Dc21vREMtWDRqN2NuTTVyN1pNQWxHT0ZhWHI2RnI5UjRHRWp2S2RfUWd2ckpBbUlIMmgyZW9LNlVZR1JuVjk3emlxcWRvejV2RHJCRnI3aVlwdEwxbW9EVGY0U3pYZXRxZVRoUWphbFd3Sk1SWHRTOVlmcHF6RnVEd1VuUEhnSDNtSEhGNzVYSGhENU1HeEE?oc=5",
+   "source": "纽约时报中文网",
+   "hot": 4,
+   "summary": "中国拟出台新规加强对先进人工智能模型的出口管控。在全球AI军备竞赛背景下，此举旨在保护核心技术优势，保障国家安全。"
+  },
+  {
+   "title": "西门子医疗×英伟达：用AI推进下一代癌症诊疗",
+   "url": "https://www.ithome.com/1/016/206.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "西门子医疗与英伟达官宣合作，融合智能体与机器人智能开发自适应放疗技术。AI+医疗迎来重磅落地，癌症治疗精度与效率有望大幅提升。"
+  },
+  {
+   "title": "马斯克AI帝国壮大，华尔街上调SpaceX目标价",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRko5aFIzb1FobE82dnVId0lXZmVmaDBCWUNrcVJma0JaUFphakZRWUlOaENfdm9MaG9wdk9TTHpFRVRuYmJFbnVwTEQ4SUJ2di1lb0NhYjhoRWtNc0NKUDBaYTh6MjBST1dLMXZRdWJOeHZUdW94SVgzY3dRVTVCWEJVM21ZMENBc0ItR2d3dEgxN2ttbE5wTkJkY2wtMElFNjFSU1czUjdzdm5sWUh3?oc=5",
+   "source": "Moomoo",
+   "hot": 3,
+   "summary": "随着马斯克旗下AI业务蓬勃发展，华尔街竞相上调SpaceX目标股价。AI正成为驱动商业航天与估值的新引擎。"
+  },
+  {
+   "title": "通用汽车推出OnStar AI：能看懂车辆、听懂车主",
+   "url": "https://www.ithome.com/1/016/200.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "通用汽车发布全新OnStar AI助手，能理解车辆状态并听懂车主自然语言指令，将率先搭载于2027款凯迪拉克。AI原生车载助手进入实战期。"
+  },
+  {
+   "title": "黄仁勋放话：“没技术，谈啥监管？”再提中国唯一",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1VoVHUyS3JyNUZJeXhPbVcxekE0Qk5ZUFk0N1M4UTMyVDdmQmFidHlYbnJySVRQdVV4RVNSczRzT051cmpnZzIwd2NGaXNYX3JfNGlwdkozc1RiWlNObVlWWTlFalJyZy1Obnh0eUZrYndVYlBBS3BBUnVkUnRveE1qaU10RW5WdExzdVhHaWo1UQ?oc=5",
+   "source": "新浪网",
+   "hot": 5,
+   "summary": "黄仁勋直言“没技术谈啥监管”，点评德国后又强调中国是“世界唯一”。老黄狂言再出圈，直击全球AI监管与中美技术博弈痛点。"
+  },
+  {
+   "title": "AI大模型付费权益“低价共享”靠谱吗？",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtbm5tZTAzWnM0TVpjMThvZ0J2d2R4cDVwdVFXTk5FbXhVT056NU1VN01BWmE5bHFrcFFEdFhuMGRIY0RjdlZfeno1X2ZtLUdPWEVxMTBvenJ5U3hGaUx2WUE0SVdPLUFLZThaUmxLN3VlMjhPeDU4Yg?oc=5",
+   "source": "新浪财经",
+   "hot": 4,
+   "summary": "市面出现大量AI大模型账号低价共享服务，真相调查揭示背后风险。普通人想白嫖大模型，但隐私泄露与封号风险不容忽视。"
+  },
+  {
+   "title": "Salesforce首席科学家：AI Agent黎明之后期待什么？",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zY3VvZ2V1R2tnYndpb3BEQU5KdW1KQVB0T2ZnQ2pGX2hBUjdBd3FTRXR5a29HblpabVh0YTk5TkU0NVdQUUIwM3RxSDR3YW5BUjJlMFhOVmJXUkJrYjd4enI5UVkza3JCOGtidE5xNDBmOGtUMWN6eE5LZzEtNEE?oc=5",
+   "source": "新浪网",
+   "hot": 4,
+   "summary": "李飞飞丈夫、Salesforce首席科学家撰文探讨AI Agent黎明之后的未来。智能体从概念走向应用，行业正寻找下一个爆发点。"
+  },
+  {
+   "title": "AI需求发威！新加坡出口大幅增长",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSUhWZjU3cDNWNDZmVXFUbzZpb1pEY2szZzR4VUdOb3hhalVwTllnOG9FVEdyTWFaOUcxMjV0eW1SbUE5RnhTX0FvOEdUMXlpUk5uWXFjZGxtUHpvX21VTVJXLTR6ZE51bEZNQVBsYmlOYUJBdlFKQjhESkl1Yjc2R1BIVW5LNU1pbWVHamFfOHJBQlFuUVlnZEdwUjBVYUdiNEs5dTZoUWtwU0hLSWZYVENGU04tcldaaHc?oc=5",
+   "source": "Moomoo",
+   "hot": 3,
+   "summary": "受人工智能强劲需求推动，新加坡出口实现大幅增长。AI算力与硬件需求正切实转化为全球宏观经济的强心剂。"
+  }
+ ]
+}
