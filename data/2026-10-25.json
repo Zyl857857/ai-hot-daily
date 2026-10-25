@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-25",
+ "generated_at": "2026-10-25 09:22",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月25日\n\n⚖️ 国办发文：减缓人工智能应用对就业的替代影响\nAI抢饭碗终于惊动官方了！最高层定调，政策要给打工人发护身符，这波安心了。\n\n🗳️ AI也有政治倾向？Grok选共和党，GPT选民主党\n左手Grok右手GPT，大模型原来也带立场！算法中立神话彻底破灭，大选年AI偏见要成焦点了。\n\n🥶 泼冷水：科技圈外几乎看不到AI的回报迹象\n大厂狂欢，传统行业却连水花都没见着。HN几百人激烈讨论，AI泡沫到底啥时候破？\n\n🪦 AI坟场盘点：那些折戟沉沙的AI项目与初创公司\n苹果Siri一再跳票，OpenAI超级应用翻车...大厂画的大饼终于到了还债日，看着真挺惨的。\n\n🗣️ Block发布新语音模型，听起来像真人一样恐怖\n能在MacBook本地跑的极逼真语音！恐怖谷效应直接拉满，以后接电话真得留个心眼了。\n\n📉 美国媒体艺术界流失20万岗位，AI是幕后推手？\n创意圈大地震，20万人饭碗说没就没。AI对内容行业的冲击，已经从预测变成残酷现实。\n\n🏷️ 宾州签署新法：AI生成广告必须加标签\n不标AI生成就违法！监管铁拳终于砸向欺骗性广告，以后看广告得先找小标签了。\n\n⚽ 澳国脚授权AI数字分身，运动员开启肖像权AI商业化\n一人变四分身全球跑！球星IP加上AI分身，躺着也能赚钱的新玩法算是被玩明白了。\n\n🌊 《蓝色星球3》拒绝AI完美，故意保留“粗糙边缘”\n全网都在用AI造假，BBC偏要反其道而行。在AI泛滥的时代，真实反倒成了最稀缺的卖点。\n\n🤔 为什么AI生成的语言那么难懂？\n满篇翻译腔和高级词汇，AI的“塑料味”到底从何而来？网友吐槽太精准，狠狠共情了！\n\n#AI日报 #人工智能 #大模型 #AI就业 #AI监管",
+ "items": [
+  {
+   "title": "国办发文：减缓人工智能应用对就业的替代影响",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CY0w4SllheGtsMkNWVC1Ub0gwYmRESzhVUzEtbW5xcWxJTUFac0VldEZhNllkMVVuY3lUTlBoVzJIWERvSy1qUnQzZnBwNDMwZHJqYzQ1QTV4aE1xYndpczRVTkdudw?oc=5",
+   "source": "东方财富",
+   "hot": 5,
+   "summary": "国办明确提出要减缓AI应用带来的就业替代影响。官方定调，AI抢饭碗问题已到必须政策干预的程度，给打工人吃下定心丸。"
+  },
+  {
+   "title": "AI也有政治倾向？Grok选共和党，GPT选民主党",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "source": "TechCrunch AI",
+   "hot": 5,
+   "summary": "研究发现xAI的Grok强烈推荐共和党候选人，而OpenAI的GPT偏向民主党。AI中立性神话破灭，算法偏见成大选焦点。"
+  },
+  {
+   "title": "泼冷水：科技圈外几乎看不到AI的回报迹象",
+   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "source": "Hacker News",
+   "hot": 5,
+   "summary": "业内热议，除了科技巨头，其他行业几乎没看到AI的投资回报。泡沫还是阵痛？AI落地难的问题被摆上台面。"
+  },
+  {
+   "title": "AI坟场盘点：那些折戟沉沙的AI项目与初创公司",
+   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "从一再跳票的苹果Siri AI，到OpenAI混乱的“超级应用”发布，盘点那些关停或远低预期的AI项目，大厂也难逃翻车。"
+  },
+  {
+   "title": "Block发布新语音模型，听起来像真人一样恐怖",
+   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "Block推出可在MacBook本地运行的语音模型，逼真度极高引发“恐怖谷”效应。语音AI的拟真度又越过了一道红线。"
+  },
+  {
+   "title": "美国媒体艺术界流失20万岗位，AI是幕后推手？",
+   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "source": "Hacker News",
+   "hot": 4,
+   "summary": "美国媒体、影视和艺术领域已流失20万个工作岗位。AI对创意产业的冲击正在从预测变成残酷的现实数据。"
+  },
+  {
+   "title": "宾州签署新法：AI生成广告必须加标签",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "source": "The Verge AI",
+   "hot": 4,
+   "summary": "美国宾夕法尼亚州正式立法，要求所有AI生成的广告必须进行显著披露。AI监管落地，欺骗性广告的好日子到头了。"
+  },
+  {
+   "title": "澳国脚授权AI数字分身，运动员开启肖像权AI商业化",
+   "url": "https://www.ithome.com/1/017/542.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "澳洲国脚授权生成AI数字分身并实现全球多场景商业化。这标志着运动员肖像权在AI时代的变现新模式正式开启。"
+  },
+  {
+   "title": "《蓝色星球3》拒绝AI完美，故意保留“粗糙边缘”",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+   "source": "The Verge AI",
+   "hot": 3,
+   "summary": "BBC《蓝色星球3》为证明真实性，拒绝使用AI生成完美画面，故意保留不完美镜头。在AI泛滥时代，真实成了最稀缺的卖点。"
+  },
+  {
+   "title": "为什么AI生成的语言那么难懂？",
+   "url": "https://arxiv.org/abs/2610.29162",
+   "source": "Hacker News",
+   "hot": 3,
+   "summary": "网友热议AI说话总像翻译腔、堆砌大词。研究探讨AI生成文本的“塑料感”从何而来，直击普通人的日常使用痛点。"
+  }
+ ]
+}
