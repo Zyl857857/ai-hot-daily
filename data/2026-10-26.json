@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26 09:26",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月26日\n\n☢️ 德国拟将停运核电站改建为AI工厂：废弃核电站迎来第二春！英伟达联手德国电力，看中的就是核电站电多地广，算力中心的绝配。\n🔥 马斯克炮轰AI新云厂商：老马又开炮了！直指200多家GPU租赁公司高负债面临生存危机，这是真看不上，还是想压价抄底？\n📱 央视鸿蒙星光盛典定档：鸿蒙应用终于步入“成熟好用”阶段！央视背书，国产系统生态这回是真的稳了，期待12月盛典。\n🛡️ AI说错话算错账谁担责？专属保险来了：AI闯祸终于有人兜底！全国首个AI风险保障方案落地，企业大规模商用可以放开手脚了。\n💼 国办发文减缓AI就业替代：官方定调“AI抢饭碗”(AI抢饭碗)问题！高层首次给出明确政策导向，打工人的饭碗焦虑被正式看见。\n💰 英伟达盯上GPU软件订阅：老黄的商业野心藏不住！不仅要卖你天价显卡，还要每年每卡收1.35万订阅费，刀法越来越精了。\n🎬 Grok首发AI生成视频7分钟：马斯克家AI也来卷视频生成！首发7分钟画面曝光，虽然缺了点艺术灵魂，但可用性正在狂飙。\n🧬 全球首个AI生物安全实验室将问世：OpenAI和Anthropic罕见联手！顶尖大厂布局生物安全防线，防止AI造生物武器，技术向善迈出大步。\n💸 OpenAI与Anthropic大模型暴跌80%：巨头疯狂价格战！几个月内API价格打到骨折，推理成本大跳水，AI应用爆发的奇点真要来了。\n🩺 10岁老CNN击败前沿大模型：医疗AI大反转！10年前的专精小模型在皮肤癌诊断上暴打最新通用大模型，大模型万能论可以歇歇了。\n\n#AI日报 #人工智能 #大模型 #鸿蒙生态 #AI就业",
+ "items": [
+  {
+   "title": "德国拟将停运核电站改建为AI工厂",
+   "url": "https://www.ithome.com/1/017/747.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "德国普鲁士电力9宣布与英伟达合作，评估在停运核电站原址建设“AI工厂”数据中心的可行性。核电站的广阔用地和高容量电力正是AI算力中心最5最需要的，这为退役核电站找到了极具价值的新归宿。"
+  },
+  {
+   "title": "马斯克炮轰AI新云厂商：200多家面临生存危机",
+   "url": "https://www.ithome.com/1/017/746.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "马斯克向主打GPU租赁的AI新云厂商发难，直指其高负债软肋。外界猜测这可能是一场精心算计的压价收购铺路行动，AI云服务市场洗牌在即。"
+  },
+  {
+   "title": "央9视鸿蒙星光盛典定档，见证鸿蒙应用成熟",
+   "url": "https://www.ithome.com/1/017/745.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "2026央视《鸿蒙星光盛典》定档12月5日举办，共同见证鸿蒙应用体验进入成熟好用阶段。这意味着国产操作系统生态迎来了关键里程碑。"
+  },
+  {
+   "title": "AI说错话算错账谁担责？专属保险来了",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUFrbE1HS2wzXy1TajVjSmUxQlpmUHZvT0pzMG1xelo5NlE3ZWdMSzhtMFpvek5FMU02aDVIMjdSNnFjdDR5QlNZQXFEUTJPLWI1Vlc3ZUNOM0wwWmVJWWRZODBSeUswWkdTa0w5WUxZYTFJU1N5ZE9vMkZIZWdRWHYtMjcxQTZ3RDFoUw?oc=5",
+   "source": "手机搜狐网",
+   "hot": 4,
+   "summary": "针对AI应用中可能出现的“说错话”“算错账”等责任归属问题，全国首个人工智能应用风险保障方案发布，AI专属保险正式落地，为AI大规模商用兜底。"
+  },
+  {
+   "title": "国办发文：减缓AI应用对就业的替代影响",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51eWE1b0lhakMwZWg5YlV2MWdRMkV2OC0yMF96ZFlkN2R0ZmluWnlidzR2XzVFRUFMdEZmNXhVekNyT015WU5TRQ?oc=5",
+   "source": "财联社",
+   "hot": 5,
+   "summary": "国办提出减缓AI应用就业替代影响的相关要求。这是高层首次针对AI抢饭碗问题给出明确政策导向，关乎千万打工人的饭碗，意义重大。"
+  },
+  {
+   "title": "英伟达盯上GPU软件订阅：每块卡每年1.35万",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUlQck9qblFSdzFUTjdoVXllajZ6VjYyeWp0clIxRzIyek5GQXhTQWIydUhfOVFGeEo2TVJydk85MVNWeVZUdUplRnhKNkVqb002X1F1NHY2LWR1dzVmNDZnc1RQQnpNeXVBSVh6NF90dDdMcXA3VkdaMlAtX0pNOG9BT19xb3FMU0ZxUFRNa3gxUQ?oc=5",
+   "source": "新浪财经",
+   "hot": 4,
+   "summary": "黄仁勋提出每块GPU每年约1.35万元软件订阅费，英伟达正瞄准GPU软件订阅收入。从卖硬件到卖订阅，英伟达的商业野心进一步膨胀。"
+  },
+  {
+   "title": "Grok首发AI生成视频前7分钟，画面曝光",
+   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "马斯克旗下xAI的Grok模型发布了其AI生成视频“Odyssey”的前七分钟片段。只要不追求极高艺术性，AI生成长视频的可用性正在快速逼近实用门槛。"
+  },
+  {
+   "title": "全球首个AI生物安全实验室将问世",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xMkRfT0dMOEl4NG5jbGItZG9ZenFXbVpiQU5RUlRUeS1wU0o0eWp5Sy1fMkV2SjJUZ2JZaHcyOXJwZjNQdWdDZg?oc=5",
+   "source": "财联社",
+   "hot": 4,
+   "summary": "OpenAI与Anthropic齐参与，全球首个AI生物安全实验室即将问世。顶尖AI公司联手布局生物安全，防止AI被用于制造生物武器，技术向善迈出实质一步。"
+  },
+  {
+   "title": "OpenAI与Anthropic大模型价格暴跌80%",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "source": "Hacker News",
+   "hot": 5,
+   "summary": "短短几个月内，OpenAI和Anthropic将大模型价格最高砍掉80%。巨头疯狂降价，模型推理成本正以惊人速度下降，AI应用爆发的奇点已至。"
+  },
+  {
+   "title": "10岁老CNN在皮肤癌诊断上击败前沿大模型",
+   "url": "https://lynchlab.net/llm-skin-cancer",
+   "source": "Hacker News",
+   "hot": 4,
+   "summary": "研究发现，一个有着10年历史的CNN模型在皮肤癌诊断上击败了前沿大模型。在垂直专业领域，专精小模型依然能暴打通用大模型，给大模型万能论泼了盆冷水。"
+  }
+ ]
+}
