@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29 10:36",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月29日\n\n🚀 腾讯混元大模型 Hy4 即将发布，首增视觉理解\n国产大模型多模态之战再添猛将，“看图说话”成标配！\n\n🔥 Gemini 4 Carbon 发布超越 Opus，OpenAI 竟要买谷歌 TPU\n大模型神仙打架，算力采购更是上演“相爱相杀”的戏码！\n\n💰 韩国芯片创企 FuriosaAI 估值暴涨，硬刚英伟达\n算力市场挑战者再获巨额融资，英伟达的饭碗没那么好端。\n\n📢 谷歌搜索广告将显示 AI 评论摘要\n以后搜东西看网友评价，都是 AI 帮你总结的，商业化真香！\n\n😟 Instagram 负责人：社会对 AI 的负面情绪还会加剧\n科技大佬也承认了，AI 狂飙背后的社会焦虑正在蔓延。\n\n💸 云巨头靠 AI 赚麻了，却陷入现金流危机\n算力基建太烧钱，AI 时代的巨头们都在走钢丝！\n\n🩹 甲骨文画饼扭亏为盈，承诺 AI 融资不超 200 亿美元\n为了安抚投资者，甲骨文给 AI 烧钱设了上限。\n\n📏 11 月起大批 AI 行业标准实施，产业进入工程叙事\n野蛮生长时代结束，AI 行业开始“立规矩”了！\n\n📉 港股 AI 概念股集体走低，MINIMAX 跌近 7%\n大涨之后必有回调，AI 概念股正在经历挤泡沫时刻。\n\n📱 努比亚星云 AIOS 3.0 升级计划公布\n手机系统全面 AI 化，你的下一部手机可能比你还懂你。\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "腾讯混元大模型 Hy4 即将发布，首增视觉理解",
+   "url": "https://www.ithome.com/1/019/328.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "腾讯宣布即将发布混元 Hy4 及 Hy4 flash 模型，不仅大幅提升长程和生产力任务能力，更首次引入视觉理解。这意味着国产大模型在多模态赛道再次加码。"
+  },
+  {
+   "title": "Gemini 4 Carbon 发布超越 Opus，OpenAI 竟要买谷歌 TPU",
+   "url": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "谷歌发布 Gemini 4 Carbon 模型，性能超越 Opus 5.5；同时 OpenAI 拟采购谷歌 TPU 并招聘工程师适配。大模型军备竞赛白热化，敌敌我我格局渐显。"
+  },
+  {
+   "title": "韩国芯片创企 FuriosaAI 估值暴涨，硬刚英伟达",
+   "url": "https://www.ithome.com/1/019/329.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "韩国 AI 芯片初创公司 FuriosaAI 完成 D 轮融资，估值翻两番至 29 亿美元。在英伟达垄断的算力市场，又多了一个带资进场的挑战者。"
+  },
+  {
+   "title": "谷歌搜索广告将显示 AI 评论摘要",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0xCakl2Q2RvWVItLWdNOGYwYmNYOXI5VlY4RjdnbXB4UXAxWF9ibXhKeE5WazQ5dURTTjBLNUJTZTMtNkQ0TEZpY1hpZUhhQU8xeF9HYUJ1cWpCZEswLW82cFM0dmlIZFB6eldBekh0SmJaRWpWTUQyMDdZUWRFYlhkYmpHclRHbUlIbUpBOHl6MV9fZGtIQThnVEg?oc=5",
+   "source": "ALM Corp",
+   "hot": 4,
+   "summary": "谷歌宣布将在搜索广告中显示 AI 生成的评论摘要。AI 渗透进最核心的商业化场景，以后搜东西看网友评价可能都是 AI 帮你总结的了。"
+  },
+  {
+   "title": "Instagram 负责人：社会对 AI 的负面情绪还会加剧",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+   "source": "The Verge AI",
+   "hot": 4,
+   "summary": "Instagram 负责人 Adam Mosseri 坦言，围绕 AI 的负面情绪将会“变得更糟”，连毕业典礼上学生都在狂嘘科技 CEO。AI 狂飙背后的社会焦虑不容忽视。"
+  },
+  {
+   "title": "云巨头靠 AI 赚麻了，却陷入现金流危机",
+   "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxQZ2xsZTlfZ2ZPYzQ5SUlRbXQ5T2JDM2FhZFJ1M1U5djNZMWFwVHFJNnV2ZmZCZmlBSUF6aG9KZjY3QlF0enZLWW1vWEtLX0xRN2oyWWstX3V4amJ3MjhkYVREQk40aVVBN0c3SUlfamFESWt4ZTZUNU03cDk2dWQyU3UzTU5ZdXlNQjRPYnEzQjgwRmc1M2d6T0ZhR29FVmhtTGhfV0JaQXkxaEpoLTBlRDYwUXRJSjFwc1JRb3FXLWRPZFRUMEtHaUkzTkc3bFUwem1HNkZvcnNjMkk3WldKVlVFaXZwdFBXcHh1aWJMLXg3b20tRS1KSXJWMjB2UjVnOFh3VmNkLUs5Q3NaS0ZoU0NGMjJ0REtIYVlKeXN2OW90WmViRXlyS1Robzk3dE5qNWwyUE9nbllfX19Vc1FLLU1hVjh3amlmbGVQeU9YQ3JjYU93akQxMnRQajcxS1YtbVlNcUp5V1ZvTUpCR2tMRFJIbm1xNHpyUFR1bDh5NTJkc2VXUXRBQ1VvV3VYb3c?oc=5",
+   "source": "Moomoo",
+   "hot": 4,
+   "summary": "AI 为云计算巨头带来丰厚收入回报，但巨额的算力基础设施投入让他们面临现金流危机。AI 赚钱是真赚，烧钱也是真烧。"
+  },
+  {
+   "title": "甲骨文画饼扭亏为盈，承诺 AI 融资不超 200 亿美元",
+   "url": "https://www.ithome.com/1/019/333.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "甲骨文披露扭亏为盈计划，承诺到 2030 财年 AI 业务新增融资不超过 200 亿美元，试图安抚投资者对资本开支飙升的担忧情绪。"
+  },
+  {
+   "title": "11 月起大批 AI 行业标准实施，产业进入工程叙事",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uRlM1UXhQS1Y5RERNQWZGUGpRQ2tlQnB2alhGYU1wY2ppMXFDMlpEZTVFQl9aY1BWYlVXZTFGeGxwbm5sRVNIUkpFMHFfVGpwU1NoRWQtZTRDbTBfbVhhaU13?oc=5",
+   "source": "证券之星",
+   "hot": 3,
+   "summary": "11 月将有一大批人工智能行业标准落地实施，标志着 AI 产业从“规模叙事”的野蛮生长转向“工程叙事”的规范落地。"
+  },
+  {
+   "title": "港股 AI 概念股集体走低，MINIMAX 跌近 7%",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSF8wMDJwcWVtTWJyMUhxVkVCemR6VS0yWF9vT0lQVGphUUt6NFhPaGRTenVOaUdiWFBXZE8wbngzY1l0T0JjSXJYZEZ3LTNoZGtncXE2bjZPUEQ0dXZNZzhpY1pQY2pmT1FOdzFGR0E3ZV81eTBqc0Y4d3dXb3FiV3ZYQk5HMGlGZ2VjaGVlaw?oc=5",
+   "source": "21财经",
+   "hot": 3,
+   "summary": "港股人工智能板块今日整体回调，MINIMAX 股价跌近 7%。前期涨幅过大还是泡沫破裂？市场情绪似乎正在冷静期。"
+  },
+  {
+   "title": "努比亚星云 AIOS 3.0 升级计划公布",
+   "url": "https://www.ithome.com/1/019/326.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "努比亚公布星云 AIOS 3.0 升级计划，12 月起向 Z80 Ultra 等机型推送。手机系统全面 AI 化，端侧智能体验再进化。"
+  }
+ ]
+}
