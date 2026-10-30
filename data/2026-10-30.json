@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30 10:49",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.5-flash"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月30日\n\n💡 AI推理引爆全球NAND需求，闪存订单排至2030年 - AI正在重塑硬件市场格局，闪存需求远超预期！\n\n🤖 OpenAI更新AI模型规范，\"忠于人类意图\"成核心准则 - AI安全与伦理框架再升级，行业自律迈出重要一步！\n\n☁️ 腾讯云全球服务器超200万台，加速全球数据中心建设 - 中国云服务巨头全球扩张，算力基础设施再创新高！\n\n🌏 中国—东盟人工智能跨境创新合作活动在南宁举行 - 区域AI合作新篇章，跨境创新引领未来！\n\n📊 《2026年人工智能推理发展趋势报告》编制启动 - AI推理技术迎来系统性分析，行业发展风向标已现！\n\n🔥 西安人工智能大会释放新信号：从算力到词元 - AI技术焦点从硬件基础设施转向语言模型核心要素！\n\n⚖️ 无需信仰宗教即可获得工作AI使用豁免 - AI使用边界引发争议，宗教自由与职场科技碰撞出新话题！\n\n📱 71款L3级AI终端获批，传音手机等入列 - 智能终端再升级，AI能力向消费级产品全面渗透！\n\n🎓 东营市小学AI通识教育课堂展示活动举行 - AI教育从娃娃抓起，下一代数字素养培养加速推进！\n\n🆙 ChatGPT Pro额度翻倍，免费重置或取消 - 付费用户福利升级，免费服务或将收紧，AI商业模式再调整！\n\n#AI日报 #人工智能 #大模型 #科技前沿 #AI应用",
+ "items": [
+  {
+   "title": "AI推理引爆全球NAND需求，闪存订单排至2030年",
+   "url": "https://www.ithome.com/1/019/924.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "AI推理需求重塑NAND闪存市场格局，客户普遍低估了AI基础设施所需容量，闪迪订单已排至2030年。"
+  },
+  {
+   "title": "OpenAI更新AI模型规范，'忠于人类意图'成核心准则",
+   "url": "https://www.ithome.com/1/019/898.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "OpenAI重构AI模型行为准则，将'忠于人类意图'作为五大核心价值之首，强调降低伤害、诚实透明等原则。"
+  },
+  {
+   "title": "腾讯云全球服务器超200万台，加速全球数据中心建设",
+   "url": "https://www.ithome.com/1/019/896.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "腾讯云在全球已部署超过200万台服务器，海外开区速度保持行业领先，加快全球数据中心建设。"
+  },
+  {
+   "title": "中国—东盟人工智能跨境创新合作活动在南宁举行",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KUkNRNGY5VmpwQ2N6d3Jid3ZhNUMxMjhPV3VKeFoxUTZqeEU1VnoxYkpydUozRXJuLWhBd2tCRkNxazJyeEgyVlIxUVM0WURvNnFIME53UURkMUM2cExDck96REZpS19Nc1ZBUVpYWXlLMkwwUHc?oc=5",
+   "source": "新浪财经",
+   "hot": 3,
+   "summary": "中国与东盟在南宁举办人工智能跨境创新合作活动，推动区域AI技术交流与合作。"
+  },
+  {
+   "title": "《2026年人工智能推理发展趋势报告》编制启动",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVV5STdud0hnamd5d1A3Q0lES2dNYXNvRFVOdmNraUVCbXU4SmdFSVBSaW5mLTdXbk5NYWk2UUZ1SFdjVG9WUDVUWGtkQzJVX3lQS0FoSklGTENjeGdKVkZPcEF6T2s5MkRYT2l2eGVOMDNDZjhZX0wtY3NaQmlDUXFIcHBFUXpVVGxHRg?oc=5",
+   "source": "搜狐网",
+   "hot": 3,
+   "summary": "云天励飞牵头编制《2026年人工智能推理发展趋势报告》，将系统分析AI推理技术发展方向。"
+  },
+  {
+   "title": "西安人工智能大会释放新信号：从算力到词元",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWjRUNU8xWHNEallsbTZNem1uUlJVNVVtRVBSYWx4Sl9rRWtVMFFFd21mUDluYmVHcnQwVWluVFJkYVdjNDVpcXFTbDRBdjkyUExVQVZVTlpIbkZQZUM0?oc=5",
+   "source": "华商网",
+   "hot": 3,
+   "summary": "西安人工智能大会聚焦AI技术新趋势，从算力基础设施到语言模型词元层面探讨未来发展。"
+  },
+  {
+   "title": "无需信仰宗教即可获得工作AI使用豁免",
+   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "肯塔基大学管理员获得工作场所AI使用的宗教豁免，引发关于AI使用边界和宗教自由的讨论。"
+  },
+  {
+   "title": "71款L3级AI终端获批，传音手机等入列",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlEtVWRtV2ZsOWMxbTJnVy1yZkRuTE9mcTZjZ3d1Q2pGNXBPQ3c2c19XVERzaTJpNnhQZ29SYl9JM3hPN2Z6MjY1NjRYMEJ0WHp4ZlFGbG44aDI3WDlpUDZIc0lyckwtTll1Unk1eW54ZkU5Y282d0xHLUN5UnlOd2dYTkpDenlYU0hIVw?oc=5",
+   "source": "搜狐网",
+   "hot": 3,
+   "summary": "国家批准71款L3级人工智能终端产品，包括传音手机等，标志着AI终端技术进入新阶段。"
+  },
+  {
+   "title": "东营市小学AI通识教育课堂展示活动举行",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZkJ6ZmxVTS1SZTdVNnI1cWJadEpvbUVMblZkZllXeG5NM0hyVDFFXzd3VFJqUzV5TVRuV2R4cllPQmpRLUlVcG9lQVdCa19pQUpvTlltR2ZjU3A4LWRUZlFiZmN0QWRCWi1pNU92ejI?oc=5",
+   "source": "鲁网",
+   "hot": 2,
+   "summary": "东营市英才小学举办人工智能通识教育课堂展示活动，推动AI基础教育普及。"
+  },
+  {
+   "title": "ChatGPT Pro额度翻倍，免费重置或取消",
+   "url": "https://www.ifanr.com/1686830?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 4,
+   "summary": "OpenAI宣布ChatGPT Pro用户额度翻倍，但可能取消免费重置功能，引发用户热议。"
+  }
+ ]
+}
