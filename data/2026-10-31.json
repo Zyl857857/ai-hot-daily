@@ -1,0 +1,81 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31 10:40",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.5-flash"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年10月31日\n\n🍎 国行Apple Intelligence官宣，千问接入Siri – 苹果AI本土化，Siri终于聪明了！中国用户迎来百度千问搭档，体验大升级。\n🤖 OpenAI调整募资估值 – AI巨头降温，市场波动引发行业震荡。融资目标下调，反映投资理性回归。\n💡 黄仁勋对话实录 – 未来属于物理世界与AI结合的人，定义下一个时代！Nvidia CEO强调融合创新。\n🔥 AI支出泡沫显现 – 大厂投入巨资却面临质疑，可持续性受拷问。债务问题引发对AI热潮的反思。\n👔 AI冲击就业风险 – 专家呼吁看得见防得住，保护劳动者权益。积极应对AI带来的就业挑战。\n🏭 国家AI中试基地启动 – 联合攻坚行业难题，推动AI产业化落地。中国AI应用迈出新步伐。\n🎬 《利刃出鞘》导演推出iPhone相机App – 普通用户也能拍出电影级大片！AI影像技术普惠化。\n💻 苹果首款触控MacBook Pro – 创新触控设计，生产力再升级。最多10点触控，体验更流畅。\n🔒 隐私AI助手Ollie关闭 – 尊重隐私的助手退出，AI伦理引热议。隐私保护在AI时代成焦点。\n📈 AI技术催生经济增量 – 成为经济增长新引擎，产业转型升级。AI赋能创造新价值。\n\n#AI日报 #人工智能 #大模型 #科技前沿 #AI伦理",
+ "items": [
+  {
+   "title": "国行Apple Intelligence官宣，千问接入Siri",
+   "url": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "苹果正式在中国推出AI功能，百度千问成为Siri新搭档，开启本土化AI时代。"
+  },
+  {
+   "title": "OpenAI因市场波动调整募资和估值目标",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlBiNl95cmlJaE80VW8zbnFmbEFYSmJ0VWc4ekVWMFdSclZvQzZmekJ0Z3FfTUs5Y0Q2MFQtVjIwRkpmampKS19taWd3UFRreXFMV3JMR1BENUREYUlDbmxZWmhJbkY3R1FETDRabXBzMElMYW9nT0xZWWpOcW1xd01odVNXcHI4OVFVczl3NlB2UXQxTnJydzdtaHRTY0lBRWRTNjVfb3M?oc=5",
+   "source": "CoinDesk",
+   "hot": 4,
+   "summary": "AI巨头面临市场不确定性，下调融资预期，引发行业震荡。"
+  },
+  {
+   "title": "黄仁勋：未来属于物理世界与AI结合的人",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0c3E5eFdTM2FhTk8ya2YtRTl5djJCdFFiM0tCN2gzS3NweG40ZHdVekZzX29TeHVYbW1KdFdnLTJkSEU1ckdLal9oM1p1TGJ6SUpFcUN4eDlZazVLWGFkNVdrMWxLQ1dtSlJPanRTY2dlV19BNmJ0RA?oc=5",
+   "source": "新浪财经",
+   "hot": 5,
+   "summary": "Nvidia CEO强调AI与物理世界融合的重要性，定义下一代技术方向。"
+  },
+  {
+   "title": "AI支出泡沫显现，大厂面临质疑",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "尽管投入巨资，但债务和现金流问题引发AI热潮可持续性质疑。"
+  },
+  {
+   "title": "AI冲击就业风险看得见防得住",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4waFZtWEx6b3NVcXFtdTY2aklpLVE5NDJlNGFQMTM0SWExbFpUTzgwc0dzUmNvZzJSaTUwWlhoN2NVWUdUdXYtb1JiTTA2U1hLOEtBTUJGbWR4VS1mUWtiOFk5bTFfZlZFTUlRLVlmby11TlFpRENzeXFETW84RDA?oc=5",
+   "source": "手机新浪网",
+   "hot": 3,
+   "summary": "专家呼吁关注AI对就业的影响，提出应对策略以保护劳动者权益。"
+  },
+  {
+   "title": "国家人工智能应用中试基地启动",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9acVgybHBpM3h3WldBeHNxRFlyZVR2dER0Sk5OXzFUc2g3SFMtaFpfa19pUUI4VDVfQmlTRUJ4TXVrY2N0ZTBwREJnTFBlc05nVVdWR3dTTnFKc25PVkx3YQ?oc=5",
+   "source": "千家网",
+   "hot": 3,
+   "summary": "联合攻坚行业难题，推动AI技术产业化落地。"
+  },
+  {
+   "title": "《利刃出鞘》导演推出iPhone相机App",
+   "url": "https://www.ithome.com/1/020/432.htm",
+   "source": "IT之家",
+   "hot": 2,
+   "summary": "好莱坞导演推出影像风格相机App，让普通用户拍出电影级照片。"
+  },
+  {
+   "title": "苹果首款触控MacBook Pro发布",
+   "url": "https://www.ithome.com/1/020/427.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "创新触控设计，最多10点触控，提升生产力。"
+  },
+  {
+   "title": "隐私AI助手Ollie宣布关闭",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "在AI助手泛滥时代，尊重隐私的助手因市场压力退出，引发对AI伦理的讨论。"
+  },
+  {
+   "title": "AI技术变量催生经济增量",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JamxJVTJicXVSNDZ0YUQ1QkMzSTdzdGJ0MDB1M0NZa3lqU0MxSGZua3I4WUpHSVRJWTNqanpWaUxYWkVqV2ZKR3RaZ3NBNUUwZlJkalp4Wl8tY2liLXY5dG1Ydk85Y05tMGE0?oc=5",
+   "source": "中国经济网",
+   "hot": 2,
+   "summary": "AI成为经济增长新引擎，推动产业转型升级。"
+  }
+ ]
+}
