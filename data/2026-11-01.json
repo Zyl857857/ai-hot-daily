@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-11-01 10:28",
+ "llm": {
+  "provider": "glm",
+  "model": "GLM-5.3-Flash"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月01日\n\n🤖 DeepSeek发布全新Agent架构，AI开始指挥AI干活——从陪聊到打工，Agent卷进下半场，下一个瓶颈可能真的是人类自己。\n\n💸 OpenAI新一轮融资目标疑似缩水——史上最贵的融资也不好募了，资本对AI的耐心正在被重新定价。\n\n📉 AI太烧钱，标普把Meta评级展望下调至负面——巨头豪赌AI的账单，华尔街开始认真算账了。\n\n🍎 苹果CEO放话：不做'为了AI而AI'的产品——全网追问苹果AI是不是掉队时，这波回应是克制还是嘴硬？\n\n🕵️ AI初创公司黑进Anthropic——员工信息和内部消息被拿走，造AI的反而先成了靶子。\n\n🦠 恶意软件用大模型给受害者'标价'——勒索团伙用AI筛选谁最值钱再动手，AI武器化不再是科幻片剧情。\n\n🐣 Meta要卖AI电子宠物Muse Charm——给AI一张萌脸装进口袋，AI陪伴硬件这是要成新年货？\n\n🏭 xAI数据中心污染案获准推进——环保组织起诉终于立案，AI算力狂飙的环境代价开始被法律追问。\n\n👁️ 蔡磊团队向渐冻症患者赠送100台眼控仪——技术最温暖的用法：帮失能的人重新'开口'说话。\n\n🎮 Claude被曝拒绝游戏克隆与逆向工程——大模型的合规红线正在悄悄改写开发者的工作方式。\n\n今天的AI圈一句话：巨头在算账，黑产在武器化，DeepSeek在让AI真正干活。你最关注哪一条？评论区聊聊👇\n\n#AI日报 #人工智能 #大模型 #DeepSeek #AI安全",
+ "items": [
+  {
+   "title": "DeepSeek发布全新Agent架构：AI开始指挥AI干活",
+   "url": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "DeepSeek推出全新Agent架构，让AI自主拆解任务、调度其他模型协作完成工作。这意味着AI从'回答问题'迈向'独立干活'，Agent竞赛正式进入下半场。"
+  },
+  {
+   "title": "OpenAI新一轮融资目标疑缩水，史上最贵融资遇冷",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "据报道OpenAI下调了新一轮融资的目标金额，此前的超大规模募资预期未能兑现。AI巨头的烧钱速度与资本耐心之间的裂缝正在显现。"
+  },
+  {
+   "title": "AI烧钱太猛，标普将Meta评级展望下调至负面",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qOHRaUU1NZ0swRVIzMHdJR3FBeEFFbHA0aW5sTGc1MG04MmtZQ3Q3eVMxMUEyVlpfejZJVWYyZFc4ZG01MDk4UGpHT0tNMnpfTlJfUkJpX2dneWhCUUEyZA?oc=5",
+   "source": "证券之星",
+   "hot": 4,
+   "summary": "因AI支出持续攀升拖累盈利预期，标普将Meta的评级展望下调至负面。资本市场开始重新审视巨头豪赌AI的账单。"
+  },
+  {
+   "title": "苹果CEO：不做'为了AI而AI'的产品",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "苹果新CEO公开回应公司在AI领域进展缓慢的质疑，称苹果不想为了AI而AI。在全民狂卷AI功能之际，这种克制是智慧还是嘴硬引发热议。"
+  },
+  {
+   "title": "AI初创公司黑进Anthropic，窃取员工信息与内部消息",
+   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+   "source": "Hacker News",
+   "hot": 4,
+   "summary": "一家AI初创公司入侵Anthropic系统，获取了员工详细信息和内部消息。AI公司手里的敏感数据，正在成为黑客眼中的新靶子。"
+  },
+  {
+   "title": "恶意软件用大模型给受害者'标价'，专挑有钱的下手",
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "source": "Hacker News",
+   "hot": 4,
+   "summary": "安全界发现新型恶意软件利用大模型对受害者进行价值排序，优先攻击高价值目标。AI武器化已经从假设变成现实。"
+  },
+  {
+   "title": "Meta推出AI电子宠物Muse Charm，给AI一张萌脸",
+   "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "source": "The Verge AI",
+   "hot": 3,
+   "summary": "扎克伯格要在假期季开卖带'萌脸'的AI伴侣设备Muse Charm，还有开发者抢先自制了AI电子宠物。AI陪伴硬件正成为下一个消费电子风口。"
+  },
+  {
+   "title": "xAI数据中心污染案获准推进，NAACP诉讼继续",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "美国法官裁定NAACP指控xAI数据中心违反清洁空气法的诉讼可以继续推进。AI算力狂飙背后的环境代价开始被法律追问。"
+  },
+  {
+   "title": "蔡磊团队向渐冻症患者赠送100台眼控仪",
+   "url": "https://www.ithome.com/1/020/672.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "蔡磊团队志愿者组装100台眼控仪免费赠送给渐冻症病友，此前已捐出10台呼吸机。眼动追踪等AI辅助技术正在帮失能患者重新连接世界。"
+  },
+  {
+   "title": "Claude被曝禁止游戏克隆与逆向工程类请求",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+   "source": "Hacker News",
+   "hot": 3,
+   "summary": "开发者发现Anthropic的Claude会拒绝游戏克隆和逆向工程的请求。大模型的合规红线怎么画，正直接影响无数开发者的工作流。"
+  }
+ ]
+}
