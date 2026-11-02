@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02 10:39",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月02日\n\n🚀 GPT-6.2与Fable 5.5双双曝光：全球基模大战一触即发，OpenAI和对手接连放招，AI圈疯狂11月正式开场！\n🔬 西湖大学成立世界模型研究中心：三年要造千亿参数世界模型，奥特曼密会三星50位高管谋局未来十年商业落地。\n🕶️ AI眼镜不能无节制记录：上海AI协会秘书长发声敲警钟，全天候录制数据全交企业，这绝对越过隐私红线了！\n⛰️ 机器人登泰山大赛开赛：机器狗狂飙泰山3100级台阶，跑得连记者都追不上，这波具身智能进化太猛了。\n📉 AI支出担忧引发科技股抛售：巨头烧钱太猛变现却难，资本市场对AI的耐心正在耗尽，开始用脚投票。\n🤖 优必选发布具身智能仿真平台：让真实世界秒进仿真，一站式解决机器人能力评测痛点，加速具身智能落地。\n🦟 中国推出AI激光灭蚊设备：硬核物理灭蚊法上线，AI瞄准激光开火，这科技狠活蚊子看了都害怕！\n🫧 AI泡沫将爆破？：高昂算力成本与缓慢营收的矛盾加剧，一群小公司快撑不住了，行业洗牌期要来了？\n🏎️ 贾跃亭称FFR机器人销量破千：老贾高调宣布10月再刷新高且持续正毛利交付，年底还要冲刺2000台，你看好吗？\n⚖️ AI闯祸保险赔吗？：智能体事故责任认定成盲区，出了事到底谁担责？AI理赔成了亟待破解的新难题。\n\n#AI日报 #人工智能 #大模型 #具身智能 #AI隐私",
+ "items": [
+  {
+   "title": "GPT-6.2与Fable 5.5双双曝光",
+   "url": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "全球基模大战再起，GPT-6.2 Astra和Fable 5.5一夜之间接连曝光，预示AI圈疯狂11月正式开场。"
+  },
+  {
+   "title": "西湖大学成立世界模型研究中心",
+   "url": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 4,
+   "summary": "西湖大学官宣成立世界模型研究中心，计划三年内构建千亿参数模型；同时奥特曼与三星高管座谈AI未来十年商业应用。"
+  },
+  {
+   "title": "AI眼镜不能无节制记录",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UNkxKQXFscmczMkpFZmxtMm9xdDZFSE9ISmxFb1FtUWVBRzhFYTE4MGFGRW43SUlWZ0lBdU8yWkJ0bmc1OFRmMlltRVE3cHNMSmUxODJfVTVYOG5yTGo1aw?oc=5",
+   "source": "ThePaper.cn",
+   "hot": 4,
+   "summary": "上海AI行业协会秘书长发声，指AI眼镜不能无节制记录，数据全交企业掌控已越过隐私红线，引发对可穿戴设备隐私的广泛关注。"
+  },
+  {
+   "title": "机器人登泰山大赛开赛",
+   "url": "https://www.ithome.com/1/020/890.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "首届CMG世界机器人登泰山大赛开赛，各类机器狗和机器人在3100级台阶上实景比拼，速度极快连记者都跟不上，展现具身智能强大运动能力。"
+  },
+  {
+   "title": "AI支出担忧引发科技股抛售",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc18tMUxxX2J0UWR6NlpLOGF5b3p2TUlwOGdSTmRSWlNxUW96bTRkUW1CQnJJWnBQN1RBcmFZNTVxOEdLR294V1ZGVm92OFM2Y0ZSblJFS2t0YldyODQza0xlQUQ1a0ZkSHRVYVRwVXVveUxBRnBnLUExRWZCVW1JWk9LNlZZeGtFZVllNURRVUtYRDN0aGFpTEs2Y0JOZEs3bWlESnJiRkhDaUVGam5n?oc=5",
+   "source": "Moomoo",
+   "hot": 4,
+   "summary": "市场对人工智能巨额支出的担忧加剧，引发科技股大幅抛售，AI商业变现能力再次面临资本市场严厉质疑。"
+  },
+  {
+   "title": "优必选发布具身智能仿真平台",
+   "url": "https://www.ithome.com/1/020/888.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "优必选发布Thinker-Sim具身智能仿真平台，提供高保真场景重建与规模化数据合成，一站式验证机器人能力，加速具身智能落地。"
+  },
+  {
+   "title": "中国推出AI激光灭蚊设备",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03UGNHa0Q3dXotR0ZWRjFyTHFhcmt1RDk2X1BJRm5wQkx3dVVkUnNiSkFwcU9WbWVqY3pfbFprVlNiZS02SEp1QnBmTGFvOENxSjRkVUJLTno5NTNQRGxSMDFtN2RUUEk?oc=5",
+   "source": "纽约时报中文网",
+   "hot": 3,
+   "summary": "中国企业推出“激光灭蚊防空系统”，结合AI视觉瞄准与激光射击消灭蚊子，硬核科技走入日常生活引发热议。"
+  },
+  {
+   "title": "AI泡沫将爆破？",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wNE5wYWtPSGs0YjR1VG8yRF9SZkFTMnFXUzg5dkhqeU4wV2hKWXpBT1FUUjNTeHBKRVdQWXlNRHFfOHFZeU5HMDU3UjZXcHNTdENuVE03SFdYX3JXbzUwNjRmbEQ5MWfSAWxBVV95cUxNOWMzWFN2RmN5SzJBMmhmOE9tNkc4VDRsWGVIbzR5QWVtdmNjVEktb3p0Rk5MOVgyNTU5UU5JWHBIaS11aUlQOU53ekFqZmEweXVPMlpnS3JGYnVVd3lMVm9SVmdGenNvU0NMQzI?oc=5",
+   "source": "BBC",
+   "hot": 3,
+   "summary": "BBC报道指出，一群小公司正加剧对AI泡沫的担忧，高昂算力成本与缓慢的营收增长让行业面临泡沫破裂风险。"
+  },
+  {
+   "title": "贾跃亭称FFR机器人销量破千",
+   "url": "https://www.ithome.com/1/020/894.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "贾跃亭发布周报称FFR机器人10月销量超351台再刷新高，累计破千台并持续正毛利交付，预计年底冲刺2000台，引发行业围观。"
+  },
+  {
+   "title": "AI闯祸保险赔吗？",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IRk1LOFY3NjNYRTNmd0hNWlJpcW9YaGpMcGZHWmV2RHMwM3dhLXVoX1owRDJvR3pxZ3ZWLXJvdHlzMjBIZVgzYlhXbVdEN0JIY3o2RVVzWXFROXFsRm40Y1FhY01JVW1h?oc=5",
+   "source": "中国新闻网",
+   "hot": 3,
+   "summary": "随着AI应用普及，AI导致事故的责任认定成为焦点，人工智能闯祸后保险如何理赔引发行业探讨与关注。"
+  }
+ ]
+}
