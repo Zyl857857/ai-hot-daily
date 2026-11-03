@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03 12:00",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月03日\n\n⚖️ 男子盗用大模型算力卖钱被判3年\n薅AI羊毛入刑第一案！破解接口偷卖算力，技术作恶必遭重锤。\n\n🤖 Anthropic招股书曝暗雷：AI已接近自我演进\n终极恐惧要成真？递归自我改进模型若失控，人类还能拔插头吗！\n\n🏛️ 2026年世界互联网大会乌镇峰会开幕\n大佬齐聚江南水乡，今年主旋律锁死AI与开源，重磅发布密集来袭！\n\n🌍 世界人工智能合作组织实体化，38国加入\n中国牵头全球AI治理，从各自为战走向抱团定规矩，话语权拉满。\n\n🛡️ 发改委：强化监测AI就业替代风险，做好兜底保障\n官方给打工人吃定心丸！AI抢饭碗不怕，国家强化预警并托底社保。\n\n👩‍💻 发改委：AI催生“员工+智能体”新业态\n以后上班标配带个AI搭子？人机协同组队开黑成职场新潮流！\n\n💊 AI制药大佬放话：未来所有药物都将由AI设计\n震撼预言！医药圈要迎大洗牌，以后吃的药全是AI算出来的？\n\n🇮🇳 谷歌AI故事生成工具Dreambeans进军印度\n支持13种本土语言，科技巨头卷完功能卷普惠，让普通人也能玩转AI。\n\n💰 Meta拟发债筹集至少200亿美元加注AI\n半年狂融几百亿美金，扎克伯格砸钱建算力池绝不手软，豪赌AGI！\n\n🍎 苹果财报暗示：将探索第三方AI应用变现\n果子终于要对AI生态动手了？给第三方AI开变现口子，开发者狂喜！\n\n#AI日报 #人工智能 #大模型 #AI就业 #乌镇峰会",
+ "items": [
+  {
+   "title": "男子盗用大模型算力卖钱被判3年",
+   "url": "https://www.ithome.com/1/021/484.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "上海首例利用AI伪造签名盗用大模型算力案宣判，宗某某破解接口薅走400万账号积分并倒卖算力获利。AI安全与合规红线不容触碰，技术黑产面临严打。"
+  },
+  {
+   "title": "Anthropic招股书曝暗雷：AI已接近自我演进",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02MHY3Z3ZWV0R1Q1BfYW1yaWlXSm1JdDEzdnJnVEJFbk83d1BfbkdKM0JRZkFvRGhPaWFTbUVYTUxRUlA5QnI1Tg?oc=5",
+   "source": "财联社",
+   "hot": 5,
+   "summary": "Anthropic招股书透露其模型已接近RSI（递归自我改进）状态。AI自我演进恐从理论变现实，安全失控风险引发行业震动。"
+  },
+  {
+   "title": "2026年世界互联网大会乌镇峰会开幕",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xMG5yeEVhX1FQMUJCYUQxYkVQdlRRYUF3UUdCRFc5WEVLSUg4dmhld1Z0aWZKTGdza0h1Y1RKYlo3OGhHRTBsVUt5LXFrSEF0Z2F5Mmk0UXhqaXBSRXdPcUNsRjZZdkNMVlhlRmdSRUc?oc=5",
+   "source": "中国科技网",
+   "hot": 4,
+   "summary": "乌镇峰会今日正式拉开帷幕，开源共享与人工智能发展成为全场焦点，各大厂密集发布先进技术与产品。"
+  },
+  {
+   "title": "世界人工智能合作组织推动实体化，38国加入",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBld3pMYzBJamNMbk90T3M3dEp4cHVlcTdMcjg0cHY3WERkdXZtbmtMcWg0RmhaUXAwTzlONjVqZUhsNURRMXRKMHdOTFVuR3lLOU9LWl9QUEdHUExxeUw3Mw?oc=5",
+   "source": "证券之星",
+   "hot": 4,
+   "summary": "发改委宣布我国正推动世界人工智能合作组织实体化运行，已有38国作为创始成员国加入，全球AI治理迈出关键一步。"
+  },
+  {
+   "title": "发改委：强化监测AI就业替代风险，做好兜底保障",
+   "url": "https://www.ithome.com/1/021/475.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "国家发改委明确表示密切关注AI对就业结构影响，强化替代风险监测预警，并做好兜底性、普惠性社会保障，打消大众顾虑。"
+  },
+  {
+   "title": "发改委：AI催生“员工+智能体”新业态",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3pHcExKQURzOUlnTFVEV0JnR2h6MEZQTC1zQ2FjVVNrUUlMTF9kREpVS2xkeFowd3BkT1RqZFlsUnd1WGowRVA2dFAyUVB6T1pwdzZnNGJyX3BqZXEwODRQWklxaFdiVGxneEVMQngtUWlVcm9vTmg3R3hyR0k5ZDVB?oc=5",
+   "source": "手机新浪网",
+   "hot": 4,
+   "summary": "发改委指出人工智能正在催生人机协同新业态，“员工+智能体”模式涌现，未来打工人可能人手一个AI搭子。"
+  },
+  {
+   "title": "AI制药大佬放话：未来所有药物都将由AI设计",
+   "url": "https://www.ithome.com/1/021/477.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "同构实验室总裁大胆预测，未来所有药物都将由AI设计，区别只在时间早晚。AI+生命科学赛道迎来强心剂。"
+  },
+  {
+   "title": "谷歌AI故事生成工具Dreambeans进军印度",
+   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "谷歌AI实验项目Dreambeans扩展至印度，支持13种印度本地语言，让普通大众也能用AI生成个人故事，AI普惠加速落地。"
+  },
+  {
+   "title": "Meta拟发债筹集至少200亿美元加注AI",
+   "url": "https://www.ithome.com/1/021/481.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "Meta正考虑发行投资级债券筹集至少200亿美元，这是其半年内再次大规模融资，重金押注AI基础设施决心可见。"
+  },
+  {
+   "title": "苹果财报暗示：将探索第三方AI应用变现",
+   "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "苹果在财报电话会上暗示，正寻找通过第三方AI应用增加营收的机会。Apple Intelligence生态变现有了新动向。"
+  }
+ ]
+}
