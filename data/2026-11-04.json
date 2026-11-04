@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04 11:10",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.5-flash"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月04日\n\nAI圈今日炸锅！大厂动作不断，技术突破频发，十大热点速递：\n\n🍎 苹果AI开测，Siri接入千问 – 本地化升级，Siri秒变中文达人，用户体验飙升！\n\n🚀 全球首个千公里空芯光纤验证 – 通信革命，网速飞升，未来网络快如闪电！\n\n🏢 人工智能+大会启动 – 央企AI共创，国产算力崛起，技术自主再突破！\n\n🤔 AI会取代基础研究？关键在人！引发伦理风暴，未来工作大讨论。\n\n🏥 健康AI领先全球 – AI守护健康，中国领跑，医疗普惠新篇章开启！\n\n🚗 东风奕派M8激光版上市 – 自研智驾，告别华为依赖，汽车AI新标杆！\n\n💬 请停止问AI泡沫何时破裂 – AI发展，理性看待，拒绝炒作！\n\n🎮 PC游戏模组站对AI立场 – AI模组需声明，保护原创，游戏生态更健康！\n\n🚙 极氪计划硬派越野SUV – 对标奔驰大G，AI加持，越野智能新体验！\n\n📚 世界互联网大会蓝皮书发布 – AI趋势指南，未来已来，行业风向标！\n\nAI改变生活，关注未来！#AI日报 #人工智能 #大模型 #AI应用 #科技前沿",
+ "items": [
+  {
+   "title": "苹果AI开测，Siri接入千问",
+   "url": "https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "国行苹果AI开测，Siri接入千问；苹果AI本地化升级，直接影响用户日常智能交互体验。"
+  },
+  {
+   "title": "全球首个千公里空芯光纤双向实时传输验证",
+   "url": "https://www.ithome.com/1/021/957.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "中国电信等联合完成全球首个千公里空芯光纤双向实时传输；通信技术重大突破，推动网络速度飞跃。"
+  },
+  {
+   "title": "人工智能+大会启动，发布国产算力新成果",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTDZZbmJuc0s2MkNUTEZmNjIydEZmU2F4V3RlWERoS0tnUTRieXJzNDUyOUxZN3FBTU1XQm51RzRvM1ZsZTRsZERYSjdCOUtVdjRUWGVtNmdsZnpPT3pBUlRQV0R6d1V1Z2JuTjhkQnFSendfMVVIMVBZNWFacFR0Wk9R?oc=5",
+   "source": "国际科技创新中心",
+   "hot": 4,
+   "summary": "人工智能+大会启动央企场景共创，发布国产算力与物理AI新成果；促进AI在央企落地，加速国产技术崛起。"
+  },
+  {
+   "title": "人工智能会取代基础研究吗？关键还在人",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FT3FlRUt2R2dqWkhQc1lFVHNmVGVNSlRETGNLczBxOUpWTmlva08wOWdFOHNnRkxIbVMzQWV3MWx6TzhfMUJyZDJNaHBnTmRhVUhPbGtOVUtpN3N2X2c?oc=5",
+   "source": "京报网",
+   "hot": 4,
+   "summary": "探讨AI是否会取代基础研究；引发AI伦理和未来工作深度讨论，话题度高。"
+  },
+  {
+   "title": "健康中国遇上人工智能+，中国跑出全球领先的健康AI",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZMlE4X2xkaHRfdXVVVlBYM1dJZjBLUEJ3M3RXWm1EVm1XOEFNalNjWGpIWE1YZjBpd0pVQVNlUHl6YkZfSzJTSktyRDlsZW1YNE9tWFdqVy1kZk9FclduZ0EtQXdPX3FYX3BGWS00b0k?oc=5",
+   "source": "手机新浪网",
+   "hot": 4,
+   "summary": "健康中国遇上AI+，中国领先健康AI技术；AI医疗应用普惠民生，改善普通人健康管理。"
+  },
+  {
+   "title": "东风奕派M8激光版上市，自研智驾替换华为",
+   "url": "https://www.ifanr.com/1687538?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 3,
+   "summary": "东风奕派M8激光版上市，用自研智驾替换华为；汽车AI自研突破，降低成本提升智能驾驶体验。"
+  },
+  {
+   "title": "请停止问AI泡沫何时破裂",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+   "source": "The Verge AI",
+   "hot": 3,
+   "summary": "呼吁停止问AI泡沫何时破裂；讨论AI发展可持续性，避免过度炒作，行业反思热点。"
+  },
+  {
+   "title": "PC游戏最大模组站对AI采取立场",
+   "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+   "source": "The Verge AI",
+   "hot": 3,
+   "summary": "PC游戏最大模组站要求AI模组声明；规范AI内容使用，保护原创版权，争议话题。"
+  },
+  {
+   "title": "消息称极氪计划推出硬派越野SUV：对标奔驰大G",
+   "url": "https://www.ithome.com/1/021/961.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "极氪计划推出硬派越野SUV，预计2028-2029年量产；汽车AI新应用，吸引消费者关注。"
+  },
+  {
+   "title": "2026年世界互联网大会蓝皮书发布",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SMXdhNFUwLTlYVmlNcTNtYUdhRUpONi0wendkaHczMkRtOFl1aDVUYVo3UjNTY0p6dWJSd1FVcmNJbTJYNFpWbENqaEowWWJKLUJHdTRkY0RsaGF5Z1hEVg?oc=5",
+   "source": "ThePaper.cn",
+   "hot": 4,
+   "summary": "世界互联网大会蓝皮书发布；总结AI行业趋势，指导全球AI发展方向，权威性强。"
+  }
+ ]
+}
