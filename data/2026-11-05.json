@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05 11:36",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月05日\n\n🚀 Kimi发布托管智能体：Agent开发进入“免运维”时代，7x24小时云端托管，开发者狂喜！\n🍎 苹果被曝削减内部AI预算：表面大搞AI，背地砍预算？果子家的AI战略让人看不懂。\n🎮 AI抢产能致任天堂卡带告急：算力太吃香，连游戏机的ROM芯片都被挤兑了，玩家落泪。\n🏫 谷歌默认关闭学生AI工具：AI进校园遇冷，把关权交还给学校，防作弊还是防依赖？\n⚠️ 盖茨怒批美政府AI监管不作为：大佬发话了，再不管控，失控的AI模型迟早出大事！\n🌐 乌镇峰会发布开放AI倡议：算力数据要共建共享，全球AI协作有了新风向。\n💬 蔡崇信力挺AI开源：闭门造车行不通，开源才能让更多人上车。\n📱 小米新机确认支持端侧大模型：明年新机标配端侧AI，小爱同学要进化了！\n⚡ 美国数据中心争议加剧：AI要算力，居民要环保，中期选举后这仗有的打了。\n💼 如何应对AI就业替代风险：打工人必看，与其焦虑被取代，不如提前挖好护城河。\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "Kimi发布托管智能体，Agent开发免运维",
+   "url": "https://www.ithome.com/1/022/572.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "Kimi推出Hosted Agents，将Agent运行框架作为云端服务提供，开发者无需自建即可获7×24小时托管环境，大幅降低智能体开发门槛。"
+  },
+  {
+   "title": "苹果被曝大幅削减内部AI团队预算",
+   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "source": "TechCrunch AI",
+   "hot": 4,
+   "summary": "科技巨头苹果被曝正在显著削减工程团队在AI上的支出，这与其在公开场合强调AI战略形成反差，引发内部对AI优先级的猜测。"
+  },
+  {
+   "title": "AI抢产能！任天堂实体游戏卡带供应链告急",
+   "url": "https://www.ithome.com/1/022/574.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "因AI算力需求激增挤占产能，任天堂实体卡带核心ROM芯片供应商遭遇罕见供应压力，AI热潮正深刻影响传统硬件供应链。"
+  },
+  {
+   "title": "谷歌默认关闭学生AI工具，改由学校把关",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ0E5bGcxcUpyS0RSblpQY3lFc3hDNVVRVDFQc3BGUzVQZVBLa1U3alJuN3p6Qzk1S1Y2eURhX1hFaW5hUzNQX2cwM2lNbnhmQXNNRUN5YTNqX21GNlFaSXBMb2xOSWNmNWR2bmptRURCb0NRaTMyTlVfamRjY0ZYVkJIVE82bC1OeU04c3FNRQ?oc=5",
+   "source": "8world",
+   "hot": 3,
+   "summary": "谷歌调整教育政策，将学生AI工具默认关闭，交由校方决定是否启用，反映出教育界对AI辅助学习的谨慎态度。"
+  },
+  {
+   "title": "盖茨怒怼美政府AI监管不作为：模型失控将成隐患",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TOTI4MFI4NzBYVW9zVlhWbnVwY2ZOVC0tSVVJSjI3SjR6V25aNjVzLXVRS1hiakNYcHNvblBrbWpsZzBrQXhCUg?oc=5",
+   "source": "财联社",
+   "hot": 4,
+   "summary": "比尔·盖茨公开批评特朗普政府在AI监管上的不作为，警告若不加限制，失控的AI模型将构成严重社会隐患。"
+  },
+  {
+   "title": "乌镇峰会发布开放AI行动倡议",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04aEhOUUExV2RiQUxzSTVKMkRzUU1zWW43NzNVRGZxV2Y2eVFmZVR1NnZZTjlLRGo4ZmYySnBldG1sU05ORWtqSjFfZHYyTjVHQmdfc2JmY1hMQURTdFNVLVNRQ3Vwd1lMcy1hLUY1Y29EUjVLaXc?oc=5",
+   "source": "数字中国建设峰会",
+   "hot": 4,
+   "summary": "世界互联网大会乌镇峰会发布开放AI行动倡议，呼吁推动算力与数据共建共享，为全球AI协作定调。"
+  },
+  {
+   "title": "蔡崇信：开源让更多人参与人工智能发展",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YeUlrdlR4OUZMYTVqdHJqaEtLWm4yeklKWk94TVNmeTNGSXhMNVZLRk05Q0kwdllEQzQ5czM1azJXTFpENERFUDd6amgwTUpqa0p5YXlDMzBTSVBKTl9rTnQ2SUttWHlxWFpseWpGVEQ1Q2UwQWlrZFlUclM?oc=5",
+   "source": "中国日报网",
+   "hot": 3,
+   "summary": "阿里巴巴集团董事会主席蔡崇信发声，强调开源模式对AI发展至关重要，能让更广泛群体参与到技术演进中。"
+  },
+  {
+   "title": "小米多款新机通过认证，支持端侧大模型",
+   "url": "https://www.ithome.com/1/022/576.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "小米多款预计明年年初发布的新机通过SRRC认证，明确支持小米自家端侧大模型，手机端AI落地加速。"
+  },
+  {
+   "title": "美国中期选举后，AI数据中心争议加剧",
+   "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+   "source": "TechCrunch AI",
+   "hot": 3,
+   "summary": "随着AI算力需求暴增，数据中心的扩张引发跨党派反对，中期选举后围绕算力基建与环保的冲突将更加激烈。"
+  },
+  {
+   "title": "如何积极应对人工智能的就业替代风险？",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMXo4RnFFMHpJdS04UHV5blR5eXZRZF84dkF4Qk5ZV3hLX29wdDlRUDBTa292T0JGU2NSbGJpbEd0QVBaNnl5akcycGF1STRqbEJmNk9JX043U25DUWREODBndzJoYXowSXdqSUdlLXVLaXZQekxpQXNaV3dpSUdXaw?oc=5",
+   "source": "手机新浪网",
+   "hot": 3,
+   "summary": "随着AI能力跃升，就业替代成为不可忽视的社会议题，各界呼吁需提前布局，积极应对AI对传统岗位的冲击。"
+  }
+ ]
+}
