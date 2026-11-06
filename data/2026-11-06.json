@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-06",
+ "generated_at": "2026-11-06 11:31",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月06日\n\n🚀 OpenAI发布GPT-6 Cyber：一口气复现1724项安全漏洞，AI当黑客不是梦，网安攻防要变天！\n📉 美中期选举引发AI监管恐慌：民主党高层呼吁限制扩张，AI科技股惨遭历史性抛售，政治风向成最大变数。\n💰 中国移动狂砸千亿搞算力：明年算力投资超1000亿，智算能力连续翻番，国家队硬核托底AI基建！\n🔥 Hugging Face CEO开炮：别炒AI末日论了，封闭开发模式才是真危险，开源与闭源之争再添猛料。\n🚕 一句话AI叫车来了：曹操出行接入移动12580，AI意图识别让打车比点外卖还简单，真·动嘴就行。\n🧊 大摩前主席发警告：经济周期逆转叠加政策收紧，AI泡沫可能随时破裂，给狂热市场泼盆冷水。\n📚 湖南中小学AI教育全面铺开：每学年不少于8课时，AI从娃娃抓起，编程和AI素养成下一代标配。\n⚡️ 国家能源局推AI+能源试点：93个项目入选，AI不再只是聊天框，开始深度赋能国家能源大动脉。\n🤝 OpenAI放弃数据中心NDA：顶不住选民反对声浪，OpenAI宣布放弃保密协议，对社区透明度妥协。\n🎮 游戏圈真实态度：用AI提效真香，但对可见的生成内容依然谨慎，效率工具好做，C端体验难平。\n\n#AI日报 #人工智能 #大模型 #AI应用 #科技股",
+ "items": [
+  {
+   "title": "OpenAI发布GPT-6 Cyber，复现1724项漏洞",
+   "url": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "OpenAI发布安全向新模型GPT-6 Cyber，成功复现1724项安全漏洞。这标志着AI在网络安全实战中取得重大突破，攻防游戏规则或被彻底改写。"
+  },
+  {
+   "title": "美中期选举引发AI监管焦虑，科技股暴跌",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVVSOTg3NWJWMi1WS0xyZ1lPYldCVXlsWGdPMkZuczJhSjA2M1dfTTNlcEhUQjk4WmM3SVNhalprcU9teUFUTFE2c21selBGVFFUQVo5dUx5YUhlWTFsTFNDd3BGd1N0UFJqZ1N0amFtLUtzc3VOMDNiRXVCdDNHNzlBSi1tUGJK?oc=5",
+   "source": "纽约时报中文网",
+   "hot": 5,
+   "summary": "美国中期选举结果引发市场对AI将面临严监管的恐慌，AI板块遭遇历史性抛售。政治风向正成为AI产业最大不确定性。"
+  },
+  {
+   "title": "中国移动明年算力投资超1000亿，智算能力翻番",
+   "url": "https://www.ithome.com/1/023/197.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "中国移动宣布明年算力投资超千亿，未来两年智算能力连续翻番。国家队重金押注，国内AI算力基建狂飙突进。"
+  },
+  {
+   "title": "Hugging Face CEO：AI末日论太夸张，封闭开发更危险",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR29aOGJNUG55dUpuRzZDTHVhTGphajBRVi12a0dYUjdCellKN25pdEFoTmczcjNKbk9ZQk9idFItZWpLQmhKMkRIOHZrbEF4NEZMWldqNjJLYmRPWWhES0FfbHEyb3VkVFZpa01qWTZZeDVwQjNOeV9QU052WWZtT1NjUTBDWjJHNkdaRQ?oc=5",
+   "source": "搜狐网",
+   "hot": 4,
+   "summary": "Hugging Face CEO发声，认为AI“末日风险”几乎为零，反而封闭开发模式更值得警惕。开源与闭源之争再添猛料。"
+  },
+  {
+   "title": "曹操出行接入中国移动12580，实现一句话AI叫车",
+   "url": "https://www.ithome.com/1/023/172.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "曹操出行成为中国移动首个打车生态伙伴，结合12580智能助理实现AI语音叫车。AI意图识别落地出行场景，动动嘴就能打车。"
+  },
+  {
+   "title": "大摩前主席警告：经济周期逆转，AI泡沫可能破裂",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40UFY3NkNZUTdVeEMwdW1takN6b2htay1rcG5zSjdvLVZicy1vS1VlLUVVYkNHUGxQT0FKRTBpOTNSYTVnM0J3U09SMWhtZ1lqM2w4bDF0M1paUQ?oc=5",
+   "source": "加美财经",
+   "hot": 4,
+   "summary": "摩根士丹利亚洲前主席罗奇发出警告，民主党大胜难阻经济周期逆转，AI泡沫面临破裂风险。给狂热的市场泼了一盆冷水。"
+  },
+  {
+   "title": "湖南中小学AI教育全面铺开，每学年不少于8课时",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGSk5CcUYzdzFMWFBIX2lyLU5ReEQ4dDV2NllPQXV2NFIzTlhZWlRqYzhmeXpoclVlTXRBSzZPYUo3cjdLZEFfRThWLWhId2Q1Y3VHdmtrU1hPWVQ3TXplZw?oc=5",
+   "source": "Google News AI中文",
+   "hot": 3,
+   "summary": "湖南省中小学人工智能教育全面铺开，规定每学年不少于8课时。AI从娃娃抓起，编程与AI素养成下一代标配。"
+  },
+  {
+   "title": "国家能源局公示“人工智能+”能源试点清单",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2UFBlTm1qREs2aGtlUjA0NE5yb2s2SDJJT0c1aktDQXZMVDNkclBhWnZfaF95eDA3cWc4cE9Za293cWM0X1hvV0tBQnFOblRmdm9IR1dKTjExMG5feHYtZg?oc=5",
+   "source": "碳索储能网",
+   "hot": 3,
+   "summary": "国家能源局公示93个“人工智能+”能源试点项目，其中3个储能专项入选。AI深度赋能国家能源体系，硬核落地。"
+  },
+  {
+   "title": "OpenAI放弃数据中心保密协议，提升社区透明度",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "source": "The Verge AI",
+   "hot": 3,
+   "summary": "面对选民反对数据中心扩张，OpenAI宣布放弃相关NDA，对社区做出新透明度承诺。大厂与地方社区的博弈浮出水面。"
+  },
+  {
+   "title": "游戏业人士：认可AI提效，对生成内容仍谨慎",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40d0J3SVZTSUhvdUxZUFJXOGhRenhjeTJDd3ZmcElMSEZOWWZSdl94NHFVdTMxTjdIY3VPV3Z6bDZqMDBzTTZRY3AzUy02aldwMjc4Z3pyRjJuRUd2?oc=5",
+   "source": "3DM",
+   "hot": 3,
+   "summary": "多位游戏从业者表示AI确实提升了开发效率，但对直接面向玩家的生成内容仍持谨慎态度。效率工具好做，C端体验难平。"
+  }
+ ]
+}
