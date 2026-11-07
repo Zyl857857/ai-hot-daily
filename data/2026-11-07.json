@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07 11:01",
+ "llm": {
+  "provider": "deepseek",
+  "model": "deepseek-chat"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月07日\n\n💰 OpenAI又刷屏了！估值飙到1.25万亿美元，再融110亿美元，这数字看得人头皮发麻——AI资本竞赛根本没有刹车的意思。\n\n🕵️ 更炸裂的是，《纽约时报》曝中国情报机构招募AI高管监视黄仁勋，英伟达CEO被盯上？地缘政治和AI芯片的瓜，越吃越大。\n\n🏗️ 另一边，AI基建扩张惹众怒。荷兰抗议者直接爬上微软数据中心起重机，美国民众也压倒性反对建数据中心——AI的电力水资源账，终于有人算清楚了。\n\n🛒 双11把Token摆上货架，大模型调用额度成了囤货新品类。普通人要不要囤？这问题本身就很赛博。\n\n🚀 中国航天双喜临门：神舟二十四号将迎首位外籍航天员，巴基斯坦载荷专家确认参加，中国空间站首次中外联合飞行，排面拉满。\n\n⚡ 政策端也没闲着：国家能源局公示93个“人工智能+”能源试点，AI+媒体蓝皮书同步发布，AI落地实体经济按下加速键。\n\n🤖 技术圈小惊喜：Boson AI发布45B全双工模型，边听边看边说还能后台干活，实时多模态交互又卷出新高度。\n\n📉 最后提醒一句：纳指遭遇6年来最惨单日崩跌，AI股领跌。泡沫论又冒头了，追高的朋友系好安全带。\n\n#AI日报 #人工智能 #大模型 #OpenAI #AI基建",
+ "items": [
+  {
+   "title": "OpenAI估值飙至1.25万亿美元，再融110亿美元",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "source": "The Verge AI",
+   "hot": 5,
+   "summary": "OpenAI在新一轮融资中再筹110亿美元，估值达1.25万亿美元，成为全球最有价值初创公司之一；与此同时竞争对手Anthropic临近IPO，AI资本竞赛进入白热化。"
+  },
+  {
+   "title": "美媒曝中国招募AI高管监视黄仁勋，英伟达回应",
+   "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+   "source": "The Verge AI",
+   "hot": 5,
+   "summary": "《纽约时报》称中国情报机构招募Megaspeed高管Alice Huang监视英伟达CEO黄仁勋，事件涉及AI芯片巨头与地缘政治，引发广泛争议和关注。"
+  },
+  {
+   "title": "AI基建扩张引众怒：荷兰抗议者闯入微软数据中心工地",
+   "url": "https://www.ithome.com/1/023/650.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "百余名活动人士闯入微软荷兰在建数据中心，爬上起重机抗议AI基建的电力与水资源消耗；AI热潮背后的资源环境争议正从舆论走向街头行动。"
+  },
+  {
+   "title": "美国民众压倒性反对AI数据中心，AI未来堪忧？",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBacTN0ZlBmSzU4bHc5ZFhjT0x6eThfR0twRnpIWFl0UE1JbGFCdHpGcE5GZGxmdmktVFdkbDJ0ZkpVT3ozX3Q5ODlhMHI?oc=5",
+   "source": "凤凰网科技",
+   "hot": 4,
+   "summary": "调查显示多数美国民众否决人工智能数据中心建设，反映AI扩张与社区利益矛盾加剧，可能影响美国AI基础设施推进速度。"
+  },
+  {
+   "title": "双11把Token摆上货架，普通人要囤吗？",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LSHRnX1lUQlZPLTFnUV9hQ3hxNFhHRVB1cmJYTlhfVnBEb1hrMExjSWgwdTFEdFRvZGNaRnk5cjc2bHRzS1AtX2pad3J5MG9LOFp4VmJvaGtGT05OXzJlbGFucE1OQTJ3bFZxMmJiSnNmazVJX2FudlNEam1oUQ?oc=5",
+   "source": "手机新浪网",
+   "hot": 4,
+   "summary": "今年双11电商平台开卖AI Token（大模型调用额度），引发普通消费者是否该囤积的讨论；AI算力正以商品形式走进大众消费场景。"
+  },
+  {
+   "title": "中国空间站迎首位外籍航天员：巴基斯坦载荷专家参加神舟二十四号",
+   "url": "https://www.ithome.com/1/023/645.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "中国载人航天工程办公室宣布神舟二十四号将有1名巴基斯坦航天员以载荷专家身份参加，系中国航天史上首次中外航天员联合飞行。"
+  },
+  {
+   "title": "国家能源局公示93个“人工智能+”能源试点项目",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcUl3SUxtaFpxaGdGMHpzMUVIekpzYWpWNkE5MDJYV0lfTzZoeVVodEo5bmIxZ0ltMEJvaVkxc2ljSjJPVzd4ei1ad1MwdWJ2eWxFSmFXSHdQXzQ?oc=5",
+   "source": "国际风电网",
+   "hot": 3,
+   "summary": "国家能源局公示93个AI+能源试点项目，推动人工智能在能源领域落地；政策层面加速AI与实体经济融合，能源行业成重点方向。"
+  },
+  {
+   "title": "《“人工智能+媒体”蓝皮书（2026）》发布",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWlVQUEFmQXZWRGctMC1jSlpwZTg3eW5ESnd3bmdVWFM5WFlSTTNxZDRWbXctQzlYekp0c2toVzM4Z3RDdE9KQWdQOE5tZjl1ZHNuNHJ6VHFPMUEyR2lkV0lSSXd4QnAtT2dVSER0SjJtMHFSbGJCbU83T2UtV0xwWQ?oc=5",
+   "source": "新华网",
+   "hot": 3,
+   "summary": "新华网发布AI+媒体蓝皮书，系统梳理人工智能在媒体行业的应用与趋势；主流媒体加速AI化，内容生产与传播方式面临重构。"
+  },
+  {
+   "title": "Boson AI发布45B全双工模型Higgs Realtime Duplex：边听边看边说",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/",
+   "source": "Reddit r/MachineLearning",
+   "hot": 3,
+   "summary": "Boson AI推出45B MoE全双工模型，可同时听、看、说，并在后台思考、调用工具和委派任务；实时多模态交互能力再进一步。"
+  },
+  {
+   "title": "纳指股灾：美股6年来最惨单日崩跌，AI股领跌",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXRFF1QzEwZ0EyQlVtUEg1aHBzQnlTNzNOMFBwNTlZVmJ2RWhzZDNUVGk3M09aeUczRmdzd0Q5RUs3Wk9Fa1lyd0JTS3Q1NURRVG03NjdpaGRFS01WR3lNU29Wbjg1NDhQMG5XcEFZX09IckdkcUVSY29ZRzNudw?oc=5",
+   "source": "手机新浪网",
+   "hot": 4,
+   "summary": "美股遭遇6年来最惨单日崩跌，纳指重挫，AI相关股票大幅下挫；市场对AI估值泡沫的担忧升温，引发全球科技股震荡。"
+  }
+ ]
+}
