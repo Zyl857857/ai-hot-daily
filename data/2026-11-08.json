@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08 10:37",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月08日\n\n🕵️‍♂️ 窃密风云！美情报局曝高管潜伏监视英伟达CEO\n芯片巨头掌门人竟成间谍目标？科技圈无间道比电影还刺激，核心机密安全拉响警报！\n\n🛑 微软解散AI Frontiers研究组，大厂AI战略生变？\n前沿探索组说关就关，海外技术圈都炸了。微软这是要收缩战线，全力押注商业化变现了？\n\n🔍 离谱推荐有救了！新工具专查AI算法盲点\n受够了越推越离谱的算法？新工具EchoTrace专治AI的“瞎眼病”，以后推荐终于能靠谱点了！\n\n🐶 AI当起宠物营养师！大模型跨界玩出花\n连猫粮狗粮配方都让AI包了，这波跨界精准拿捏了铲屎官的钱包，普通人也能享受AI定制服务！\n\n🤖 “具身智能”上榜！2026年度十大科普热词揭晓\n从“词元”到“具身智能”，AI黑话已经全面入侵大众视野，不懂点AI词都不好意思冲浪了！\n\n🧮 芝加哥大学教授：AI时代，数学家也得会“画饼”？\n算题都让AI干了，以后数学家求职全靠讲故事和拼愿景？学术圈也逃不过拼软技能的宿命！\n\n💸 AI烧钱隐忧浮现，投资者如何避坑？\n算力军备竞赛烧钱太猛，回报却还没见着，资本也开始犯嘀咕：这泼天的富贵啥时候能变现？\n\n⚡ 算力就是电力！科技巨头已成能源投资主力\n搞AI搞到跑去投资电厂，科技大厂为了喂饱算力也是拼了，AI和能源已经深度死绑！\n\n🙏 佛度有缘人，也度AI？日本佛教界开始研究人工智能\n赛博诵经机要来了？连佛门清净地都开始研究AI，这跨界属实让人意想不到！\n\n🏺 千年窑火+AI，潮州陶瓷组团北上拓市场\n老祖宗的手艺配上新潮AI，传统制造这波转型思路太赞了，AI赋能实体又多了一个硬核案例！\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "窃密风云！美情报局曝高管潜伏监视英伟达CEO",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "source": "TechCrunch AI",
+   "hot": 5,
+   "summary": "美国情报局备忘录曝光，中国国安部招募一女科技高管监视英伟达CEO黄仁勋。芯片巨头核心机密安全拉响警报，引发全网热议。"
+  },
+  {
+   "title": "微软解散AI Frontiers研究组，大厂AI战略生变？",
+   "url": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "hot": 4,
+   "summary": "微软研究院确认关闭AI Frontiers研究组，引发海外技术圈热议。大厂前沿AI探索遇冷，资源或正向商业化倾斜。"
+  },
+  {
+   "title": "离谱推荐有救了！新工具专查AI算法盲点",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tdFg4bjRvMkhSOUh1M2xPS1pDbF95N3NvbVNCaHhLUnVzVmhqQmhwNElkeXlFaC14MU1IQU5scTRTWVY5Y2NlSHFrTkFMS1Q1eXItclZHNVFMS2N2bS1TeVJoWnk?oc=5",
+   "source": "아시아경제",
+   "hot": 4,
+   "summary": "针对AI推荐系统频出的“离谱推荐”，蔚山科学技术院开发出风险诊断工具EchoTrace。它能精准暴露算法盲点，让推荐更靠谱。"
+  },
+  {
+   "title": "AI当起宠物营养师！大模型跨界玩出花",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1OFRWenViMjFHWlN6X0lRQ2MzTXk4TC1BQWhmd2xKNm1aMlVBc09CcUt0WTRoZVlCSlcwTktBaU1NQU5wTUtZT2tuT1NNWkFZNWJzYnV5WGhhZDh1UzVaeThFdGZ2czU1?oc=5",
+   "source": "大众网",
+   "hot": 3,
+   "summary": "AI大模型正式进军宠物圈当起“配方师”，为毛孩子定制口粮。普通人也能享受AI带来的精细化生活服务，大模型应用越发接地气。"
+  },
+  {
+   "title": "“具身智能”上榜！2026年度十大科普热词揭晓",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qN0NyNkdYMXNZbFMzUDVIUTM2M25yYmMydjgtbnNYdXY0eWxtSk5EMWwzSmZ2RXpGeTVoa1NnbFpsSVlramJqa3dwdXQ2Sy16dzVfSDVmTjZHbnVRR3B3?oc=5",
+   "source": "新湖南",
+   "hot": 4,
+   "summary": "2026年度十大科普热词出炉，“词元”“具身智能”等AI相关词汇强势上榜。反映出AI核心概念已全面渗透公众认知。"
+  },
+  {
+   "title": "芝加哥大学教授：AI时代，数学家也得会“画饼”？",
+   "url": "https://www.ithome.com/1/023/859.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "芝加哥大学数学教授发文称，AI降低了研究门槛，未来招聘数学人才将更看重表达能力和研究愿景。学术圈也逃不过拼软技能的宿命。"
+  },
+  {
+   "title": "AI烧钱隐忧浮现，投资者如何避坑？",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lOXpkQnJYTHVwNXNFVFMzcTVHT1lYR1o5emVSZW8yaF9qU0ttd2RWZVZCeVFLQkhUa3JpQ1VtZEtrZWJzbnJxQ2tOM1pBc2RBZFFyVlh1UEpRM2U0S0o3eDBNcDdQUUloeUdGZnFEcHk?oc=5",
+   "source": "英为财情 Investing.com",
+   "hot": 3,
+   "summary": "随着AI基础设施支出越来越大，回报隐忧开始浮现。投资机构探讨在算力军备竞赛下，如何理性布局人工智能赛道。"
+  },
+  {
+   "title": "算力就是电力！科技巨头已成能源投资主力",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ydnRFUGg5Z0tyWG4wYXk5bDc4WF82b2wxaElwSDg0bDJVUXpSaTUwR2QwdVd0eGhuZHg2VG9PV2VTakxWR1FJT2dRbDJLQWNvUGNOSG1CRWlNaERFYU1OLS1TYVlGWmNwUXpfZnNoNnJIOElnZXo5Rmtiaw?oc=5",
+   "source": "北京市人民政府门户网站",
+   "hot": 3,
+   "summary": "2026能源转型大会指出，AI时代算力需求激增，科技企业正取代传统势力成为能源投资的重要力量。AI发展与能源深度绑定。"
+  },
+  {
+   "title": "佛度有缘人，也度AI？日本佛教界开始研究人工智能",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcnI1Ynp0SVlvV0xINWVhaTZ0VVRqalV5NDBvRjdlMGdOTE9XeGdGWElZbmxXTWp2eG1CZWtSanJUekV5eExSTTVGTTJkRUF5SWtkY3ZVSjNPTzlFVDBEeFBza3BQU0VLTWZ6VlBMVGtoOXc3WGRKSDE1VVRPS3M2V2ppaG4xYVdYQ3c?oc=5",
+   "source": "旅日侨网",
+   "hot": 3,
+   "summary": "日本佛教人士正式开始研究人工智能，探讨科技与信仰的边界。AI的影响力已渗透到传统精神领域，引发跨界遐想。"
+  },
+  {
+   "title": "千年窑火+AI，潮州陶瓷组团北上拓市场",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2N0YjhOZlBOR25aVk5fTjdIUFROalBOUzI3elgzVjlYcTRfdU0tZjF4YUtYZnBXUFpkNFVETzNfNEpWV3BhQ1c3eU5ncTFLMVdCQmd0cE0yc21YbzFkVU1iMk1RSzRzbjdPT2Z1RjVGeXZzTi0zdE9kVFVxSzJRT0owTQ?oc=5",
+   "source": "手机新浪网",
+   "hot": 2,
+   "summary": "传统产业拥抱AI再添案例，潮州陶瓷将千年工艺与人工智能结合，组团拓展华北市场。老手艺焕发新机，AI赋能实体又添实证。"
+  }
+ ]
+}
