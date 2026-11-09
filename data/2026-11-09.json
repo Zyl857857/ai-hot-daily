@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09 10:49",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月09日\n\n🚀 210万亿Token！全球大模型周调用榜单出炉，中国拿下前五中四席\nDeepSeek三连霸榜，腾讯混元空降第四，国产大模型这波赢麻了！\n\n💰 Anthropic拟于本周启动IPO路演\nOpenAI的最强对手要上市了，AI独角兽正式冲击资本市场，搞钱搞事两不误。\n\n🛡️ 特朗普：AI风险可控，但不介意设置监管护栏\n对AI监管态度大转弯？懂王愿意和民主党一起给AI加“护栏”了。\n\n💔 微软逐步终止与甲骨文的AI云算力租赁合作\n算力联姻生变！两大巨头分手，全球AI算力租赁市场怕是要大洗牌。\n\n🤥 埃森哲报告被曝虚假引用，公司否认系AI幻觉所致\n出现假案例却甩锅说不是AI幻觉，AI写报告的锅到底谁来背？\n\n⚡ “黄仁勋冲击”波及半导体与AI监管？产业界紧盯\n老黄的影响力大到让业界发慌，芯片格局和监管政策可能都要变天。\n\n🆓 LG AI免费开放K-EXAONE 2.5模型API\n大模型API免费潮席卷海外，开发者白嫖的快乐又多了一分！\n\n🚗 上汽奥迪世界模型全场景辅助驾驶将亮相\n“世界模型”上车！智驾技术卷向新维度，13号看奥迪放大招。\n\n📉 AI板块抛售波及亚洲市场，股市大幅下挫\n华尔街打个喷嚏亚洲就感冒，AI概念股退潮，近期投资得悠着点。\n\n⚠️ 澳洲联储：AI或加大金融稳定风险，短期推升通胀\n官方发话了，AI不仅没马上提效，还可能推高通胀、增加金融风险？\n\n#AI日报 #人工智能 #大模型 #AI应用 #科技热点",
+ "items": [
+  {
+   "title": "210万亿Token！全球大模型周调用榜单出炉，中国拿下前五中四席",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBieDhZeWtEWkJRckN5dkJxY0k3Smd1RkVYRkdYVzZkUjZKN3VldnBRU3VLcUFtU1E5V2UxZ2JNcmY1eXJBNEFRQVFBa1c0S3ZkRHhid0hacGlnbE1MUVYzNlZiY3ZSdw?oc=5",
+   "source": "www.mrjjxw.com",
+   "hot": 5,
+   "summary": "全球AI大模型周调用量达210万亿Token，中国产品霸榜前五中的四席，DeepSeek连续三周领跑，腾讯混元Hy4发布即跻身第四。国产大模型在全球市场的统治力正在飙升。"
+  },
+  {
+   "title": "Anthropic拟于本周启动IPO路演",
+   "url": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "知名AI初创公司Anthropic计划本周启动IPO路演。作为OpenAI的最强对手之一，此举标志着AI大模型独角兽正式冲击资本市场，行业迎来新里程碑。"
+  },
+  {
+   "title": "特朗普：AI风险可控，但不介意设置监管护栏",
+   "url": "https://www.ithome.com/1/024/071.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "美国总统特朗普表示AI带来的风险是可控的，对监管措施持开放态度，愿意与民主党合作设置“护栏”。这与其此前支持科技公司自我监管的态度有所转变。"
+  },
+  {
+   "title": "微软逐步终止与甲骨文的AI云算力租赁合作",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MdjlkYWFPaFk0dmh3cHlCU0xUV0NNSmM4eEdaNnZQZVZsYmVIVW0zdnE2b2U1MEd5bDQ0Z3BWVkR1UDROM0xtVlRRTVRQREpTQ2Vsdl94ZmJoeGlsR185ZXpNeURPNVV2RnBERUxjRXRlOURWYlhaSmJCa2VhZw?oc=5",
+   "source": "手机新浪网",
+   "hot": 4,
+   "summary": "消息称微软正在逐步终止与甲骨文的AI云算力租赁合作协议。两大巨头的算力联姻生变，或重塑全球AI算力租赁市场的格局。"
+  },
+  {
+   "title": "埃森哲报告被曝虚假引用，公司否认系AI幻觉所致",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2MDFfRXZscm9pR1U1ZmNYV3RHNjRwWHRmZkFTMDNOb0xoc0N3bjRLSWJOZTRXeGdwcDJWa0Z2QnY2QzctM1BzR3hScllONlFpNGtCVGJPaG5pZF8zdnE1cnJsQXRTaWYyVHlILTAtUGUtZw?oc=5",
+   "source": "手机新浪网",
+   "hot": 4,
+   "summary": "埃森哲一份报告被曝存在虚假引用案例引发热议，但公司否认这是AI幻觉导致的。AI生成内容的可信度与合规风险再次成为焦点。"
+  },
+  {
+   "title": "“黄仁勋冲击”波及半导体与AI监管？产业界紧盯",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAteGs4NGtidzBDWFNIXzFLckU1V1ZGNWFhdHktYmswYmFmaDBjV3FYdkZBRzV6UUhmZldnaDVURVdLcUFkVmxGNHRmMndhbW56enlkbjRJRThEdk1Dc0tfZkVJOVI?oc=5",
+   "source": "아시아경제",
+   "hot": 4,
+   "summary": "随着英伟达及黄仁勋在AI芯片领域的绝对影响力，业界担忧“黄仁勋冲击”会引发半导体格局巨变及更严格的AI监管，后续影响备受瞩目。"
+  },
+  {
+   "title": "LG AI免费开放K-EXAONE 2.5模型API",
+   "url": "https://www.ithome.com/1/024/069.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "LG AI研究院宣布对外免费开放其K-EXAONE 2.5模型的API，任何开发者及企业均可无付费应用。大模型API免费潮席卷海外，进一步降低开发门槛。"
+  },
+  {
+   "title": "上汽奥迪世界模型全场景辅助驾驶将亮相",
+   "url": "https://www.ithome.com/1/024/067.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "上汽奥迪宣布AUDI DAY 2026定档11月13日，届时基于“世界模型”的全场景辅助驾驶将正式亮相。世界模型上车，智驾技术卷向新维度。"
+  },
+  {
+   "title": "AI板块抛售波及亚洲市场，股市大幅下挫",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmtZS0w2d1RaMG9YbjI1OS1GNUo2WWVGVm5RS3AxblJ1M1NKZUtmck5QejJSU05kbkdGN2x6ejktaldUckRYLTBJM3pWbFJLa1pjcUZHaGRhbjd0SkhBWF9tQUtqejlFbEp5WHpTekxfLU00S2VMemRWMXBUSmJZNEQtWDZUTVBfNHRXY2F6VHNKSlFNZkJ2S205ekZPUWR2TGhaMVVadFZWZ1FQTkFrWGUwX2tXejJTZXlWb056MFNUMUk?oc=5",
+   "source": "Moomoo",
+   "hot": 3,
+   "summary": "受华尔街重挫后AI板块抛售情绪影响，亚洲市场迎来大幅下挫。AI概念股的宏观金融风险开始显现，市场情绪趋于谨慎。"
+  },
+  {
+   "title": "澳洲联储：AI或加大金融稳定风险，短期推升通胀",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtS3ctSXlrOVhoTGlGTEJZckRFMkpjU2RiQXdCS29wanJ3clVId2hCUHlNbmxRTjZNcEFfWUkzRmVQNGxHSF94WXR2OWtRdGFQb2dXNjRYMTlmWGdUTndfMG53?oc=5",
+   "source": "观点网",
+   "hot": 3,
+   "summary": "澳洲联储助理主席亨特指出，AI可能会加大金融稳定风险，并在短期内推升通胀。官方机构对AI的宏观经济副作用提出预警。"
+  }
+ ]
+}
