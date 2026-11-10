@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10 12:43",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月10日\n\n🎬 陈建斌谈AI替代：好演员永远不会失业\nAI抢饭碗焦虑蔓延到演艺圈？老戏骨一针见血：实力才是硬道理，烂演技在哪都得失业！\n\n🚀 原今日头条CEO陈林离职，筹备AI教育创业\n大厂高管转身再创业又添一例！陈林离开字节搞AI教育，大模型落地教育赛道要起风了？\n\n🚗 深蓝G318乾崑版明日上市，搭载华为智驾\n华为智驾全家桶再添猛将！硬派越野配上ADS 5 Pro和鸿蒙座舱，国产新能源卷向新高度。\n\n💻 华为鸿蒙小折叠电脑MateBook Fold S亮相\n鸿蒙生态正式杀入PC赛道！小折叠形态+Live小方屏，华为这波AI PC新形态拉满期待值。\n\n💰 Anthropic最快本周启动IPO路演\nAI圈重磅炸弹！Claude背后的Anthropic终于要上市了，港股AI概念已提前狂欢，大模型上市潮来袭。\n\n🩺 AI赋能早期肺癌诊疗更精准，获上海市科学技术奖\nAI看病真不是噱头！早期肺癌被AI看得更准、治得更好，拿下科技奖，这才是科技向善的最佳代言。\n\n🤝 英伟达出手扶持四家韩国AI初创企业\n黄仁勋全球生态布局再落子！英伟达亲自下场扶持海外初创，算力霸主的护城河越挖越深了。\n\n🔥 2026年度十大科普热词：人工智能+、智能体上榜\n全民AI时代实锤了！“人工智能+”、“智能体”强势霸榜，连科普热词都被AI承包，趋势不可逆。\n\n🤖 Codex掌机开卖，网友却在疯狂催更GPT-6.2\n硬件圈大事件硬是变成了大模型狂欢！掌机开卖没人理，全网都在等OpenAI放GPT-6.2大招，太真实了。\n\n⚠️ Airbnb房东用AI合成图恶意索赔被识破\nAI造假新套路上线！用AI生成损坏图片坑房客，技术滥用防不胜防，以后出门住宿可得长点心了。\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "陈建斌谈AI替代：好演员永远不会失业",
+   "url": "https://www.ithome.com/1/024/750.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "陈建斌在金鸡电影论坛发声，认为AI不会让好演员失业，只会淘汰劣质演员，引发关于AI替代人类创意的讨论。"
+  },
+  {
+   "title": "原今日头条CEO陈林离职，筹备AI教育创业",
+   "url": "https://www.ithome.com/1/024/748.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "陈林首次公开承认离开字节跳动，创办AI教育公司“小鹿爱学”，大厂高管转身AI赛道再添一例。"
+  },
+  {
+   "title": "深蓝G318乾崑版明日上市，搭载华为智驾",
+   "url": "https://www.ithome.com/1/024/744.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "深蓝新车搭载华为乾崑ADS 5 Pro与鸿蒙座舱，华为智驾阵营再扩容，智能汽车竞争白热化。"
+  },
+  {
+   "title": "华为鸿蒙小折叠电脑MateBook Fold S三色亮相",
+   "url": "https://www.ithome.com/1/024/742.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "华为官宣鸿蒙小折叠电脑11月14日预订，搭载Live小方屏，鸿蒙生态向PC端再迈一步。"
+  },
+  {
+   "title": "Anthropic最快本周启动IPO路演，AI独角兽上市潮来袭",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zNFJQNTI2blpMd2hkWmZING5iandqRnBFeWRoZmlwbXlQVUF1YkRsaVE5aVlBQ0NHSXllYTB5cG1uOUNkaERwX2QxSkotT0dSQjF1WFMtc1RRRWJvdUE?oc=5",
+   "source": "证券之星",
+   "hot": 5,
+   "summary": "知名AI公司Anthropic计划本周启动IPO路演，港股AI概念应声集体走强，AI行业迎来上市潮。"
+  },
+  {
+   "title": "AI赋能早期肺癌诊疗更精准，获上海市科学技术奖",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3J6Q01KZmtUc3V6N0lLSmVIakxHUXQtb0RkTktQY2UxY0hyZHZmMzNaeVV0ZUpDWk1UTnBHQzQyQ0Z3UWxOZzhPeVkwRzJDVzJvbmtsU1dIcGhORzNvQXN6TWphZEhOME1kc3JLV01IMnJ0OXVEd3pfVWg3aElld3BB?oc=5",
+   "source": "手机新浪网",
+   "hot": 3,
+   "summary": "AI医疗落地见效，人工智能技术让早期肺癌“看得更准、治得更好”，获2025上海市科学技术奖认可。"
+  },
+  {
+   "title": "英伟达出手扶持四家韩国AI初创企业",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcXdHSzI0ODU4cWZhUG9Ockg0WlJfWXFQcWxjem5WWFBobkM5Y0RveWFFNmxrc2RqMXdWTmE3alVYMTE5TDI5SUxkYW94WHBWVWxqRmtBYW1qUE9OZFpIajJPSE4yUlluMk1EbkdpRy00Q1BPVS1kRW1ZSTNTQVl5SjJORWlKc3VwMDhnSGJxdnhDWHNWdF8tQ3hYNEIyRXFfWG1KNDlSLXh6VUhpYWc?oc=5",
+   "source": "Moomoo",
+   "hot": 3,
+   "summary": "英伟达在合作论坛后宣布支持四家韩国AI初创，持续加码全球AI生态布局，抢占海外开发者心智。"
+  },
+  {
+   "title": "2026年度十大科普热词：人工智能+、智能体上榜",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzI1SVVRenZGUTcyTHZjNGp1VjhWWWZrOGZsSUI1QVNPMXJXbkFvNElUemhIZ2huTE1ILWh1aFRQSy1Sb3hRTERMb0UxMmtheGFmYWJ4MmJfWGpVWm45VUlDaWtwbkFEMGQwUFhyMFJFUXVGV205SXQtVVJaOFBnaGtGaWFhdGJWR0xOVA?oc=5",
+   "source": "搜狐网",
+   "hot": 3,
+   "summary": "年度科普热词揭晓，“人工智能+”、“智能体”、“词元”等AI相关词汇强势上榜，反映全民AI趋势。"
+  },
+  {
+   "title": "Codex掌机开卖，网友却在疯狂催更GPT-6.2",
+   "url": "https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "硬件Codex掌机突然开卖，但全网焦点却在催更GPT-6.2，大模型迭代速度已成为全网最牵肠挂肚的悬念。"
+  },
+  {
+   "title": "Airbnb房东用AI合成图恶意索赔被识破",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOHhmbkxXekE3bk9wSTJtU3k3YmZJUnFMbmlIdkhzR1ZISWMxQnJOZHgwaEFzV2hHb0pKbmJvU1l3V21Qclo5SkRCV2FmTHNTdnlRenhtb2RGaGZiUS1FVzM4bjVZbmJzVXh1SmRuc1lfaGw1ekZYMTdKZ3NseUpIdHp4YmE2VkZmTmFmT1ZiMG9NUExxUXdxVGhraUdjemJSVTNCZHYtREdhVGpuY0taLTdYSE9ua3ZmRXNfYjJIeEpyZHRweVFVNV9NRVlHOU1CZGhVSVkwcHNtMGNIVVJj?oc=5",
+   "source": "SBS",
+   "hot": 4,
+   "summary": "澳洲曝出Airbnb房东用AI生成损坏图片向房客索赔，AI作恶新套路引发对技术滥用与取证难的担忧。"
+  }
+ ]
+}
