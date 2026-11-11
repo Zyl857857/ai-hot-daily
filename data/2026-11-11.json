@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11 10:54",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月11日\n\n🚀 阿里千问大模型Qwen4即将发布：国产大模型又卷出新高度！Agentic能力大进阶，预览版1折尝鲜，开发者的狂欢节来了。\n✨ 谷歌Gemini 4 Carbon正式上线：大模型之战进入拼落地的下半场！目前仅付费用户可用，这波门槛拉满了。\n💻 AMD发布AI编程平台Instinct Coder：本地跑GLM-5.3拿捏98%性能，不用云端也能爽，企业级开发又有新利器！\n💰 Anthropic开启澳洲散户IPO：万亿大模型巨头敲钟上市，AI圈的造富神话即将上演，但监管收紧的紧箍咒也在念。\n📱 华为星芒手机品牌定档11月20日发布：余总已换新机，OSTA新品牌+享界V8同台首发，华为生态版图再添猛将！\n💃 华为官宣杨幂任鸿蒙折叠电脑大使：小折叠MateBook Fold S预订在即，科技圈也懂流量密码，这波跨界期待住了！\n🚗 理想OTA 8.7.0推送：VLA智驾能切风格，还能用眼神指挥泊车方向，车机越来越像老司机了，这更新太实用！\n🎮 微软AI超分Auto SR正式登场：掌机帧率狂飙至120FPS，Xbox玩家狂喜，AI拯救画质的魔法成真了！\n🛒 23部门联合发文加快AI+消费：政策强心针来了！从买用到好用，普通人拥抱智能生活更有底气，消费赛道要起飞。\n💍 Oura 6亿美元收购AI保健公司：智能戒指+AI医疗，可穿戴赛道砸钱搞深度融合，你的私人健康管家已上线！\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "阿里千问大模型Qwen4即将发布",
+   "url": "https://www.ithome.com/1/025/301.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "阿里巴巴官宣新一代大模型Qwen4即将发布，预览版已上线。知识理解与Agentic能力大幅进阶，限时1折体验。"
+  },
+  {
+   "title": "谷歌Gemini 4 Carbon正式上线",
+   "url": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "hot": 5,
+   "summary": "谷歌最新大模型Gemini 4 Carbon今日正式上线，但目前仅限付费用户使用，非付费用户还需等待。"
+  },
+  {
+   "title": "AMD发布AI编程平台Instinct Coder",
+   "url": "https://www.ithome.com/1/025/305.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "AMD推出企业级AI辅助编程平台Instinct Coder 355，支持本地运行GLM-5.3，实现前沿模型98%性能，企业级AI开发再添利器。"
+  },
+  {
+   "title": "Anthropic开启澳洲散户IPO",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMUNXZTVVcWExdF92WDl4NThZX2xNd1ktRnRyZkpmXzRFREd4SXlqbE9JQ0lGdTYtV2VYdzNwaVhSSTlOZmtBVjhvYkRGdnBqQ2l0dHJ6TkItRHlfU0RFbHBoTzNYQVBSNFRQRHl5UmNZazBXMUFVYkwwYkRabHI4S3g5dnVRc01Jc3NKUA?oc=5",
+   "source": "Sohu",
+   "hot": 4,
+   "summary": "AI大模型巨头Anthropic在澳洲开启散户IPO，万亿级AI公司上市步伐加快，但监管收紧也为赛道带来变数。"
+  },
+  {
+   "title": "华为星芒手机品牌定档11月20日发布",
+   "url": "https://www.ithome.com/1/025/313.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "华为全新品牌OSTA星芒手机官方微博上线，发布会定档11月20日，余承东已换上新机，鸿蒙智行享界V8也将同场发布。"
+  },
+  {
+   "title": "华为官宣杨幂任鸿蒙折叠电脑大使",
+   "url": "https://www.ithome.com/1/025/307.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "华为官宣杨幂出任鸿蒙折叠电脑先锋大使，全新小折叠MateBook Fold S将于11月14日开启预订，搭载Live小方屏。"
+  },
+  {
+   "title": "理想OTA 8.7.0推送：VLA可切换驾驶风格",
+   "url": "https://www.ithome.com/1/025/308.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "理想汽车开启OTA 8.7.0推送，VLA模型新增驾驶风格切换，并支持眼镜指挥泊车方位控制，智驾体验更个性化。"
+  },
+  {
+   "title": "微软AI超分Auto SR正式登场",
+   "url": "https://www.ithome.com/1/025/311.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "微软AI超分辨率技术Auto SR正式推出，兼容华硕ROG Xbox掌机及部分AMD机型，帧率最高可达120FPS，掌机游戏体验大升级。"
+  },
+  {
+   "title": "23部门联合发文加快AI+消费",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QUFFmem9wb2lSbHpzOWJ4UjZyZUkwUy02WW5vSkxKMXJWNmp1eDIweXYzWTAtTEFqbG5ZSWVtcTllNVFwTUJ5M2l3?oc=5",
+   "source": "凤凰网",
+   "hot": 4,
+   "summary": "23部门联合发文，浙江加快“人工智能+消费”发展，政策强力推动AI落地普通消费场景，智能化生活方式迎来利好。"
+  },
+  {
+   "title": "Oura 6亿美元收购AI保健公司",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zczl1bmRjNjdUMkFtRUNrMFdOaXVHYTc1VVhJZU5ib1M0a3VlMU5DdWR0TGFrZWxodjk1a3R4NzVCMjZ2UjZ4SndfX2tHUjNyOS1hVTFNUXR6ZnpGUV9SdlZfLUNISXJSYVMtVFFNYm4wb285NXlIY1NZc3ctN00?oc=5",
+   "source": "手机新浪网",
+   "hot": 3,
+   "summary": "智能戒指巨头Oura斥资6亿美元收购AI保健公司Counsel Health，可穿戴设备与AI医疗深度融合，个人健康监测再升级。"
+  }
+ ]
+}
