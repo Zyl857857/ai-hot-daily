@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12 11:58",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月12日\n\n🚫 腾讯裁员50%？官方火速辟谣：纯属误读！大厂组织优化虽是常态，但网传裁员8000人纯属社交媒体过度解读，大家吃瓜不信瓜~\n🧠 百度发布昆仑芯M300明年见！李彦宏直言推理算力需求大爆发，随着智能体规模化，AI芯片的增长引擎已经换挡。\n🍉 黄仁勋深陷婚外情风波，马斯克火速吃瓜伸橄榄枝：雇他是我的荣幸！老黄若真被解雇，芯片圈怕是要迎来十级地震。\n💰 Mac版ChatGPT上线财务功能！直连银行查消费盯投资，让AI当你的私人CFO，这波实用度拉满，普通人离AI管家又近一步。\n🇬🇧 英国AI芯片Fractile拿下7.2亿美金融资，估值冲破70亿美元！欧洲正砸重金扶植本土芯力量，试图在英伟达的阴影下撕开口子。\n🤝 豆包工作大更新，接入Kimi和DeepSeek等第三方模型！字节这波格局打开，按量计费机制也跟上，大模型API平台化混战彻底白热化。\n⚖️ 训练AI生成淫秽图片牟利，开发者直接获刑！技术绝不是法外之地，AI滥用红线再次敲响警钟，合规底线绝不能碰。\n🔮 李彦宏断言：AI的下一幕是智能组织！从单兵作战的智能体走向人机协同的组织形态，未来的工作方式将被彻底重构。\n🇨🇳 “十五五”规划定调：深化拓展“人工智能+”行动！国家战略持续加码，AI向千行百业深度落地已成未来五年不可逆的绝对主线。\n🎬 金鸡奖首次设立AI单元！影视圈拥抱AI不再遮遮掩掩，从幕后特效到前沿创作，AI+电影的跨界融合正成为行业新共识。\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "腾讯裁员50%？官方辟谣：纯属误读！",
+   "url": "https://www.ithome.com/1/026/001.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "针对网传“腾讯裁员8000人/50%”，知情人士辟谣称完全不属实。系腾讯28周年内部会提及组织变革被社交媒体误读，引发全网恐慌，及时辟谣稳住军心。"
+  },
+  {
+   "title": "百度昆仑芯M300明年推出，发力推理算力",
+   "url": "https://www.ithome.com/1/025/971.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "百度世界2026上李彦宏宣布昆仑芯M300明年推出。随着智能体规模化，推理算力需求大爆发，百度正押注AI推理芯片的长期增长。"
+  },
+  {
+   "title": "黄仁勋深陷风波，马斯克喊话：雇他是我的荣幸",
+   "url": "https://www.ithome.com/1/025/970.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "英伟达CEO黄仁勋因婚外情风波面临解雇压力，网友喊话马斯克接盘，马斯克亲自下场回应“将是我的荣幸”。芯片巨头人事地震引发行业热议。"
+  },
+  {
+   "title": "Mac版ChatGPT上新！AI替你管账查消费盯投资",
+   "url": "https://www.ithome.com/1/025/934.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "OpenAI宣布ChatGPT Finances功能扩展至Mac桌面端。用户可连接银行、信用卡等账户，让AI直接分析消费、管理订阅和跟踪投资，AI个人管家时代来了。"
+  },
+  {
+   "title": "英国AI芯片独角兽Fractile估值冲上70亿美元",
+   "url": "https://www.ithome.com/1/025/927.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "英国AI芯片初创Fractile完成超7.2亿美元C轮融资，估值达70亿美元，并获英国政府主权基金支持。欧洲正全力扶持本土AI芯片抗衡英伟达。"
+  },
+  {
+   "title": "豆包工作大更新：接入Kimi、DeepSeek等第三方大模型",
+   "url": "https://www.ithome.com/1/025/926.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "字节跳动豆包工作重磅更新，打破仅用自研模型限制，接入Kimi K3.1 Pro、DeepSeek V4.1等第三方模型，并上线按实际消耗计价机制，大模型平台化混战加剧。"
+  },
+  {
+   "title": "用AI生成淫秽图片牟利，开发者获刑！",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnMXAwMUt3eHVJb3RzTldJV3U4eGtDbXBGb0JqdWxha0NtbVJRYkk3RkRnYU9vZWxOT0lQcUhHd0ZpV29ZM1BKemNuTUxUVVk0UmhvbWw3SmlndWVGTHMzcFRTekV3eW9meUgxYko3Q1FKMjMtTW5EVVB5WkVGTFk?oc=5",
+   "source": "手机新浪网",
+   "hot": 4,
+   "summary": "国内典型利用AI模型训练生成淫秽图片并牟利的案件宣判，开发者获刑。AI技术滥用红线再次敲响警钟，合规与安全底线不容触碰。"
+  },
+  {
+   "title": "李彦宏断言：人工智能的下一幕是“智能组织”",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0cklHeUl3eGJHa0VuUVFmRmRfNExBbGpwLTlnY1FncUx2OExRZldkWjk2a2V5azdKbnJzTHEwNXFZRWg1Wm0wcmlRWkRnVDIxZnlKRWFkd3pfSFNpZy05VGRnMjdXdngyOUFKVWpCdFA?oc=5",
+   "source": "新浪网",
+   "hot": 4,
+   "summary": "在百度世界大会上，李彦宏发表前瞻观点，认为AI的下一幕不仅是智能体，更是“智能组织”。人机协同的组织形态将彻底重构生产力。"
+  },
+  {
+   "title": "“十五五”规划定调：深化拓展“人工智能+”行动",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzZjNDTVp1VGYyYWtvbmV0ZlIzQUhwSDJuSGNlQlBlQmI1NlRxRWlFOVhYVVNOZjBrMHlwZVlFM2g2d1otNmxwdWNNQTA3S1BhSXctUUVOUUNMMVdQalZxTS1XTUZtNWpl?oc=5",
+   "source": "中国新闻网",
+   "hot": 5,
+   "summary": "官方明确“十五五”时期我国将深化拓展“人工智能+”行动。国家级战略持续加码，AI向千行百业深度落地已成未来五年不可逆转的趋势。"
+  },
+  {
+   "title": "金鸡奖首次设立AI单元，电影+AI成新风向",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMTM3QWM0Z25UV0NFWWZDa3hvR3JQbFpiNXh4ZUdWUlhZSnRJUE5VQnVFdkVSMEZweVR1Uy00R01mYm92ZExwY2ltUHhlM0ZqNVZYck5PQTFxNG1GX241elhRYjNiSWU3MmtTTjRQZVJYWmo0ZUc1M2ZNQW10ZXlpLUtJRnVqTlFKT2J5eE1vQnFmWFAydGw5YTNjVEpYb0h0SS1ZMlpyaHE4NEJwa0NXYUZucEMwXzJiUWxvOWpjanUyZDRxbGNXanp4aElEV1ljYkx5M1ZmajNabW1iZGI2ZUhLYms3SExFT2ZzcW00ZjNaRENnSWM4UFdRLVM?oc=5",
+   "source": "新浪财经",
+   "hot": 3,
+   "summary": "本届金鸡奖首次设置人工智能单元，展现AI介入电影创作的新气象。影视与AI的跨界融合正从幕后走向台前，成为行业共识。"
+  }
+ ]
+}
