@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13 11:30",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月13日\n\n👑 黄仁勋接班人曝光？苹果芯片大拿纳入英伟达CEO考察\n老黄谢幕余震不断！董事会已经盯上了苹果Mac芯片负责人斯鲁吉。如果真让苹果大拿接盘，英伟达的皮衣文化怕是要变天了？\n\n🎵 关停5年虾米App以AI形态回归！阿里快乐虾米上线\n爷青回！虾米音乐关停5年后借AI还魂，化身AI音乐创作平台重新上线，会员每月30元起。阿里这波用AI打情怀牌，你买单吗？\n\n🚗 华为乾崑智驾ADS5上车！2027款岚图知音19.79万上市\n智驾军备竞赛再升温！896线激光雷达+ADS 5.0直接拉满，车位到车位智驾不到20万就能拿下，华为这是要把高阶智驾卷进平价车！\n\n🏢 李彦宏：人工智能的下一幕是智能组织\n别光顾着卷大模型了！百度掌门人发声定调，认为AI重塑企业组织形态才是下一幕的重头戏。打工人，你们的组织要变智能了？\n\n⚡ 拒绝转嫁成本！微软承诺AI扩张电费自己买单\nAI算力狂飙的背后是恐怖的耗电！微软终于表态：不拿政府补贴，也不让普通用户分摊电费。大厂搞AI，电费自己扛，这态度必须点赞！\n\n🏆 苏姿丰获评“年度最佳CEO”，AMD发文祝贺\n苏妈又拿大奖！雅虎财经评选年度最佳CEO，苏姿丰实至名归。在芯片双雄博弈的关键期，AMD势头强劲，硬刚英伟达更有底气了。\n\n💡 国家级试点！中国能建9个“AI+”能源项目入选\nAI+能源动真格了！9个项目一口气入选国家级试点，传统行业的智能化转型不再是纸上谈兵，AI落地按下了加速键。\n\n🧒 OpenAI砸200万美元用于儿童AI安全研究\nAI狂飙也别忘安全底线！OpenAI掏出200万美元专项研究儿童AI安全。随着AI渗透进未成年人生活，大厂的必答题必须先交卷。\n\n🏫 芝加哥学校向Google发难：宁失搜索也不被迫接受AI\n强制塞AI功能遭反噬！芝加哥学校硬刚科技巨头，宁愿不要搜索也不接受AI绑架。教育界的抵触情绪爆发，AI推广真不能硬来。\n\n📈 中芯国际：AI需求有望拉长半导体上行周期\nAI芯片需求远超预期！中芯国际发声看好半导体周期拉长，国产芯片终于等来AI时代的泼天富贵，这波红利稳了？\n\n#AI日报 #人工智能 #大模型 #黄仁勋 #智驾",
+ "items": [
+  {
+   "title": "黄仁勋接班人曝光？苹果芯片大拿纳入英伟达CEO考察",
+   "url": "https://www.ithome.com/1/026/555.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "英伟达董事会已启动新CEO物色，苹果Mac芯片负责人斯鲁吉被列为潜在人选。黄仁勋离任让AI芯片霸主迎来不确定性。"
+  },
+  {
+   "title": "关停5年虾米App以AI形态回归！阿里快乐虾米上线",
+   "url": "https://www.ithome.com/1/026/551.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "阿里巴巴旗下AI音乐创作平台快乐虾米正式登陆双端，以AI生成音乐为核心，会员每月30元起。经典IP借AI重生。"
+  },
+  {
+   "title": "华为乾崑智驾ADS5上车！2027款岚图知音19.79万上市",
+   "url": "https://www.ithome.com/1/026/536.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "搭载新一代华为896线激光雷达与乾崑智驾ADS5，支持全场景泊车与车位到车位辅助驾驶，智驾军备竞赛再升温。"
+  },
+  {
+   "title": "李彦宏：人工智能的下一幕是智能组织",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tSkVQY1FJZ0V5MFY1R09OaWkzX2htcTNHTmt6X01KMnNCdlVmdVFSSTNTeVpVTjZmcXRFUFZrNnVUbWd2SWNPeGxvQnY4LVJiQldiVlJYVGxxWVZjbG1EWjFpRlE3b0JkT1J1cW9oVXBpQ0JFS3NTTElwcEtPdw?oc=5",
+   "source": "手机新浪网",
+   "hot": 3,
+   "summary": "李彦宏发声指出AI发展新方向，认为智能组织将成为下一幕主角，引发行业对AI重塑企业形态的思考。"
+  },
+  {
+   "title": "拒绝转嫁成本！微软承诺AI扩张电费自己买单",
+   "url": "https://www.ithome.com/1/026/533.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "微软承诺不依赖政府补贴、不增加其他用户成本为AI数据中心供电。AI算力狂飙背后的巨额能耗问题迎来大厂表态。"
+  },
+  {
+   "title": "苏姿丰获评“年度最佳CEO”，AMD发文祝贺",
+   "url": "https://www.ithome.com/1/026/532.htm",
+   "source": "IT之家",
+   "hot": 3,
+   "summary": "苏姿丰被雅虎财经评为年度最佳CEO，其带领AMD在2026年改变游戏规则。芯片双雄博弈期，AMD势头强劲。"
+  },
+  {
+   "title": "国家级试点！中国能建9个“AI+”能源项目入选",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zOWhSN1RMM0RBb0pNbXNJczhhaUMycGVDRkNIa0M5eDRrQ3dSV245YVFPTE9oNEh1cmdNeFNHTkVvRTVaRkx6T0llUEhtOEI3ZWx6czdIX1Nzdw?oc=5",
+   "source": "国际风电网",
+   "hot": 3,
+   "summary": "中国能建9个项目入选国家级人工智能试点，AI与传统能源行业的深度融合进入落地加速期。"
+  },
+  {
+   "title": "OpenAI砸200万美元用于儿童AI安全研究",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wUUItTmlyM0puZE5saDc1ZDJvclNPTnY1VTNCMXdqZlhvUjVGV2hweDJrS1daQzBLMzZYMVlpR0EtWXhPWEQyQXM5eXVqZjdLVWRyTkxMUFltM1M1R1ViNEtXR3BIVV9EeUhYVw?oc=5",
+   "source": "blockchain.news",
+   "hot": 4,
+   "summary": "OpenAI承诺投入200万美元专项研究儿童AI安全。随着AI渗透未成年人生活，安全与伦理成大厂必答题。"
+  },
+  {
+   "title": "芝加哥学校向Google发难：宁失搜索也不被迫接受AI",
+   "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+   "source": "Hacker News",
+   "hot": 4,
+   "summary": "芝加哥学校向Google强硬表态，宁愿失去搜索服务也不愿被强制塞入AI功能。教育界对AI侵入的抵触情绪爆发。"
+  },
+  {
+   "title": "中芯国际：AI需求有望拉长半导体上行周期",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpbHp3MGhPMi1LOElWOWhoVkVVZDdMVlpyVC12M3VpZTdvRWRpbHdGcUtWT0ZSMEJkVmQ3dFVZeVJuSE1FM3B0R0xMOA?oc=5",
+   "source": "新浪网",
+   "hot": 3,
+   "summary": "中芯国际表示人工智能对配套芯片的需求超出预期，有望拉长半导体行业上行周期，国产芯片迎AI红利。"
+  }
+ ]
+}
