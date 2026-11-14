@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14 11:26",
+ "llm": {
+  "provider": "glm",
+  "model": "glm-4.6"
+ },
+ "report_text": "📅 今日AI热点速览 | 2026年11月14日\n\n🤖 Anthropic大升级：Claude Code支持并行AI Worker自动运行\nAI编程助手现在能自己同时开多线程干活了，全程不用人管，程序员真要变成监工了？\n\n🛒 亚马逊野心：计划索引全球在线购物数据\n连别家平台的商品也不放过，亚马逊想建全网最全AI购物知识库，电商搜索格局要变天！\n\n✈️ 全球最大业载无人货运飞机W5000试飞成功\n低空经济迎来重磅玩家！这架巨无霸无人货运机试飞成功，以后跨城急件可能全靠它了。\n\n🍎 苹果首发智能家居中枢HomeView，屏幕暗到0.3尼特\n比夜黑还黑！屏幕极致暗光专为卧室伴睡设计，苹果这波终于要跟智能音箱们硬碰硬了。\n\n🔥 李彦宏发声：人工智能的下一幕是智能组织\n别只盯着智能体了，李厂长放话：未来整个公司形态都会被AI重构，全链路智能化才是终局！\n\n🛑 全美航班停飞，FAA人工智能系统疑为故障源头？\n超万架次航班瘫痪，虽然懂王说不是AI的锅，但AI接管空管的容错率问题，确实让人捏把汗。\n\n⚡ AI抢夺能源！正将比特币矿工挤出巴拉圭\n算力霸权正演变成抢电大战！AI出价更高，直接把矿工挤走，AI的电力饥渴正在重塑全球能源版图。\n\n🦸 AI赋能“一人公司”，雄安集聚超级个体\n一个人+一堆AI工具就能运转一家公司？超级个体时代真不是画饼，创业门槛已经被AI踩在脚下了。\n\n💊 百万CAR-T抗癌药入选商保目录，患者自付大降\nAI加速研发的天价救命药终于进商保了，自付大幅下降，这是实打实的科技向善，给医保局点赞！\n\n🇪🇺 马克龙召集科技会议，欧洲誓要科技自主\n中美神仙打架，欧洲不想只当吃瓜群众！马克龙亲自摇人，AI时代的第三极要发力了。\n\n#AI日报 #人工智能 #大模型 #科技热点 #AI应用",
+ "items": [
+  {
+   "title": "Anthropic大升级：Claude Code支持并行AI Worker自动运行",
+   "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+   "source": "Hacker News",
+   "hot": 4,
+   "summary": "Anthropic升级Claude Code项目，支持无手动干预的并行AI Worker。这意味着AI编程助手能同时处理多任务，大幅提升开发效率，AI自动化再进一步。"
+  },
+  {
+   "title": "亚马逊野心：计划索引全球在线购物数据",
+   "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "source": "The Verge AI",
+   "hot": 4,
+   "summary": "亚马逊计划建立一个涵盖全网所有商品的数据库，即使不在亚马逊售卖。这若实现，将是全球最全购物知识库，AI电商搜索格局或将巨变。"
+  },
+  {
+   "title": "全球最大业载无人货运飞机W5000试飞成功",
+   "url": "https://www.ithome.com/1/027/068.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "白鲸航线W5000大型无人货运飞机在内蒙古成功完成技术验证试飞。作为全球最大业载无人货运机，其落地将极大降低物流成本，低空经济迎来重磅玩家。"
+  },
+  {
+   "title": "苹果首发智能家居中枢HomeView，屏幕暗到0.3尼特",
+   "url": "https://www.ithome.com/1/027/066.htm",
+   "source": "IT之家",
+   "hot": 5,
+   "summary": "苹果首款智能家居中枢HomeView亮相，屏幕最低亮度仅0.3尼特，被高管戏称“最暗苹果产品”。极致暗光体验专为卧室场景设计，苹果正式杀入智能家居深水区。"
+  },
+  {
+   "title": "李彦宏发声：人工智能的下一幕是智能组织",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3dYdDhIbWJIXzhqQ1NFTnlJUTVsYVBSV2l2X1UzQ0hsSWVyTEUyTjc5WGRoNFY4V3M4QkxyRnFEeWJzY2hNSklpTUpiMnh3WVE3Y0RlbElqbUR6S3RpQ1FrdzMwS0FUMWl5cS05NkphUU1ZRjlGRGFiQkJHekhLMzV5cnRZSThO?oc=5",
+   "source": "Sohu",
+   "hot": 4,
+   "summary": "百度李彦宏提出新论断，认为AI的下一幕不仅是智能体，更是“智能组织”。这预示着企业形态将因AI发生根本性重构，从单点提效走向全链路智能化。"
+  },
+  {
+   "title": "全美航班停飞，FAA人工智能系统疑为故障源头？",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51RThuVThzZ1UtOVVPTElZdzJIaWl4NG44VFYyR2JkXzRZMzFGblBlX0J0UkpXcFByOHc1dGNUS1BYLUxkcGZsSGktODdrc3g5ZVE?oc=5",
+   "source": "凤凰网",
+   "hot": 5,
+   "summary": "美国突发超万架次航班延误或取消，虽特朗普称非AI所致，但FAA的AI系统仍在调查中。AI介入关键基础设施的安全性再引争议，容错率问题不容忽视。"
+  },
+  {
+   "title": "AI抢夺能源！正将比特币矿工挤出巴拉圭",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFZ2V2VFblNDNTFOX2lOMGFlQ0oyejFwdHZuQ0lwWFozRXpPeV9TYkVqOFEyNHAyYVFzV3NtNUJxbVo3dUZrYVlub2JWQzFxVzhQWE81MGtKdS1wWFFJSTl0bEUwekpGTjJSVEZWbDM5a3pNMXpxcm5zZ01JLVFLYkotV3dYQlJ6bm4wWDNNMWJmUTFmNmgwNW41YVFJTHhNWi1hSQ?oc=5",
+   "source": "Moomoo",
+   "hot": 5,
+   "summary": "比特币矿工每年向巴拉圭支付3.5亿美元，但AI算力中心正凭借更强支付能力将他们挤出。算力争霸演变为能源争夺，AI的电力饥渴正在重塑全球能源分配。"
+  },
+  {
+   "title": "AI赋能“一人公司”，雄安集聚超级个体",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYjcwR0JRWVRCMmcyOGJ6elNzTG1ZM0tEdnRMcWJlT0ZRXzloZURwc3ExbW5PNWFGdFZqMzBVWnBRVm1JYzFNUWh2X00yeXY2NkpSZVZra05XNjU4X1pCUzBVeEV3YkpJYnRIMTlEWUptX1RRWWk0Y1gzWHdKMFBOS0tVN1V5WnVu?oc=5",
+   "source": "Sohu",
+   "hot": 3,
+   "summary": "雄安中关村正集聚“一人公司”创新星火。AI极大降低了创业门槛，一个人加一堆AI工具就能运转一家公司，“超级个体”时代正在到来。"
+  },
+  {
+   "title": "百万CAR-T抗癌药入选商保目录，患者自付大降",
+   "url": "https://www.ithome.com/1/027/061.htm",
+   "source": "IT之家",
+   "hot": 4,
+   "summary": "2026商保创新药目录扩容，百万元CAR-T抗癌药及血友病基因治疗药入选。AI加速新药研发的成果正快速惠及患者，天价救命药不再遥不可及。"
+  },
+  {
+   "title": "马克龙召集科技会议，欧洲誓要科技自主",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqQldwazl4SUFfY1M4UExfWXp1ZE9JdExxU29JLWFXUVYzRkpiX3YxTi0zdFN6VEZESkJqbGRDV1FNYVVoemxZb1J1Qi1BRERjTlF3bG9VZjgzQThjSHc?oc=5",
+   "source": "36Kr",
+   "hot": 4,
+   "summary": "面对中美科技博弈，马克龙召集科技企业会议推动欧洲科技自主。欧洲不愿只做看客，AI时代的第三极力量正在酝酿反击。"
+  }
+ ]
+}
